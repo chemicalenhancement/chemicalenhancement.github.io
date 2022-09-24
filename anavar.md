@@ -3,7 +3,7 @@ revision_id: 05f72574-d605-11e6-80d5-1267abb448ce
 revision_date: 1483922774
 ---
 
-#Anavar (Oxandrolone)
+# Anavar (Oxandrolone)
 
 **Pharmaceutical Name:** Oxandrolone 
 
@@ -19,7 +19,7 @@ Oxandrolone was designed as an extremely mild anabolic, one that could be safely
 
 For bodybuilders and strength athletes, the mild nature of oxandrolone is a definite draw to the compound. The lack of aromatization of the compound makes it ideal for cutting cycles as there is little bloat to deal with. Oxandrolone does not reduce body fat itself, but can play a major role in the maintenance of lean mass while dieting. Strength increases are also common and mixed with less than dramatic weight gains, the compound is very beneficial to athletes participating in sports that have weight divisions or where extra weight can be a hindrance.
 
-##Use/Dosing
+## Use/Dosing
 
 Similar to nearly all oral anabolic steroids oxandrolone's half-life is quite short with frequent doses of the drug being needed to be taken to ensure that blood levels remain fairly constant. Oxandrolone is relatively quick to be metabolized by the body with concentrations of the drug falling rapidly after ten to eighteen hours after administration^3 . This would indicate that at least two doses should be taken per day so that blood levels of the compound remain stable and that no major flucuations occur.
 
@@ -29,7 +29,7 @@ Due to the relatively mild nature of the drug, oxandrolone is also a favorite of
 
 As discussed later, due to the unique nature of oxandrolone and it's relatively mild nature in terms of hepatotoxicity, this compound can be run far longer than other 17 alpha alkylated oral steroids. Cycles of the compound lasting ten to twelve weeks are not uncommon, with some users extending their cycles of the drug further. Of course, risks still remain. They are however less substantial than if a user was administering a more toxic compound.
 
-##Side Effects/Risks
+## Side Effects/Risks
 
 Oxandrolone does not aromatize or convert to DHT and therefore hair loss should not be a concern with this compound. It causes little or no virilization properties, somewhat surprising since oxandrolone does not aromatize either. This of course is one of the major reasons why this steroid is so popular with female athletes.
 
@@ -39,7 +39,7 @@ Liver enzymes will likely rise while a user is taking this compound, however the
 
 This would seem to indicate, as stated earlier, that oxandrolone can be run safely for longer periods of time than most other 17 alpha alkylated oral steroids. However, liver damage is still a possibility and precautions should be taken. Also, Oxandrolone has been shown to have a negative effect on users' blood lipid profiles, another indication that long terms use of the compound should be avoided^4 . 
 
-##Bridging with Anavar: Is it possible?
+## Bridging with Anavar: Is it possible?
 
 Similar to methandrostenolone, there are some individuals that suggest Oxandrolone can be used in small doses to "bridge" between cycles. The theory that is proposed tries to argue that by taking a small dose of Oxandrolone upon awakening, this will provide an anabolic "boost" to an individual's natural testosterone levels, help combat catabolism, all while supposedly not interfering with the recovery of the HPTA. When one looks at the evidence, it is apparent however that this theory is not based on any credible information.
 
@@ -47,11 +47,11 @@ The fact that Oxandrolone can be suppressive to the HPTA even at small doses for
 
 It is for this reason that running Oxandrolone as an attempt to "bridge" between cycles will not aid in maintaining muscle mass during PCT while allowing your HPTA to recover.
 
-##Related Topics
+## Related Topics
 
 [Anavar and lipid levels.](http://www.reddit.com/r/steroids/comments/1ozurh/holy_cholesterol_my_advice_for_all_the_beginners/)
 
-##References
+## References
 
 1. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition, pp.76-8*
 2. *Demling RH, Orgill DP., The anticatabolic and wound healing effects of the testosterone analog oxandrolone after severe burn injury., J Crit Care 2000 Mar;15(1):12-7*
