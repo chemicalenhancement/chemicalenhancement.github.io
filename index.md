@@ -9,11 +9,11 @@ The r/steroids Wiki provides a unique and comprehensive compendium of knowledge 
 
 [View the traffic statistics](http://www.reddit.com/r/steroids/about/traffic/) or [growth tracking](http://redditmetrics.com/r/steroids) for r/steroids at any time.
 
-## Please Read The [Community Goals, Responsibility, &amp; Rules](/r/steroids/wiki/index/subreddit_rules) prior to posting or participation.
+## Please Read The [Community Goals, Responsibility, &amp; Rules](/index/subreddit_rules) prior to posting or participation.
 
 ## Critical Thinking
 
-Participation in this sub and with this habit requires one to execute [critical thinking](https://www.reddit.com/r/steroids/wiki/critical_thinking) very well, to determine truth from falsehood. Practice daily for best results.
+Participation in this sub and with this habit requires one to execute [critical thinking](critical_thinking) very well, to determine truth from falsehood. Practice daily for best results.
 
 # 🎗TABLE OF CONTENTS
 
@@ -44,6 +44,7 @@ Participation in this sub and with this habit requires one to execute [critical 
 * [|--- Compound Experience Directory](compound_experience_threads)
 * [**Blood Work**](/bloodwork/list)
 * [|--- Health Markers Defined](/bloodwork/health_markers)
+* 
 {:toc}
 
 ##Helpful Links
@@ -333,7 +334,7 @@ Androgen usage in teens increases the risk of gyno. Gyno has already been known 
 
 Just as seen in adolescents, the side effects seen in women can be **permanent**. AAS can lower voice, facial hair growth, and induce clitoral enlargement. For this reason, AAS administration to women must be used very cautiously, at more conservative doses, but is possible. 
 
-For more information please visit the [Women's Wiki Page](https://www.reddit.com/r/steroids/wiki/women) and visit r/steroidsxx for specialized advice for women.
+For more information please visit the [Women's Wiki Page](women) and visit r/steroidsxx for specialized advice for women.
 
 ## Tips For Interpreting Scientific Studies
 
@@ -345,7 +346,7 @@ Another factor of course is how relevant the research is. Was it in mice? Was it
 
 One interesting area is the reference section. Here you can find yourself valuable information on studies that might be more relevant to what you want. Throughout the text assertions are made that are backed up by prior research. This is then referred to the reference section.  PubMed is wonderful at this as there are related citations to the right side. 
 
-##References
+## References
 
 * [Testosterone dose-response relationships in healthy young men](http://ajpendo.physiology.org/content/281/6/E1172.long)
 
