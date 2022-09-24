@@ -17,7 +17,7 @@ Participation in this sub and with this habit requires one to execute [critical 
 
 # 🎗TABLE OF CONTENTS
 
-* [**The Community**](/r/steroids/wiki/index/subreddit_rules)
+* [**The Community**](/index/subreddit_rules)
 * [**Overview / Index** (This Page)](/r/steroids/wiki)
 * [|--- Frequently Asked Questions (FAQ)](/r/steroids/wiki/faq/list)
 * [|--- Medicinal Uses](/r/steroids/wiki/medicinal/list)
