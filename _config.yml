@@ -1,10 +1,11 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
 title: /r/Steroids Wiki
 description: TODO
 markdown: GFM
 highlighter: rouge
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
