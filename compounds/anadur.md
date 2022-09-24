@@ -3,7 +3,7 @@ revision_id: 293be8be-921c-11e4-9e68-22000b318277
 revision_date: 1420161037
 ---
 
-#Anadur
+# Anadur
 
 **Nandrolone Hexyloxyphenylpropionate** (C_18 H_26 O_2)
 
@@ -17,7 +17,7 @@ revision_date: 1420161037
 
 **Detection Time**: Up to 18 months
 
-##Use/Dosing
+## Use/Dosing
 * Effective Dose (Men): 200-600mgs/week (2mg/lb of Bodyweight)
 * Effective Dose (Women): 50-100mgs/week
 
@@ -27,12 +27,12 @@ Anadur is a very compatible steroid which improves the general condition and wel
 
 Since it is nandrolone, so it will have the same effect as deca on the joints.
 
-##Side Effects/Risks
+## Side Effects/Risks
 When taking 50-100 mg every 10 days some women normally show no virilization symptoms but it has been shown that only a few weeks of such use will result in some irreversible virilization for some women. They like to combine Anadur with Winstrol tablets, Primobolan S-tablets, or Oxandrolone. Men do not have to take antiestrogens since Anadur aromatizes only lightly and only in rare cases does it lead to gynecomastia. The side effects of Anadur are even less than those of Deca-Durabolin. Liver damage can be excluded so that it can even be taken by people with liver disease. Virilization symptoms such as acne, hoarseness, deep voice, hirsutism, and increase in libido only occur, if at all, in very sensitive women. A higher blood pressure, due to a low water and salt retention, cannot be excluded but rarely occurs.
 
 The use of testosterone stimulating compounds such as HCG or Clomid is not necessary since Anadur influences the hypothalamohypophysial testicular axis only slightly so that the endogenous testosterone production is not significantly reduced and the risk of a spermatogenic inhibition is minimal.
 
-##Related Posts
+## Related Posts
 http://www.reddit.com/r/steroids/comments/2qalbx/sotd_part_2_anadur_longer_lasting_drier_less_side/
 
-##References
+## References
