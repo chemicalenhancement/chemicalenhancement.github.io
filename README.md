@@ -1,1 +1,3 @@
-## Welcome to Github Pages
+## /r/Steroids Wiki
+
+https://chemicalenhancement.github.io/
