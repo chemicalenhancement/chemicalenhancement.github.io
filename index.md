@@ -15,7 +15,7 @@ The r/steroids Wiki provides a unique and comprehensive compendium of knowledge 
 
 Participation in this sub and with this habit requires one to execute [critical thinking](https://www.reddit.com/r/steroids/wiki/critical_thinking) very well, to determine truth from falsehood. Practice daily for best results.
 
-#🎗TABLE OF CONTENTS
+# 🎗TABLE OF CONTENTS
 
 * [**The Community**](/r/steroids/wiki/index/subreddit_rules)
 * [**Overview / Index** (This Page)](/r/steroids/wiki)
@@ -44,6 +44,7 @@ Participation in this sub and with this habit requires one to execute [critical 
 * [|--- Compound Experience Directory](/r/steroids/wiki/compound_experience_threads)
 * [**Blood Work**](/r/steroids/wiki/bloodwork/list)
 * [|--- Health Markers Defined](/r/steroids/wiki/bloodwork/health_markers)
+{:toc}
 
 ##Helpful Links
 
