@@ -3,3 +3,12 @@ title: /r/Steroids Wiki
 description: TODO
 markdown: GFM
 highlighter: rouge
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - INDEX.md
+  - README.md
+
