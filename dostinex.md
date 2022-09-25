@@ -3,7 +3,7 @@ revision_id: 32c31830-ecd8-11e6-810f-0e32f510b502
 revision_date: 1486432399
 ---
 
-#Cabergoline (Dostinex)
+# Cabergoline (Dostinex)
  
 **Drug Classification:** Dopamine-Receptor Agonist
 
@@ -21,7 +21,7 @@ The anabolic steroids that can lead to excessive levels of prolactin are primari
 
 A secondary factor in controlling the levels of prolactin in users of anabolic steroids is the amount of circulating estrogen in their systems. Estrogen has an apparent positive effect on the amount of prolactin produced, with the more estrogen that is produced being related to the amount of prolactin that is produced accordingly. Essentially estrogen stimulates the secretion of prolactin via the disruption of the inhibitory effect of dopamine^10 . For this reason often times prolactin can be controlled by way of the reduction of estrogen levels. Use of aromatase inhibitors can be used for this purpose. However when prolactin levels reach a point where a reduction of estrogen levels does not inhibit excessive prolactin secretion enough, administration of cabergoline should be sufficient to inhibit any further overproduction.
 
-##Use/Dosing
+## Use/Dosing
 
 Due to the extremely long active life of the drug, approximately seven days, users only have to administer their doses once or twice per week to see good results. In terms of the dosing that healthy individuals would need to use to suppress prolactin levels raised by their use of anabolic steroids, anecdotally many users report seeing their best results with dosing in the range of one half of a milligram to one and a half milligrams of cabergoline per week. This dose range should be sufficient for the majority of users but larger doses can be used as there appears to be little worry for users in terms of toxicity except at extremely high doses that would be impractical to administer unintentionally^11,12 .
 
@@ -29,7 +29,7 @@ Cabergoline reaches its peak plasma concentration within two to three hours if a
 
 In terms of the duration of time that users can administer cabergoline, there is very little research that has been completed on the subject. As will be discussed in the Risks/Side Effects portion of this profile below there are some indications that there may be risk factors involved in the long term use of the drug but no definitive conclusions can be made. However, at least in terms of the short term finding, it appears that cabergoline is a relatively safe drug for use by healthy adults for long periods of time. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 When compared to the other most popular dopamine-receptor agonist bromocriptine mesylate, cabergoline is seemingly better tolerated and at least as efficient, if not more so, at reducing prolactin levels in users^7,14 . Although bromocriptine mesylate is relatively free of any significant negative side effects users often complain of serious stomach discomfort and other additional gastrointestinal problems while taking the drug. Cabergoline has shown a far smaller propensity to produce this effect. However there are still those that find the drug causes reactions such as stomach upset, vomiting and nausea among some users but less frequently then with bromocriptine mesylate.
 
@@ -37,7 +37,7 @@ Due to the fact that cabergoline is a relatively new drug there is little long t
 
 Although for the most part cabergoline will not be used or be beneficial for women in a bodybuilding/strength athletics sense, the drug itself has been found not to be harmful to women. In fact, it has been shown that cabergoline will not negatively impact fertility in women long term or short term. There is even some evidence that use of the drug during pregnancy should not have any negative impacts^18 , although this should most definitely be considered a risky undertaking for normally healthy women and should always be used in consultation with a medical doctor.
 
-##References
+## References
 
 1. *Nakatsuka A, Nagai M, Yabe H, Nishikawa N, Nomura T, Moritoyo H, Moritoyo T, Nomoto M. Effect of clarithromycin on the pharmacokinetics of cabergoline in healthy controls and in patients with Parkinson's disease. J Pharmacol Sci. 2006 Jan;100(1):59-64.*
 2. *Selvarajah D, Webster J, Ross R, Newell-Price J. Effectiveness of adding dopamine agonist therapy to long-acting somatostatin analogues in the management of acromegaly. Eur J Endocrinol. 2005 Apr;152(4):569-74.*
