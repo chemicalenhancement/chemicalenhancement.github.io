@@ -5,7 +5,7 @@ revision_date: 1602852154
 
 # Oxytocin
 
-&gt; *Dr. Cousin envisions that oxytocin—already the key ingredient in the drug Picotin, administered to induce labor—will* **overtake traditional hormone replacement therapy** *as the* **go-to antiaging treatment** *for women and men*.
+> *Dr. Cousin envisions that oxytocin—already the key ingredient in the drug Picotin, administered to induce labor—will* **overtake traditional hormone replacement therapy** *as the* **go-to antiaging treatment** *for women and men*.
 
 – *Trust hormone oxytocin helps old muscle work like new* ^[1](https://www.sciencedaily.com/releases/2014/06/140610112751.htm)
 
@@ -21,7 +21,7 @@ Oxytocin plays a number of biological functions influencing aging, social bondin
 
 [Is Oxytocin “Nature’s Medicine”?](https://pharmrev.aspetjournals.org/content/72/4/829)
 
-&gt;Oxytocin is a pleiotropic peptide hormone with broad implications for general health, adaptation, development, reproduction, and social behavior. Endogenous oxytocin and stimulation of the oxytocin receptor support patterns of **growth**, **resilience**, and **healing**. Oxytocin can function as a **stress**\-**coping** molecule, an **anti**\-**inflammatory**, and an **antioxidant**, with protective effects especially in the face of adversity or trauma. 
+>Oxytocin is a pleiotropic peptide hormone with broad implications for general health, adaptation, development, reproduction, and social behavior. Endogenous oxytocin and stimulation of the oxytocin receptor support patterns of **growth**, **resilience**, and **healing**. Oxytocin can function as a **stress**\-**coping** molecule, an **anti**\-**inflammatory**, and an **antioxidant**, with protective effects especially in the face of adversity or trauma. 
 
 ['Trust hormone' oxytocin helps old muscle work like new](https://www.sciencedaily.com/releases/2014/06/140610112751.htm)
 

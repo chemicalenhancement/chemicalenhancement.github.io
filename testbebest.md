@@ -138,17 +138,17 @@ The veins in my shoulders have been visible before, but during front raises toda
 1/19/14
 End of week 4 update. Just going to do a quick stats and progress picture update for those who are interested. I'll post what I measured at the beginning, followed by what I've measured at week 4, and have the difference in parentheses. 
 
-Weight 191.2lbs--&gt;190.8lbs (-0.4lbs)
+Weight 191.2lbs-->190.8lbs (-0.4lbs)
 
-Bodyfat 11.7%--&gt;10% (-1.7%)
+Bodyfat 11.7%-->10% (-1.7%)
 
-Waist 35.5"--&gt;34.5" (-1")
+Waist 35.5"-->34.5" (-1")
 
 Arms 15.25" (no change)
 
-Chest 42"--&gt;41.5" (-0.5")
+Chest 42"-->41.5" (-0.5")
 
-Quads 25"--&gt;24.5" (-0.5")
+Quads 25"-->24.5" (-0.5")
 
 Forearm 12.25" (no change)
 

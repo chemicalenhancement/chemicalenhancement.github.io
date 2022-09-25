@@ -154,13 +154,13 @@ If none of this helps, anecdotally, Cialis (10-15mg ED) has been known to help.
 
 **According to the CDC:**
 
-&gt; **Aspiration** - Aspiration is the process of pulling back on the plunger of the syringe prior to injection to ensure that the medication is not injected into a blood vessel. Although this practice is advocated by some experts, the procedure is not required because no large blood vessels exist at the recommended injection sites."
+> **Aspiration** - Aspiration is the process of pulling back on the plunger of the syringe prior to injection to ensure that the medication is not injected into a blood vessel. Although this practice is advocated by some experts, the procedure is not required because no large blood vessels exist at the recommended injection sites."
 
 **STTI International Nursing Research Congress Vancouver, July 2009:**
 
-&gt;"Aspiration is not indicated for SC injections."
+>"Aspiration is not indicated for SC injections."
 
-&gt;"Aspiration is not indicated for IM injections."
+>"Aspiration is not indicated for IM injections."
 
 **Organizations which state aspiration is not necessary:**
 
@@ -207,17 +207,17 @@ How Fast Should I Inject?
 
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2362190/
 
-&gt;In conclusion, the results of this study confirm that anastrozole does not affect the pharmacokinetics of tamoxifen when the two drugs are given in combination to post-menopausal women with early breast cancer. In addition, the oestradiol suppressant effects of anastrozole appear unaffected by tamoxifen.
+>In conclusion, the results of this study confirm that anastrozole does not affect the pharmacokinetics of tamoxifen when the two drugs are given in combination to post-menopausal women with early breast cancer. In addition, the oestradiol suppressant effects of anastrozole appear unaffected by tamoxifen.
 
 http://publications.icr.ac.uk/629/
 
-&gt;As a result of (a) the lack of effect of anastrozole on tamoxifen and DMT levels and (b) the observed fall in blood anastrozole levels having no significant effect on oestradiol suppression by anastrozole, we conclude that the observed reduction in anastrozole levels by tamoxifen is unlikely to be of clinical significance when anastrozole and tamoxifen are administered together.
+>As a result of (a) the lack of effect of anastrozole on tamoxifen and DMT levels and (b) the observed fall in blood anastrozole levels having no significant effect on oestradiol suppression by anastrozole, we conclude that the observed reduction in anastrozole levels by tamoxifen is unlikely to be of clinical significance when anastrozole and tamoxifen are administered together.
 
 The actual [ATAC trial](https://mywebspace.wisc.edu/lbjohnson2/Reading%20List/ATAC.pdf) that this information comes from. Pharmacokinetic details can be found [here](http://www.nature.com/bjc/journal/v85/n3/pdf/6691925a.pdf)
 
 http://www.nature.com/bjc/journal/v85/n3/pdf/6691925a.pdf
 
-&gt;"...the observed fall in blood anastrozole levels having no significant effect on oestradiol suppression by anastrozole, we conclude that the observed reduction in anastrozole levels by tamoxifen is unlikely to be of clinical significance when anastrozole and tamoxifen are administered together."*
+>"...the observed fall in blood anastrozole levels having no significant effect on oestradiol suppression by anastrozole, we conclude that the observed reduction in anastrozole levels by tamoxifen is unlikely to be of clinical significance when anastrozole and tamoxifen are administered together."*
 
 ###Q: Can Nolvadex (Tamoxifene) and Letrozole be used together?
 
@@ -225,9 +225,9 @@ http://www.nature.com/bjc/journal/v85/n3/pdf/6691925a.pdf
 
 https://pdfs.semanticscholar.org/e492/c9fb67a771779ac3be19faf14ea3b458e03a.pdf
 
-&gt; Pharmacokinetic analyses of the combination of tamoxifen and letrozole have revealed that these drugs interact, resulting in letrozole concentrations approximately 35-40% lower than when letrozole is used alone.  
-&gt;...  
-&gt; ...letrozole has no impact on tamoxifen concentrations.
+> Pharmacokinetic analyses of the combination of tamoxifen and letrozole have revealed that these drugs interact, resulting in letrozole concentrations approximately 35-40% lower than when letrozole is used alone.  
+>...  
+> ...letrozole has no impact on tamoxifen concentrations.
 
 ###Q: Does Aromasin need to be taken with fat?
 
@@ -235,34 +235,34 @@ https://pdfs.semanticscholar.org/e492/c9fb67a771779ac3be19faf14ea3b458e03a.pdf
 
 http://www.rxlist.com/aromasin-drug.htm
 
-&gt;Exemestane is freely soluble in N, N-dimethylformamide, soluble in methanol, and practically insoluble in water
+>Exemestane is freely soluble in N, N-dimethylformamide, soluble in methanol, and practically insoluble in water
 
 http://www.rxlist.com/aromasin-drug/indications-dosage.htm
 
-&gt;the recommended dose of AROMASIN is 50 mg once daily after a meal.
+>the recommended dose of AROMASIN is 50 mg once daily after a meal.
 
 
 http://www.drugs.com/monograph/aromasin.html
 
-&gt;High-fat meal increases plasma exemestane concentrations by approximately 40%.
+>High-fat meal increases plasma exemestane concentrations by approximately 40%.
 
 http://labeling.pfizer.com/showlabeling.aspx?id=523
 
-&gt;Absorption: Following oral administration of radiolabeled exemestane, at least 42% of radioactivity was 
+>Absorption: Following oral administration of radiolabeled exemestane, at least 42% of radioactivity was 
 absorbed from the gastrointestinal tract. Exemestane plasma levels increased by approximately 40% after a high-fat 
 breakfast. 
 
 http://www.drugs.com/monograph/aromasin.html
-&gt;Dosages &gt;25 mg daily not shown to provide substantially greater suppression of plasma estrogens but may increase adverse effects
+>Dosages >25 mg daily not shown to provide substantially greater suppression of plasma estrogens but may increase adverse effects
 
 ##HGH
 
 ###Does using HGH shut down natural HGH production?
 
 **Answer:** 
-&gt;The mechanism by which chronic exposure to hGH leads to tolerance, dependence, and a withdrawal syndrome is unclear and does not involve the suppression of hormone secretion. During the nadir of growth velocity, which follows the withdrawal of prolonged drug therapy, serum GH levels remain normal, as do serum IGF-I and IGF-binding protein-3 levels (4). Moreover, endogenous pulsatile secretion of GH resumes within days even after long-term hGH therapy (7).
+>The mechanism by which chronic exposure to hGH leads to tolerance, dependence, and a withdrawal syndrome is unclear and does not involve the suppression of hormone secretion. During the nadir of growth velocity, which follows the withdrawal of prolonged drug therapy, serum GH levels remain normal, as do serum IGF-I and IGF-binding protein-3 levels (4). Moreover, endogenous pulsatile secretion of GH resumes within days even after long-term hGH therapy (7).
 
-&gt;http://press.endocrine.org/doi/full/10.1210/jcem.87.8.8721
+>http://press.endocrine.org/doi/full/10.1210/jcem.87.8.8721
 
 ##General
 
@@ -273,7 +273,7 @@ Temporarily, yes, it does.  However, not ejaculating will eventually decrease th
 **A research on the relationship between ejaculation and serum testosterone level in men.**  
 http://www.ncbi.nlm.nih.gov/pubmed/12659241
 
-&gt;The purpose of this study is to gain understanding of the relationship between ejaculation and serum testosterone level in men. The serum testosterone concentrations of 28 volunteers were investigated daily during abstinence periods after ejaculation for two phases. The authors found that the fluctuations of testosterone levels from the 2nd to 5th day of abstinence were minimal. On the 7th day of abstinence, however, a clear peak of serum testosterone appeared, reaching 145.7% of the baseline ( P &lt; 0.01). No regular fluctuation was observed following continuous abstinence after the peak. Ejaculation is the precondition and beginning of the special periodic serum testosterone level variations, which would not occur without ejaculation. The results showed that ejaculation-caused variations were characterized by a peak on the 7th day of abstinence; and that the effective time of an ejaculation is 7 days minimum. These data are the first to document the phenomenon of the periodic change in serum testosterone level; the correlation between ejaculation and periodic change in the serum testosterone level, and the pattern and characteristics of the periodic change.
+>The purpose of this study is to gain understanding of the relationship between ejaculation and serum testosterone level in men. The serum testosterone concentrations of 28 volunteers were investigated daily during abstinence periods after ejaculation for two phases. The authors found that the fluctuations of testosterone levels from the 2nd to 5th day of abstinence were minimal. On the 7th day of abstinence, however, a clear peak of serum testosterone appeared, reaching 145.7% of the baseline ( P &lt; 0.01). No regular fluctuation was observed following continuous abstinence after the peak. Ejaculation is the precondition and beginning of the special periodic serum testosterone level variations, which would not occur without ejaculation. The results showed that ejaculation-caused variations were characterized by a peak on the 7th day of abstinence; and that the effective time of an ejaculation is 7 days minimum. These data are the first to document the phenomenon of the periodic change in serum testosterone level; the correlation between ejaculation and periodic change in the serum testosterone level, and the pattern and characteristics of the periodic change.
 
 ###Are American military personnel tested for steroids?
 
@@ -287,7 +287,7 @@ Steroids are not part of the standard drug panel. However, users should be aware
 
 http://www.ncbi.nlm.nih.gov/pubmed/6406387
 
-&gt;The response of genital and gonadal growth during the first year of treatment with human growth hormone (hGH) was studied in 20 boys with isolated growth hormone deficiency (IGHD) (11 of hereditary origin and 9 sporadic cases). Prior to hGH treatment, 13 of the 15 prepubertal boys had a penis length below the normal mean, 3 of which were more than 2 SDS below the mean. The boys with hereditary IGHD had a greater deficit in penile size than did the sporadic cases. hGH treatment improved the penile length in all but two boys aged 14 and 15 yr, and led to growth up to normal size in the three boys with very small penises. Three of the hereditary IGHD patients had subnormal testes and all of the other prepubertal boys had a testicular volume in the normal range. hGH treatment increased testicular size, particularly in the prepubertal boys. Of three additional untreated adults with IGHD, one had a subnormal-size penis and two had penises of low-normal size. Our findings constitute further evidence that hGH deficiency is associated with decreased penile growth and, to some extent, decreased testicular size, and that hHG treatment improves the growth of the genitalia and gonads. Since these effects were also observed in prepuberty, it seems that not all the hGH or, rather, somatomedin effect on sex organs is androgen mediated.
+>The response of genital and gonadal growth during the first year of treatment with human growth hormone (hGH) was studied in 20 boys with isolated growth hormone deficiency (IGHD) (11 of hereditary origin and 9 sporadic cases). Prior to hGH treatment, 13 of the 15 prepubertal boys had a penis length below the normal mean, 3 of which were more than 2 SDS below the mean. The boys with hereditary IGHD had a greater deficit in penile size than did the sporadic cases. hGH treatment improved the penile length in all but two boys aged 14 and 15 yr, and led to growth up to normal size in the three boys with very small penises. Three of the hereditary IGHD patients had subnormal testes and all of the other prepubertal boys had a testicular volume in the normal range. hGH treatment increased testicular size, particularly in the prepubertal boys. Of three additional untreated adults with IGHD, one had a subnormal-size penis and two had penises of low-normal size. Our findings constitute further evidence that hGH deficiency is associated with decreased penile growth and, to some extent, decreased testicular size, and that hHG treatment improves the growth of the genitalia and gonads. Since these effects were also observed in prepuberty, it seems that not all the hGH or, rather, somatomedin effect on sex organs is androgen mediated.
 
 **Testosterone:** There is evidence that in infants and young children that it can increase size.
 
@@ -295,7 +295,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/6406387
 
 http://www.ncbi.nlm.nih.gov/pubmed/10228293
 
-&gt;Micropenis is commonly due to fetal testosterone deficiency. The clinical management of this form of micropenis has been contentious, with disagreement about the capacity of testosterone treatment to induce a functionally adequate adult penis. As a consequence, some clinicians recommend sex reversal of affected male infants. We studied 8 male subjects with micropenis secondary to congenital pituitary gonadotropin deficiency from infancy or childhood to maturity (ages 18 to 27 years). Four patients were treated with testosterone before 2 years of age (group I) and four between age 6 and 13 years (group II). At presentation, the mean penile length in group I was 1.1 cm (-4 SD; range, 0.5 to 1.5 cm) and in group II it was 2.7 cm (-3.4 SD; range, 1.5 to 3.5 cm). All patients received one or more courses of 3 intramuscular injections of testosterone enanthate (25 or 50 mg) at 4-week intervals in infancy or childhood. At the age of puberty the dose was gradually increased to 200 mg monthly and later to an adult replacement regimen. As adults, both group I and II had attained a mean final penile length of 10.3 cm 2.7 cm with a range of 8 to 14 cm (mean adult stretched penile length for Caucasians is 12.4 2.7 cm). Six of 8 men were sexually active, and all reported normal male gender identity and psychosocial behavior. We conclude that 1 or 2 short courses of testosterone therapy in infancy and childhood augment penile size into the normal range for age in boys with micropenis secondary to fetal testosterone deficiency; replacement therapy at the age of puberty results in an adult size penis within 2 SD of the mean. We found no clinical, psychologic, or physiologic indications to support conversion of affected male infants to girls. Further, the results of this study do not support the notion, derived from data in the rat, that testosterone treatment in infancy or childhood impairs penile growth in adolescence and compromises adult penile length.
+>Micropenis is commonly due to fetal testosterone deficiency. The clinical management of this form of micropenis has been contentious, with disagreement about the capacity of testosterone treatment to induce a functionally adequate adult penis. As a consequence, some clinicians recommend sex reversal of affected male infants. We studied 8 male subjects with micropenis secondary to congenital pituitary gonadotropin deficiency from infancy or childhood to maturity (ages 18 to 27 years). Four patients were treated with testosterone before 2 years of age (group I) and four between age 6 and 13 years (group II). At presentation, the mean penile length in group I was 1.1 cm (-4 SD; range, 0.5 to 1.5 cm) and in group II it was 2.7 cm (-3.4 SD; range, 1.5 to 3.5 cm). All patients received one or more courses of 3 intramuscular injections of testosterone enanthate (25 or 50 mg) at 4-week intervals in infancy or childhood. At the age of puberty the dose was gradually increased to 200 mg monthly and later to an adult replacement regimen. As adults, both group I and II had attained a mean final penile length of 10.3 cm 2.7 cm with a range of 8 to 14 cm (mean adult stretched penile length for Caucasians is 12.4 2.7 cm). Six of 8 men were sexually active, and all reported normal male gender identity and psychosocial behavior. We conclude that 1 or 2 short courses of testosterone therapy in infancy and childhood augment penile size into the normal range for age in boys with micropenis secondary to fetal testosterone deficiency; replacement therapy at the age of puberty results in an adult size penis within 2 SD of the mean. We found no clinical, psychologic, or physiologic indications to support conversion of affected male infants to girls. Further, the results of this study do not support the notion, derived from data in the rat, that testosterone treatment in infancy or childhood impairs penile growth in adolescence and compromises adult penile length.
 
 **Role of parenteral testosterone in hypospadias: A study from a teaching hospital in India**  
 
@@ -309,7 +309,7 @@ The number of fat cells in your body is set in childhood and early adolescence. 
 
 http://www.ncbi.nlm.nih.gov/pubmed/18454136
 
-&gt;Obesity is increasing in an epidemic manner in most countries and constitutes a public health problem by enhancing the risk for cardiovascular disease and metabolic disorders such as type 2 diabetes. Owing to the increase in obesity, life expectancy may start to decrease in developed countries for the first time in recent history. The factors determining fat mass in adult humans are not fully understood, but increased lipid storage in already developed fat cells (adipocytes) is thought to be most important. Here we show that adipocyte number is a major determinant for the fat mass in adults. However, the number of fat cells stays constant in adulthood in lean and obese individuals, even after marked weight loss, indicating that the number of adipocytes is set during childhood and adolescence. To establish the dynamics within the stable population of adipocytes in adults, we have measured adipocyte turnover by analysing the integration of 14C derived from nuclear bomb tests in genomic DNA. Approximately 10% of fat cells are renewed annually at all adult ages and levels of body mass index. Neither adipocyte death nor generation rate is altered in early onset obesity, suggesting a tight regulation of fat cell number in this condition during adulthood. The high turnover of adipocytes establishes a new therapeutic target for pharmacological intervention in obesity.
+>Obesity is increasing in an epidemic manner in most countries and constitutes a public health problem by enhancing the risk for cardiovascular disease and metabolic disorders such as type 2 diabetes. Owing to the increase in obesity, life expectancy may start to decrease in developed countries for the first time in recent history. The factors determining fat mass in adult humans are not fully understood, but increased lipid storage in already developed fat cells (adipocytes) is thought to be most important. Here we show that adipocyte number is a major determinant for the fat mass in adults. However, the number of fat cells stays constant in adulthood in lean and obese individuals, even after marked weight loss, indicating that the number of adipocytes is set during childhood and adolescence. To establish the dynamics within the stable population of adipocytes in adults, we have measured adipocyte turnover by analysing the integration of 14C derived from nuclear bomb tests in genomic DNA. Approximately 10% of fat cells are renewed annually at all adult ages and levels of body mass index. Neither adipocyte death nor generation rate is altered in early onset obesity, suggesting a tight regulation of fat cell number in this condition during adulthood. The high turnover of adipocytes establishes a new therapeutic target for pharmacological intervention in obesity.
 
 ###Why do steroids make your traps and shoulders pop out that much?
 

@@ -2002,7 +2002,7 @@ Local IGFs in muscle are increased by growth hormone and testosterone. It is con
 
 ## SWS &amp; GH release
 
-There are two types of sleep, rapid eye movement (REM) and non-rapid eye movement (NREM). Sleep proceeds in cycles composed of four types of stages of NREM and a stage of REM usually ordered as: 1 &gt; 2 &gt; 3 &gt; 4 &gt; 3 &gt; 2 &gt; REM 
+There are two types of sleep, rapid eye movement (REM) and non-rapid eye movement (NREM). Sleep proceeds in cycles composed of four types of stages of NREM and a stage of REM usually ordered as: 1 > 2 > 3 > 4 > 3 > 2 > REM 
 
 The cycle lasts on average 90 to 110 minutes, with a greater quantity of stages 3 and 4 experienced early in the night and more REM later in the night.
 
@@ -2492,7 +2492,7 @@ The obvious solution for this potential side effect of growth hormone treatment 
 
 Amino Acid Pool
 
-From a dynamic point of view, such muscle hypertrophy results from changes in the rates of proteinsynthesis and/or breakdown. In addition, an acceleration of the rates of amino acid transport into muscle cells may contribute to muscle anabolism by increasing amino acid availability for protein synthesis. Studies suggest that muscle protein accretion occurs in the recovery phase after exercise rather than during the actual exercise period. The leucine tracer incorporation technique has shown that the rate of muscle protein synthesis in humans is increased after exercise (7) and remains elevated for &gt; 24 h (7). 
+From a dynamic point of view, such muscle hypertrophy results from changes in the rates of proteinsynthesis and/or breakdown. In addition, an acceleration of the rates of amino acid transport into muscle cells may contribute to muscle anabolism by increasing amino acid availability for protein synthesis. Studies suggest that muscle protein accretion occurs in the recovery phase after exercise rather than during the actual exercise period. The leucine tracer incorporation technique has shown that the rate of muscle protein synthesis in humans is increased after exercise (7) and remains elevated for > 24 h (7). 
 
 In these studies, muscle protein breakdown was not ddirectly measured. However, the increase in proteinsynthesis was so large that if it were not accompanied by a concomitant increment in protein breakdown, exercise training would result in a greater increase in muscle size than actually occurs.
 
@@ -2685,7 +2685,7 @@ This study demonstrated that octanoate had a direct inhibitory effect on fat sto
 
 From the RESULTS an important practical tip [l-carnitine &amp;amp; MCTs (Caprylic Acid) should not be used together &amp;amp; MCTs (Caprylic Acid) are more effective then l-carnitine in the presence of insulin]
 
-As shown in Figure 3A, ß-oxidation of octanoate was slightly inhibited (~18%) by insulin, a hormone that promotes the generation of the natural inhibitor of CPT-I [37], and Etomoxir, a pharmaceutical inhibitor of CPT-I. On the other hand, l-carnitine, an activator of CPT-I, caused a ~60% inhibition of octanoate oxidation. A combination of l-carnitine and exogenous oleate further enhanced the inhibition (&gt; 85%). In contrast, ß-oxidation of oleate was increased by l-carnitine more than 2 fold but inhibited by insulin by about 60% (Fig. 3B), consistent with the literature [37]. These results indicate that in adipocytes, octanoate was mainly oxidized independent of CPT-I (&gt; 80%). A small fraction (&lt; 20%), that was sensitive to insulin and etomoxir, might be activated in the cytosol and hence depend on CPT-I to enter the mitochondria. The observation that l-carnitine inhibited, rather than promoted, ß-oxidation of octanoate suggests that activation of CPT-I largely increased the transport of endogenous fatty acids into the ß-oxidation pathway which compete with octanoate for the enzymes downstream from CPT-1. This competition was further enhanced in the presence of added oleate.
+As shown in Figure 3A, ß-oxidation of octanoate was slightly inhibited (~18%) by insulin, a hormone that promotes the generation of the natural inhibitor of CPT-I [37], and Etomoxir, a pharmaceutical inhibitor of CPT-I. On the other hand, l-carnitine, an activator of CPT-I, caused a ~60% inhibition of octanoate oxidation. A combination of l-carnitine and exogenous oleate further enhanced the inhibition (> 85%). In contrast, ß-oxidation of oleate was increased by l-carnitine more than 2 fold but inhibited by insulin by about 60% (Fig. 3B), consistent with the literature [37]. These results indicate that in adipocytes, octanoate was mainly oxidized independent of CPT-I (> 80%). A small fraction (&lt; 20%), that was sensitive to insulin and etomoxir, might be activated in the cytosol and hence depend on CPT-I to enter the mitochondria. The observation that l-carnitine inhibited, rather than promoted, ß-oxidation of octanoate suggests that activation of CPT-I largely increased the transport of endogenous fatty acids into the ß-oxidation pathway which compete with octanoate for the enzymes downstream from CPT-1. This competition was further enhanced in the presence of added oleate.
 
 References:
 

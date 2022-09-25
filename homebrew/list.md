@@ -9,13 +9,13 @@ Steroid homebrew is the process of brewing steroidal compounds on a small scale 
 
 
 
-&gt;**Preamble**
+>**Preamble**
 
-&gt;*Everything you see on this subreddit has the potential to be dangerous. If you fuck something up or get bad gear, you may see effects ranging from nothing, to bitch tits, to dying (and I'll laugh at you for being a dipshit). Every piece of advice you read here carries with it some risk. Keep that in mind, and research before putting anything in your body.*
+>*Everything you see on this subreddit has the potential to be dangerous. If you fuck something up or get bad gear, you may see effects ranging from nothing, to bitch tits, to dying (and I'll laugh at you for being a dipshit). Every piece of advice you read here carries with it some risk. Keep that in mind, and research before putting anything in your body.*
 
 
 
-&gt;I started this as a response to the thread by /u/hypnotoadIRL [+3][2] , so he gets partial credit.
+>I started this as a response to the thread by /u/hypnotoadIRL [+3][2] , so he gets partial credit.
 I am a firm believer that everyone should know how to homebrew, so that they are not beholden to UGLs. Of course, not everyone wants to brew, but if you're here and you're curious, what is outlined below should help you get started. Links were all valid at time of posting. [...] You don't have to be super clever.
 
 */u/biggerstrongertaller, '[Homebrew on a \(smaller\) budget](http://www.reddit.com/r/BiggerStrongerTaller/comments/2w4l1r/homebrew_on_a_smaller_budget/)', 2014*
@@ -204,11 +204,11 @@ PVDF will have greater filtering capacity. PES can dissolve under high concentra
 Syringe Filters are luer lock or luer slip compatible filters that connect directly to a syringe. They are available in a multitude of pore sizes, for our purposes we need .2 or .22 micron. Anything larger and microorganisms will be able to pass, and sterility will not be achieved. You would draw directly from your brew, connect the filter and a 20-23g needle to your syringe, and inject into a sterile vial (one you have sterilized, or have bought pre-sterilized). If you use larger than a 20g needle, you risk cleaving the stopper into the vial and you'll have pieces of your stopper floating around in your vial.
 
 
-&gt; Also just a quick note that if people are willing to switch out syringe filters every 40ml the oil will flow way better. I find the whole hand cramping thing is very overrated unless I push 60ml+ through the same filter.
+> Also just a quick note that if people are willing to switch out syringe filters every 40ml the oil will flow way better. I find the whole hand cramping thing is very overrated unless I push 60ml+ through the same filter.
 
 *u/3b8bcc64*
 
-&gt; for small batches use 3-5mL syringes, the bigger ones get MUCH harder due to the wall to bottom ratio being too high...pressure goes exponentially more to walls instead of the bottom
+> for small batches use 3-5mL syringes, the bigger ones get MUCH harder due to the wall to bottom ratio being too high...pressure goes exponentially more to walls instead of the bottom
 95% of guys here give up on syringe filtering because they don't know this
 
 *u/Shotmaniac*

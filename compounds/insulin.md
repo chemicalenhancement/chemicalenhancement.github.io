@@ -19,8 +19,8 @@ First pass...insulin-related reading
   
 Kingtung's excellent synopsis of insulin use:  
   
-&gt; AAS + GH = AMAZING  
-&gt; AAS + GH + Insulin = FUCKING. HUGE.  
-&gt; AAS + Insulin = You look like shit, sorry bro  
+> AAS + GH = AMAZING  
+> AAS + GH + Insulin = FUCKING. HUGE.  
+> AAS + Insulin = You look like shit, sorry bro  
   
 Take this with a grain of salt, as with anything here of course, but it the basic truism is nearly infallible unless you do something unconventional like dnp+slin for bulking (as described in "Building the Perfect Beast" ebook linked above)

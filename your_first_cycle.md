@@ -301,15 +301,15 @@ This isn't required, but it is definitely **RECOMMENDED.** It's always better to
 
 The injection process itself is relatively straight forward. Perhaps nothing causes more anxiety for AAS users than their 1st injection. This fear is far more psychological than physical, as the act of performing an injection, especially when utilizing proper technique and the correct pin size, can be relatively painless. Some muscle groups are more prone to causing discomfort than others and the possibility of hitting a nerve, scar tissue, or a sore spot is a reality, but in general, an injection should not be considered a “painful” experience.
 
-&gt; [**To Learn Step-By-Step On How To Inject Safely, Click Here**](/r/steroids/wiki/thecycle/injecting#wiki_safe_injecting_technique)
+> [**To Learn Step-By-Step On How To Inject Safely, Click Here**](/r/steroids/wiki/thecycle/injecting#wiki_safe_injecting_technique)
 
 For a first cycle, the easiest not to mess up is [Glutes](/r/steroids/wiki/thecycle/injecting#wiki_glutes_.28dorsogluteal.29), a nice big muscle with decent circulation and low risk of hitting any nerve clusters. The twisting and turning can be a problem for some in which case shooting [Ventro Glutes](/r/steroids/wiki/thecycle/injecting#wiki_ventro_glutes) is another option. If that is too hard to find for you, try [Quads](/r/steroids/wiki/thecycle/injecting#wiki_quads_.28vastus_lateralis.29), but there is a slightly larger margin for error in regard to hitting nerve clusters and puncturing large veins.  But you should aim to have as many injection sites as possible to avoid building scar tissue.
 
-&gt; [**Visit our injection page to learn all about Safe Injection Technique.**](/r/steroids/wiki/thecycle/injecting)
+> [**Visit our injection page to learn all about Safe Injection Technique.**](/r/steroids/wiki/thecycle/injecting)
 
 ###Post Injection Pain
 
-&gt; [**To Learn All About Potential Post Injection Pain, Click Here**](/r/steroids/wiki/thecycle/injecting#wiki_pip_.28post_injection_pain.29)
+> [**To Learn All About Potential Post Injection Pain, Click Here**](/r/steroids/wiki/thecycle/injecting#wiki_pip_.28post_injection_pain.29)
 
 ## Frontloading Test?
 
@@ -323,7 +323,7 @@ No, this is your first cycle and we want to keep things as simple as possible, t
 
 Again, an oral steroid is **completely optional**. Oral steroids can add greater complexity to cycles if we start throwing in more compounds. 
 
-&gt; *It's suggested either to use* ***dry orals*** *or, to use aromatizing ones such as dianabol only if you can commit to properly managing the added complexity in managing your estrogen levels.*
+> *It's suggested either to use* ***dry orals*** *or, to use aromatizing ones such as dianabol only if you can commit to properly managing the added complexity in managing your estrogen levels.*
 
 **If one has preexisting pubertal gyno, or if you are prone to massive aromatization, there's better choices**. Aromatizing orals might be better as finishers **once you've already learned E2 management**. But if you can keep your estrogen under control, and aren't afraid of the added complexity, they can certainly be fun to run in the beginning. 
 
@@ -375,9 +375,9 @@ Off Days: Use the Half-Life Method.
 
 It is suggested on /r/steroids that you should at least inject every three days (E3D) or every 3.5 days (E3.5D) to keep blood levels as stable as possible for Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate). This will minimize side effects and make controlling estrogen easier. You may do once a week, but it is not optimal.
 
-&gt; [Here is an example of blood levels with 500mg of Test Enanthate injected once a week (E7D)](https://imgur.com/a/Ohgt6). This was plotted with [SteroidPlotter](http://www.steroidplotter.com/).
+> [Here is an example of blood levels with 500mg of Test Enanthate injected once a week (E7D)](https://imgur.com/a/Ohgt6). This was plotted with [SteroidPlotter](http://www.steroidplotter.com/).
 
-&gt; [Here is an example of 250mg Test Enanthate injected every 3.5 days](https://imgur.com/a/LwCgI), also plotted with [SteroidPlotter](http://steroidplotter.com/). As you can see the release rate, in which Testosterone is released into your blood, is more stable.
+> [Here is an example of 250mg Test Enanthate injected every 3.5 days](https://imgur.com/a/LwCgI), also plotted with [SteroidPlotter](http://steroidplotter.com/). As you can see the release rate, in which Testosterone is released into your blood, is more stable.
 
 ## Post Cycle Therapy (PCT)
 
@@ -423,7 +423,7 @@ It is recommended to eat about TDEE + 30%. Go find multiple TDEE calculators and
 
 ## Dosing 
 
-&gt; **Note**: For this example we are using the time frame for the 15 weeks. If you wish to end it sooner, obviously all your ending weeks will change and the week you start PCT will as well.
+> **Note**: For this example we are using the time frame for the 15 weeks. If you wish to end it sooner, obviously all your ending weeks will change and the week you start PCT will as well.
 
 * **Weeks 1-15:** Testosterone E or C, 250 mg **every 3 or 3.5 days** (E3D or E3.5D) for a total of **500 mg per week**.
 
@@ -442,7 +442,7 @@ Test E &amp; C takes about six weeks to fully saturate the blood (*i.e.,* kick i
 * **For 6 Weeks:** [Turinabol (Tbol)](/r/steroids/wiki/turinabol), 40–80 mg, ED **or** 
 * **For 6 Weeks:** [Anavar (Var)](/r/steroids/wiki/oxandrolone), 30–50 mg, ED
 
-&gt; **Note**: These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut) as Turinabol (Tbol).
+> **Note**: These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut) as Turinabol (Tbol).
 
 ### Why 500mg?
 

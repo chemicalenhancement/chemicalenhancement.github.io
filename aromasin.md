@@ -41,7 +41,7 @@ Due to the mild negative side effects associated with the compound, as well as t
 
 * [Exemestane plasma levels increased by approximately 40% after a high-fat breakfast.](http://labeling.pfizer.com/showlabeling.aspx?id=523)
 
-* [Dosages &gt;25 mg daily not shown to provide substantially greater suppression of plasma estrogens but may increase adverse effects](http://www.drugs.com/monograph/aromasin.html)
+* [Dosages >25 mg daily not shown to provide substantially greater suppression of plasma estrogens but may increase adverse effects](http://www.drugs.com/monograph/aromasin.html)
 
 ## Related Posts
 

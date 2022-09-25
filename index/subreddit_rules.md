@@ -90,13 +90,13 @@ The spirit of the Rule is to promote Goal #5 of the community:
 
 *Keep the environment free from any monetary influences.*  
 
-&gt;**Do not ask WHERE** *to get prescription drugs, TRT, HRT, SERMs, SARMS, PEDs and/or AAS.*  
-&gt;  
-&gt;**Do not ask HOW** *to get prescription drugs, TRT, HRT, SERMs, SARMS, PEDs and/or AAS.*  
-&gt;  
-&gt;**Do not ask for RECOMMENDED labs, brands or suppliers.**  
-&gt;
-&gt;**Do not promote BRANDS, COMPANIES, PRODUCTS** *of any sort.*
+>**Do not ask WHERE** *to get prescription drugs, TRT, HRT, SERMs, SARMS, PEDs and/or AAS.*  
+>  
+>**Do not ask HOW** *to get prescription drugs, TRT, HRT, SERMs, SARMS, PEDs and/or AAS.*  
+>  
+>**Do not ask for RECOMMENDED labs, brands or suppliers.**  
+>
+>**Do not promote BRANDS, COMPANIES, PRODUCTS** *of any sort.*
 
 
 ###**No Source Talk**
@@ -399,9 +399,9 @@ You can use these terms to find historic posts using Google, just like those lin
 
 **Please, use this search before posting a new topic!**
 
-    site:www.reddit.com/r/steroids &lt;Search String&gt;
+    site:www.reddit.com/r/steroids &lt;Search String>
 
-Simply replace the &lt;Search String&gt; with a post type or other search criteria and go.
+Simply replace the &lt;Search String> with a post type or other search criteria and go.
 
 ##Warning/Banning System
 

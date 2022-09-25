@@ -218,9 +218,9 @@ Cialis (Tadalafil) **DOES NOT** lower BP. **AT ALL, EVER**. Anyone who tells you
 [Package insert for Cialis, FDA approved.](http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022332lbl.pdf)  
 Taken directly from page 7:
 
-&gt;Effects on Blood Pressure
+>Effects on Blood Pressure
 
-&gt;**Tadalafil 20 mg administered to healthy male subjects produced no significant difference compared to placebo in supine
+>**Tadalafil 20 mg administered to healthy male subjects produced no significant difference compared to placebo in supine
 systolic and diastolic blood pressure** (difference in the mean maximal decrease of 1.6/0.8 mm Hg, respectively) and in standing
 systolic and diastolic blood pressure"
 

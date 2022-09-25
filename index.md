@@ -273,17 +273,17 @@ For hypogonadal patients *under the age of 25* the standard of care medical prof
 
 **What are the different risks?**
 
-&gt;“Anabolic steroids have been reported to induce psychiatric side effects such as *aggression* and *depression*. Adolescence represents an *extremely sensitive neurodevelopmental period* to influence by *detrimental effects*.”
+>“Anabolic steroids have been reported to induce psychiatric side effects such as *aggression* and *depression*. Adolescence represents an *extremely sensitive neurodevelopmental period* to influence by *detrimental effects*.”
 
 – *Side Effects of Drugs Annual*
 
-&gt;“AAS use by teenagers is a primary concern because of the potential side effects where *remodeling of the brain and behavioral maturation* occurs.”
+>“AAS use by teenagers is a primary concern because of the potential side effects where *remodeling of the brain and behavioral maturation* occurs.”
 
 – *Journal of Behavioral Processes*
 
-&gt; “AAS use *impaired spatial learning and memory*, and this effect was not rescued by exercise. The harmful effects of AAS on learning and memory should be taken into account when athletes decide to use them for performance or body image improvement.” 
+> “AAS use *impaired spatial learning and memory*, and this effect was not rescued by exercise. The harmful effects of AAS on learning and memory should be taken into account when athletes decide to use them for performance or body image improvement.” 
 
-&gt; “Testosterone and anabolic steroids have been found to affect the central nervous system (CNS) in humans and laboratory animals. The locations they affect include centers that regulate mood, sexuality and aggression. People who use steroids in excessive doses often experience mood disorders that meet the criteria of psychiatric disease categories such as *depression*, *anxiety*, *psychotic reactions* and *cognitive deterioration*.”
+> “Testosterone and anabolic steroids have been found to affect the central nervous system (CNS) in humans and laboratory animals. The locations they affect include centers that regulate mood, sexuality and aggression. People who use steroids in excessive doses often experience mood disorders that meet the criteria of psychiatric disease categories such as *depression*, *anxiety*, *psychotic reactions* and *cognitive deterioration*.”
 
 – *Anabolic Steroids Cause Longstanding Changes in the Brain*
 
@@ -322,11 +322,11 @@ Androgen usage in teens increases the risk of gyno. Gyno has already been known 
 
 [Maturation of the Adolescent Brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3621648/) 
 
-&gt;Neuromorphological, neurochemical, neurophysiological, neurobehavioral, and neuropharmacological evidence suggests that the brain remains in its active state of maturation during adolescence. Such evidence supports the hypothesis that the adolescent brain is *structurally and functionally vulnerable* to environmental stress, risky behavior, drug addiction, impaired driving, and unprotected sex.   
-&gt;  
-&gt;Computed tomography and MRI studies also provide evidence in support of this hypothesis. Brain maturation occurs during adolescence due to a surge in the synthesis of sex hormones implicated in puberty including estrogen, progesterone, and testosterone. *These sex hormones augment myelinogenesis and the development of the neurocircuitry involved in efficient neurocybernetics*. Although tubulinogenesis, axonogenesis, and synaptogenesis can occur during the prenatal and early postnatal periods, myelinogenesis involved in the insulation of axons remains under construction in adolescence. Sex hormones also significantly influence food intake and sleep requirements during puberty.   
-&gt;  
-&gt;In addition to dramatic changes in secondary sex characteristics, sex hormones influence learning, intelligence, memory, and behavior of adolescents. The development of excitatory glutamatergic neurotransmission occurs earlier in the developing brain as compared to GABAergic neurotransmission, which makes the pediatric population susceptible to seizures. *The development and maturation of the prefrontal cortex occurs primarily during adolescence and is* **fully accomplished at the age of 25 years**. The development of the *prefrontal cortex* is very important for complex behavioral performance, as this region of the brain helps accomplish **executive brain functions**.
+>Neuromorphological, neurochemical, neurophysiological, neurobehavioral, and neuropharmacological evidence suggests that the brain remains in its active state of maturation during adolescence. Such evidence supports the hypothesis that the adolescent brain is *structurally and functionally vulnerable* to environmental stress, risky behavior, drug addiction, impaired driving, and unprotected sex.   
+>  
+>Computed tomography and MRI studies also provide evidence in support of this hypothesis. Brain maturation occurs during adolescence due to a surge in the synthesis of sex hormones implicated in puberty including estrogen, progesterone, and testosterone. *These sex hormones augment myelinogenesis and the development of the neurocircuitry involved in efficient neurocybernetics*. Although tubulinogenesis, axonogenesis, and synaptogenesis can occur during the prenatal and early postnatal periods, myelinogenesis involved in the insulation of axons remains under construction in adolescence. Sex hormones also significantly influence food intake and sleep requirements during puberty.   
+>  
+>In addition to dramatic changes in secondary sex characteristics, sex hormones influence learning, intelligence, memory, and behavior of adolescents. The development of excitatory glutamatergic neurotransmission occurs earlier in the developing brain as compared to GABAergic neurotransmission, which makes the pediatric population susceptible to seizures. *The development and maturation of the prefrontal cortex occurs primarily during adolescence and is* **fully accomplished at the age of 25 years**. The development of the *prefrontal cortex* is very important for complex behavioral performance, as this region of the brain helps accomplish **executive brain functions**.
 
 
 ## Women &amp; AAS

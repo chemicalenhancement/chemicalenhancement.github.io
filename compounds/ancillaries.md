@@ -71,24 +71,24 @@ SARMs are intended to have the same kind of effects as androgenic drugs like ana
 
 There is a lot of confusing information on wether or not these two compounds can be ran together.  Looking at drug interaction charts, Medscape [has the following](http://i.imgur.com/uvgf79L.png): 
 
-&gt;**tamoxifen + anastrozole**   
-&gt;tamoxifen decreases levels of anastrozole by unspecified interaction mechanism. High likelihood serious or life-threatening interaction. Contraindicated unless benefits outweigh risks and no alternatives available. Never use combination. Anastrozole and tamoxifen should not be administered together.
+>**tamoxifen + anastrozole**   
+>tamoxifen decreases levels of anastrozole by unspecified interaction mechanism. High likelihood serious or life-threatening interaction. Contraindicated unless benefits outweigh risks and no alternatives available. Never use combination. Anastrozole and tamoxifen should not be administered together.
 
 This information has been contradited by a few studies.
 
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2362190/
 
-&gt;In conclusion, the results of this study confirm that anastrozole does not affect the pharmacokinetics of tamoxifen when the two drugs are given in combination to post-menopausal women with early breast cancer. In addition, the oestradiol suppressant effects of anastrozole appear unaffected by tamoxifen.
+>In conclusion, the results of this study confirm that anastrozole does not affect the pharmacokinetics of tamoxifen when the two drugs are given in combination to post-menopausal women with early breast cancer. In addition, the oestradiol suppressant effects of anastrozole appear unaffected by tamoxifen.
 
 http://publications.icr.ac.uk/629/
 
-&gt;As a result of (a) the lack of effect of anastrozole on tamoxifen and DMT levels and (b) the observed fall in blood anastrozole levels having no significant effect on oestradiol suppression by anastrozole, we conclude that the observed reduction in anastrozole levels by tamoxifen is unlikely to be of clinical significance when anastrozole and tamoxifen are administered together.
+>As a result of (a) the lack of effect of anastrozole on tamoxifen and DMT levels and (b) the observed fall in blood anastrozole levels having no significant effect on oestradiol suppression by anastrozole, we conclude that the observed reduction in anastrozole levels by tamoxifen is unlikely to be of clinical significance when anastrozole and tamoxifen are administered together.
 
 The actual [ATAC trial](https://mywebspace.wisc.edu/lbjohnson2/Reading%20List/ATAC.pdf) that this information comes from. Pharmacokinetic details can be found [here](http://www.nature.com/bjc/journal/v85/n3/pdf/6691925a.pdf)
 
 http://www.nature.com/bjc/journal/v85/n3/pdf/6691925a.pdf
 
-&gt;"...the observed fall in blood anastrozole levels having no significant effect on oestradiol suppression by anastrozole, we conclude that the observed reduction in anastrozole levels by tamoxifen is unlikely to be of clinical significance when anastrozole and tamoxifen are administered together."*
+>"...the observed fall in blood anastrozole levels having no significant effect on oestradiol suppression by anastrozole, we conclude that the observed reduction in anastrozole levels by tamoxifen is unlikely to be of clinical significance when anastrozole and tamoxifen are administered together."*
 
 **A:**  Taking arimidex with tamoxifen decreases the serum concentration of anastrozole by 27%, **but has no effect on the pharmacodynamics of either**
 
@@ -98,22 +98,22 @@ http://www.nature.com/bjc/journal/v85/n3/pdf/6691925a.pdf
 
 http://www.rxlist.com/aromasin-drug.htm
 
-&gt;Exemestane is freely soluble in N, N-dimethylformamide, soluble in methanol, and practically insoluble in water
+>Exemestane is freely soluble in N, N-dimethylformamide, soluble in methanol, and practically insoluble in water
 
 http://www.rxlist.com/aromasin-drug/indications-dosage.htm
 
-&gt;the recommended dose of AROMASIN is 50 mg once daily after a meal.
+>the recommended dose of AROMASIN is 50 mg once daily after a meal.
 
 
 http://www.drugs.com/monograph/aromasin.html
 
-&gt;High-fat meal increases plasma exemestane concentrations by approximately 40%.
+>High-fat meal increases plasma exemestane concentrations by approximately 40%.
 
 http://labeling.pfizer.com/showlabeling.aspx?id=523
 
-&gt;Absorption: Following oral administration of radiolabeled exemestane, at least 42% of radioactivity was 
+>Absorption: Following oral administration of radiolabeled exemestane, at least 42% of radioactivity was 
 absorbed from the gastrointestinal tract. Exemestane plasma levels increased by approximately 40% after a high-fat 
 breakfast. 
 
 http://www.drugs.com/monograph/aromasin.html
-&gt;Dosages &gt;25 mg daily not shown to provide substantially greater suppression of plasma estrogens but may increase adverse effects
+>Dosages >25 mg daily not shown to provide substantially greater suppression of plasma estrogens but may increase adverse effects

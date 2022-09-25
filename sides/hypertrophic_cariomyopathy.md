@@ -17,7 +17,7 @@ So here's the thing: AAS use/abuse long term can *precipitate* left ventricular 
 
 [See here](http://journals.lww.com/cjsportsmed/Abstract/1997/04000/Left_Ventricular_Size_and_Function_in_Elite.3.aspx):
 
-&gt; The smaller LVDEd in DUs is coupled with a significantly disproportionate septal and posterior wall thickness in DUs when indexed to body mass compared to DFs. There was no direct evidence of diastolic dysfunction detected by mitral inflow velocity patterns.
+> The smaller LVDEd in DUs is coupled with a significantly disproportionate septal and posterior wall thickness in DUs when indexed to body mass compared to DFs. There was no direct evidence of diastolic dysfunction detected by mitral inflow velocity patterns.
 
 So no abnormalities other than hypertrophy itself.
 
@@ -29,9 +29,9 @@ If you have a pre-existing condition (ie: zyzz), then it could be *potentially* 
 
 The thing is though, even after cessation of AAS for 1+ years, cardiac hypertrophy doesn't full attenuate itself. [This trial](http://heart.bmj.com/content/90/5/496.short) compared resistance athletes, former AAS users, and current AAS users.
 
-&gt; Systolic blood pressure was higher in users (mean (SD) 140 (10) mm Hg) than in ex-users (130 (5) mm Hg) (p &lt; 0.05) or weightlifters (125 (10) mm Hg; p &lt; 0.001). Left ventricular muscle mass related to fat-free body mass and the ratio of mean left ventricular wall thickness to internal diameter were not significantly higher in users (3.32 (0.48) g/kg and 42.1 (4.4)%) than in ex-users (3.16 (0.53) g/kg and 40.3 (3.8)%), but were lower in weightlifters (2.43 (0.26) g/kg and 36.5 (4.0)%; p &lt; 0.001).
+> Systolic blood pressure was higher in users (mean (SD) 140 (10) mm Hg) than in ex-users (130 (5) mm Hg) (p &lt; 0.05) or weightlifters (125 (10) mm Hg; p &lt; 0.001). Left ventricular muscle mass related to fat-free body mass and the ratio of mean left ventricular wall thickness to internal diameter were not significantly higher in users (3.32 (0.48) g/kg and 42.1 (4.4)%) than in ex-users (3.16 (0.53) g/kg and 40.3 (3.8)%), but were lower in weightlifters (2.43 (0.26) g/kg and 36.5 (4.0)%; p &lt; 0.001).
 
-&gt; The maximum late transmitral Doppler flow velocity (Amax) was higher in users (61 (12) cm/s) and ex-users (60 (12) cm/s) than in weightlifters (50 (9) cm/s; p &lt; 0.05 and p  =  0.054). 
+> The maximum late transmitral Doppler flow velocity (Amax) was higher in users (61 (12) cm/s) and ex-users (60 (12) cm/s) than in weightlifters (50 (9) cm/s; p &lt; 0.05 and p  =  0.054). 
 
 Doppler testing is used to test heart function (and to differentiate between athlete's heart and myopathy in athletes). So there is a bit of a discrepancy. 
 
@@ -43,7 +43,7 @@ BUT: in animal studies it's been shown that the T:E ratio might have an influenc
 
 [From this](http://ajpheart.physiology.org/content/288/2/H469.short):
 
-&gt; These data suggest an important role for estrogen receptor-β in attenuating the hypertrophic response to pressure overload in females. (**mice**)
+> These data suggest an important role for estrogen receptor-β in attenuating the hypertrophic response to pressure overload in females. (**mice**)
 
 In [susceptible humans](http://www.sciencedirect.com/science/article/pii/S0022282808004537), there appears to be polymorphisms in the aromatase enzyme, and it seems to be pretty common in people with cardiomyopathy.
 
@@ -65,7 +65,7 @@ Then there's Coenzyme Q10 which has repeatedly been shown to be good for blood v
 
 [This trial showed improvements with 200mg/day](http://www.sciencedirect.com/science/article/pii/S009829979700006X) and even showed a reduce in septal thickness:
 
-&gt; The mean interventricular septal thickness improved significantly from 1.51±0.17 cm to 1.14±0.13 cm, a 24% reduction (P &lt; 0.002). The mean posterior wall thickness improved significantly from 1.37±0.13 cm to 1.01±0.15 cm, a 26% reduction (P&lt;0.005). Mitral valve inflow slope by pulsed wave Doppler (EF slope) showed a non-significant trend towards improvement, 1.55±0.49 m/sec2 to 2.58±1.18 m/sec2 (P&lt;0.08). 
+> The mean interventricular septal thickness improved significantly from 1.51±0.17 cm to 1.14±0.13 cm, a 24% reduction (P &lt; 0.002). The mean posterior wall thickness improved significantly from 1.37±0.13 cm to 1.01±0.15 cm, a 26% reduction (P&lt;0.005). Mitral valve inflow slope by pulsed wave Doppler (EF slope) showed a non-significant trend towards improvement, 1.55±0.49 m/sec2 to 2.58±1.18 m/sec2 (P&lt;0.08). 
 
 (13-15mm is the "danger zone" and 15mm+ = pathology)
 

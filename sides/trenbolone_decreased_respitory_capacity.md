@@ -29,15 +29,15 @@ There are two main theories behind tren's cardio issues.
 
 From /u/stolenlunches:
 
-&gt; Looking into this, I see all over the place this discussion about prostaglandins/thromboxanes and the cyclooxygenase pathway and the suggestion is that prostaglandins are synthesized either by the cyclooxygenase or lipoxygenase pathway and somehow increase leukotriene synthesis, but that is not correct. They are both different pathways responsible for different synthesis and only leukotrienes are mediated by the lipoxygenase pathway which makes the discussion of prostaglandin strange and irrelevant. Maybe it is just a mistake someone made a long time ago that has been perpetuated since.
-&gt; 
-&gt; My guess would be something more along the lines of an increase in phospholipids, thereby increasing the availability of arachidonic acid which increases the production of all of the eicosanoids (prostaglandin, thomboxane, leukotriene), but that the detrimental effects of trenbolone on cardio performance are seen in the effect of increased leukotriene synthesis and the discussion of other eicosanoids is just noise that complicates the issue. 
-&gt; 
-&gt; https://www.rpi.edu/dept/bcbp/molbiochem/MBWeb/mb2/part1/prostag.htm
+> Looking into this, I see all over the place this discussion about prostaglandins/thromboxanes and the cyclooxygenase pathway and the suggestion is that prostaglandins are synthesized either by the cyclooxygenase or lipoxygenase pathway and somehow increase leukotriene synthesis, but that is not correct. They are both different pathways responsible for different synthesis and only leukotrienes are mediated by the lipoxygenase pathway which makes the discussion of prostaglandin strange and irrelevant. Maybe it is just a mistake someone made a long time ago that has been perpetuated since.
+> 
+> My guess would be something more along the lines of an increase in phospholipids, thereby increasing the availability of arachidonic acid which increases the production of all of the eicosanoids (prostaglandin, thomboxane, leukotriene), but that the detrimental effects of trenbolone on cardio performance are seen in the effect of increased leukotriene synthesis and the discussion of other eicosanoids is just noise that complicates the issue. 
+> 
+> https://www.rpi.edu/dept/bcbp/molbiochem/MBWeb/mb2/part1/prostag.htm
 
 Another possible theory:
 
-&gt; It might be related to the accelerated burning of fat due to tren. Arachidonic acid is freed from the phospholipid by phospholipase A2, an enzyme that releases fatty acids from glycerol. Glycerol is the precursor the the synthesis of triacylglycerols, phospholipids in the liver and adipose tissue. Since tren limits de novo lipogenesis, the glycerol never becomes adipose tissue. This means you have glycerol being broken down, releasing more of the phospholipase A2 enzyme. Of course the gycerol not turned adipose could very well be used to increase phospholipids as well, which would support the above theory by /u/stolenlunches
+> It might be related to the accelerated burning of fat due to tren. Arachidonic acid is freed from the phospholipid by phospholipase A2, an enzyme that releases fatty acids from glycerol. Glycerol is the precursor the the synthesis of triacylglycerols, phospholipids in the liver and adipose tissue. Since tren limits de novo lipogenesis, the glycerol never becomes adipose tissue. This means you have glycerol being broken down, releasing more of the phospholipase A2 enzyme. Of course the gycerol not turned adipose could very well be used to increase phospholipids as well, which would support the above theory by /u/stolenlunches
 
 **Why use yourself as a human guinea pig?**
 

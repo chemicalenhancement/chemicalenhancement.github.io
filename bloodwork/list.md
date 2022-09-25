@@ -110,7 +110,7 @@ There are several providers in the USA to choose from.
 
 #### LabsMD
 
-* [Hormone Panel for Females](http://labsmd.com/tests.php?view=category_result&amp;show=2234&amp;category=14&amp;search=#2234) will provide the actual number for testosterone rather than "&gt; 1500". The assay used for testing estradiol will not give a false reading when using tren.
+* [Hormone Panel for Females](http://labsmd.com/tests.php?view=category_result&amp;show=2234&amp;category=14&amp;search=#2234) will provide the actual number for testosterone rather than "> 1500". The assay used for testing estradiol will not give a false reading when using tren.
 
 #### Walgreens
 
