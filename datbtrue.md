@@ -3,9 +3,9 @@ revision_id: 6cae34a0-ee66-11e6-95ce-0ef7486dfd9e
 revision_date: 1486603435
 ---
 
-#Datbtrue Article Archive  
+# Datbtrue Article Archive  
   
-##PEPTIDES BASICS
+## PEPTIDES BASICS
 
 GHRH (Growth Hormone Releasing Hormone) + GHRP (Growth Hormone Releasing Peptide) = 10 star GH Release (**********)
 
@@ -53,7 +53,7 @@ Finally to answer your question directly:
 
 I believe that if your CJC-1295 is modified GRF(1-29), coupled with GHRP-6, dosed as described you will achieve your goal of GH level (i.e. 4ius) and exceed both the quantity &amp; quality of those growth optimizing events that THAT equivalent level of synthetic GH will be capable of mediating.
 
-##BEGINNER: What should I use? ...and why? (GH Releasing System Simplified)
+## BEGINNER: What should I use? ...and why? (GH Releasing System Simplified)
 
 Three Basic Hormones
 
@@ -376,7 +376,7 @@ Similar diets followed including Cyclical Ketogenic Dieting (CKD) variously know
 Diet," the "Anabolic Diet," "Bodyopus," the "Metabolic Diet," "Anabolic Solution," and the "Ultimate Diet 2.0."
 
 
-##Estrogen - Women &amp; GHRH/GHRP-6
+## Estrogen - Women &amp; GHRH/GHRP-6
 
 ESTROGEN
 
@@ -411,7 +411,7 @@ So women should always include a GHRP (GHRP-6, GHRP-2, Hexarelin, Ipamorelin) in
 
 * - Regulation of His-dTrp-Ala-Trp-dPhe-Lys-NH2 (GHRP-6)-lnduced GH Secretion in the Rat,Federico Malloa, Neuroendocrinology 1993;57:247-256
 
-##THE EFFECTS GH AND INSULIN
+## THE EFFECTS GH AND INSULIN
 
 "I hate people that are gurus because they usually don't know what the hell they are talking about. What I've always tried to do is point to the science and let people "understand" things on there own.
 
@@ -471,7 +471,7 @@ The above post covers:
 * Androgens
 * Thyroid Hormones"
 
-##THE SCIENCE BEHIND: ‘SYNTHETINE – LIPID (FAT) TRANSPORTER’
+## THE SCIENCE BEHIND: ‘SYNTHETINE – LIPID (FAT) TRANSPORTER’
 
 Synthetine™ is an L-Carnitine based sterile preparation manufactured by a pharmaceutical company in accordance with the highest level of manufacturing practices. Synthetine is a highly bioavailable form of L-Carnitine that if used together with SyntheDextrin will activate a “switch” that will reduce carbohydrate oxidation and increases fat oxidation in contracting muscle, reduce fatigue, reduce muscle glycolysis and increase glycogen storage during periods that are almost always reserved for carbohydrate oxidation..
 
@@ -803,7 +803,7 @@ An accumulation strategy of daily oral ingestion of low bioavailable l-carnitine
 
 These strategies should enable reversing the switch – Turning up the rate of fat oxidation &amp; turning down the rate of carbohydrate oxidation.
 
-##THE SCIENCE BEHIND: ‘SYNTHEROL – SITE ENHANCING OIL’
+## THE SCIENCE BEHIND: ‘SYNTHEROL – SITE ENHANCING OIL’
 Syntherol™ is a caprylic acid based proprietary formulated sterile site enhancement oil. It is manufactured by a major pharmaceutical company in accordance with the highest level of manufacturing practices. No other seller of site enhancement oil can guarantee that the product they sell is sanitary, hygienic, bottled and sealed under pharmaceutical conditions that assure the health and wellbeing of the end user..
 
 Syntherol™ is a proprietary formula whose constituent parts do not deviate from that which is necessary to effect muscular change as described in the science summarized herein. As a result Syntherol™ is highly effective.
@@ -1060,7 +1060,7 @@ All SEOs hurt, Syntherol™ has been reported to hurt the less due to its high l
 
 And again, we strongly suggest that the muscle be stretched and vigorously massaged throughout the day after every application with Syntherol™.
 
-##Basic Peptide Primer
+## Basic Peptide Primer
 
 What is a peptide?
 
@@ -1190,7 +1190,7 @@ Ref-3 - Rapid enzymatic degradation of growth hormone-releasing hormone by plasm
 
 Ref-4 - Incorporation of D-Ala2 in Growth Hormone-Releasing Hormone-( l-29)-NH2 Increases the Half-Life and Decreases Metabolic Clearance in Normal Men, STEVEN SOULE, Journal of Clinical Endocrinology and Metabolism 1994 Vol. 79, No. 4
 
-##What is growth hormone?
+## What is growth hormone?
 
 Synthetic Growth Hormone is an artificially created hormone "identical" to the major naturally produced (endogenous) isoform. It is often referred to by its molecular mass which is 22kDa (kilodaltons) and is made up of a sequence of 191 amino acids (primary structure) with a very specific folding pattern that comprise a three-dimensional structure (tertiary structure). This tertiary structure is subject to potential shape change through a process known as thermal denaturation. While many labs are capable of generating growth hormone (GH) with the proper primary structure not all will be capable of creating a tertiary structure identical to the major naturally occurring growth hormone. The tertiary structure can determine the strength with which the growth hormone molecule binds to a receptor which will in turn affect the "strength" of the intracellular signaling which mediates the events leading to protein transcription, metabolism, IGF-1 creation, etc. It is this inconsistency that accounts in part for the differences in effectiveness of various non-pharmaceutically produced synthetic growth hormone.
 
@@ -1247,7 +1247,7 @@ In an attempt to create a more convenient long-lasting GHRH, a compound known as
 
 Modified GRF(1-29)however when combined with a GHRP brings about a substantial pulse which has desirable effects.
 
-##A Brief Summary of Dosing and Administration
+## A Brief Summary of Dosing and Administration
 
 
 Dosing GHRPs
@@ -1359,7 +1359,7 @@ Dose w/o food
 
 Administration should ideally be done on either an empty stomach or with only protein in the stomach. Fats &amp;amp; carbs blunt GH release. So administer the peptides and wait about 20 minutes (no more then 30 but no less then 15 minutes) to eat. AT that point the GH pulse has about hit the peak and you can eat what you want.
 
-##Basic Guide: CJC-1295
+## Basic Guide: CJC-1295
 
 Partial explanation (Oct 21, 2009)
 "Cell-to-cell communication is also likely to reflect the density and proximity of adjacent cells as GH responsiveness (but not sensitivity) to GHRH is enhanced at higher densities and basal GH release is greatest at low densities."
@@ -1526,7 +1526,7 @@ References:
 
 30 – Wen, S. et al. Immunogenicity AND Immunotoxicity Assessments of Two Drug Affinity Complexe Compounds in Cynomogus Monkeys. Toxicologist, Report 170, 2005.
 
-##Basic Guide: Growth Hormone Secretagogues
+## Basic Guide: Growth Hormone Secretagogues
 
 Growth Hormone Secretagogues
 
@@ -1837,7 +1837,7 @@ References:
 
 37. Yu H, Cassorla F, Tiulpakov A et al. A double blind placebocontrolled efficacy trial of an oral growth hormone (GH) secretagogue (MK-0677) in GH deficient (GHD) children. 80th Annual Meeting US Endocrine Society, New Orleans, Louisiana, 1998; 
 
-##Growth Hormone Administration vs. CJC-1295/GHRP-6 + GHRH
+## Growth Hormone Administration vs. CJC-1295/GHRP-6 + GHRH
 
 Units of Measurement
 
@@ -2000,7 +2000,7 @@ Local IGF-1 in muscle has been demonstrated to be responsible for muscle growth 
 
 Local IGFs in muscle are increased by growth hormone and testosterone. It is conjectured that pulsatile GH (such as IV dosing) or the use of GHRH/GHRPs results in high levels of muscle IGFs w/o creating high levels of systemic circulating IGFs.
 
-##SWS &amp; GH release
+## SWS &amp; GH release
 
 There are two types of sleep, rapid eye movement (REM) and non-rapid eye movement (NREM). Sleep proceeds in cycles composed of four types of stages of NREM and a stage of REM usually ordered as: 1 &gt; 2 &gt; 3 &gt; 4 &gt; 3 &gt; 2 &gt; REM 
 
@@ -2018,7 +2018,7 @@ The origin of nocturnal GH release in humans is still unknown. Most likely hypot
 
 It is worth reiterating though that nocturnal release of GH makes up only a fraction of the total daily GH release in women, but the bulk of GH output in men.
 
-##Modified GRF(1-29) is different then GRF(1-29)
+## Modified GRF(1-29) is different then GRF(1-29)
 
 NOTE that native GRF(1-29) is native GHRH or GRF(1–44) with the inactive final 15 amino acids removed.
 
@@ -2043,7 +2043,7 @@ So the above highlighted amino acids need to be modified to:
 15th position - Ala
 27th position - Leu
 
-##How GHRPs are cardio-protective
+## How GHRPs are cardio-protective
 
 The growth hormone secretagogues (GHS) are a family of synthetic compounds originally selected for their potent and specific effects on GH release. Nonetheless, it has been reported by us and other researchers that the GHS have also many extraendocrine actions, including those on energy metabolism and cardiovascular function. Ghrelin, the endogenous GHS, specifically binds to the GHS-R1a, a receptor that has been proposed to mediate the biological activities of endogenous and synthetic GHS. 
 
@@ -2062,7 +2062,7 @@ Source: Characterization of a Novel Extraendocrine Action of the Growth Hormone 
 
 Dept of Experimental Med, Univ of Milano-Bicocca, Monza, Italy; Interdepartmental Ctr for Bioinformatics Proteomics, Univ of Milano-Bicocca, Monza, Italy
 
-##Ghrelin (assumed GHS) increases GH signalling in muscle
+## Ghrelin (assumed GHS) increases GH signalling in muscle
 
 I have always maintained that GH signaling activity in muscle or autocrine/paracrine IGFs in muscle are more important then circulating systemic levels.
 
@@ -2073,7 +2073,7 @@ Ghrelin infusion stimulated endogenous GH secretion, which peaked at t = 60 min 
 
 This investigation is also the first to document that ghrelin-induced endogenous GH release translates into Janus kinase/STAT signaling in skeletal muscle. - Ghrelin Infusion in Humans Induces Acute Insulin Resistance and Lipolysis Independent of Growth Hormone Signaling, Esben Thyssen, Diabetes, December 1, 2008; 57(12): 3205 - 3210
 
-##Hormonal Set-Points
+## Hormonal Set-Points
 
 Here is evidence that there are set-points for hormones which can change based on environmental factors. It is very interesting that these environmental events can shift hormonal parameters that exhibit themselves throughout the post-shift life period.
 
@@ -2091,7 +2091,7 @@ RESULTS: A clear univariate increase in postmenopausal PTH levels was found amon
 
 CONCLUSIONS: The results corroborate the hormonal set-point hypothesis and seem to extend effects of famine exposure to hormones such as PTH, which plays a role in early bone growth as well as in osteoporosis later in life. Though PTH is not under hypothalamic or pituitary control, it is partially under ganglion control. Embryologically, the parathyroids and the adenohypophysis share a common origin from pharyngeal endodermal pouches.
 
-##GHRH binds to GHS-receptor &amp; potentiates GHRP's GH releasing action!
+## GHRH binds to GHS-receptor &amp; potentiates GHRP's GH releasing action!
 
 We have spent a lot of time in this thread discussing how GHRPs (such as GHRP-6, GHRP-2, Hexarelin &amp;amp; Ipamorelin) potentiate GHRH's GH releasing effect. We talk of synergy, note GHRPs somatostatin inhibition at the hypothalumus &amp;amp; pituitary and note that GHRPs use a different method then GHRH in changing calcium concentrations within somatotrophs (GH releasing cells in the pituitary) that lead to GH secretion.
 
@@ -2112,7 +2112,7 @@ Finally, and quite remarkably, GHRH activated the endocytosis of the ghrelin rec
 
 With regard to molecular mechanisms, it is not possible from the present data to establish a model of GHRH action on the ghrelin receptor. A homodimeric model was recently proposed for the ghrelin receptor, in which, because of negative cooperativity, the binding of ghrelin occurs only in one subunit, preventing another ghrelin molecule from binding to the other subunit (32). On the basis of this model, we suggest that GHRH might be able to bind in a multivalent form. When GHRH is present alone, it might bind to one subunit of the dimeric receptor interacting with the orthosteric site (main ghrelin binding site) that determines the agonist properties. However, when ghrelin is also present, GHRH occupies an ‘‘allosteric site,’’ acting as co-agonist that stabilizes the ghrelin binding. This implies that GHRH allows two ghrelin molecules to bind at the same time in the two subunits, which might explain the increase in ghrelin binding capacity observed in the present study.
 
-##A Couple of quick notes:
+## A Couple of quick notes:
 
 1.	Beware taking MTII with CJC-1295/GHRP-6 seems to prolong and intensify nausea. (Sample of two at the moment... one of them being me.)
 2.	Beware GHRP-6 (assume all GHRPs) has been shown conclusively to increase gastic motility &amp;amp; "accelerate gastric emptying of solids ...through activation of GHS receptors, possibly located on local cholinergic enteric nerves" (Sample various effects from different people) *
@@ -2133,7 +2133,7 @@ It is just interesting to think about.
 
 ** - Interaction of the Growth Hormone-Releasing Peptides Ghrelin and Growth Hormone-Releasing Peptide-6 with the Motilin Receptor in the Rabbit Gastric Antrum, Inge Depoortere, The Journal Of Pharmacology And Experimental Therapeutics Vol. 305, No. 2
 
-##GHRH &amp; GHRP-2 and GH mRNA &amp; GH-R mRNA
+## GHRH &amp; GHRP-2 and GH mRNA &amp; GH-R mRNA
 
 The following is the majority of the discussion from, EXPERIMENTAL STUDY - Effect of GHRH and GHRP-2 treatment in vitro on GH secretion and levels of GH, pituitary transcription factor-1, GHRH-receptor, GH-secretagogue-receptor and somatostatin receptor mRNAs in ovine pituitary cells, Ming Yan, Maria Hernandez, Ruwei Xu and Chen Chen, European Journal of Endocrinology (2004) 150 235–242
 
@@ -2179,7 +2179,7 @@ Selected References
 
 20 Lasko CM, Korytko AI, Wehrenberg WB &amp;amp; Cuttler L. Differential GH-releasing hormone regulation of GHRH receptor mRNA expression in the rat pituitary. American Journal of Physiology 2001 280 E626–631.
 
-##Insulin, how it works and why GH isn't anabolic w/o it
+## Insulin, how it works and why GH isn't anabolic w/o it
 
 I am tired of seeing the same wrong explanations on why insulin &amp;amp; growth hormone are anabolic so lets take a look. I don't feel like writing an article so I'll just borrow from a couple of sources.
 
@@ -2225,7 +2225,7 @@ NOTE: The above was "lifted" with little change from parts of:
 
 HORMONES AND SPORT: Insulin, growth hormone and sport, P H Sonksen, Journal of Endocrinology (2001) 170, 13–25
 
-##Boosting Insulin Naturally
+## Boosting Insulin Naturally
 
 I understand not wanting to use exogenously administered insulin. Does this mean you would lose out on insulin's contribution to GH induced anabolism?
 
@@ -2237,7 +2237,7 @@ Leucine, when ingested with glucose, synergistically stimulates insulin secretio
 
 Thereafter, they received 25 g glucose or 1 mmol/kg lean body mass leucine or 1 mmol/kg lean body mass leucine plus 25 g glucose in random order. Serum leucine, glucose, insulin, glucagon, and alpha-amino nitrogen concentrations were measured at various times during a 2.5-hour period after ingestion of the test meal. The amount of leucine provided was equivalent to that present in a high-protein meal, that is, that approximately present in a 350-g steak. After leucine ingestion, the leucine concentration increased 7-fold; and the alpha-amino nitrogen concentration increased by 16%. Ingested leucine did not affect the serum glucose concentration. When leucine was ingested with glucose, it reduced the 2.5-hour glucose area response by 50%. Leucine, when ingested alone, increased the serum insulin area response modestly. However, it increased the insulin area response to glucose by an additional 66%; that is, it almost doubled the response. Ingested leucine stimulated an increase in glucagon. Ingested glucose decreased it. When ingested together, the net effect was essentially no change in glucagon area. In summary, leucine at a dose equivalent to that present in a highprotein meal, had little effect on serum glucose or insulin concentrations but did increase the glucagon concentration. When leucine was ingested with glucose, it attenuated the serum glucose response and strongly stimulated additional insulin secretion. Leucine also attenuated the decrease in glucagon expected when glucose alone is ingested. The data suggest that a rise in glucose concentration is necessary for leucine to stimulate significant insulin secretion. This in turn reduces the glucose response to ingested glucose.
 
-##Here is the Insulin Cheat Sheet I put together in September
+## Here is the Insulin Cheat Sheet I put together in September
 
 The following was a nice little concise summation of the effect insulin has on GH, GHRs and intracellular events, put together about 6 months back. It was designed to be a pointer to the primary studies that demonstrate each point.
 
@@ -2332,7 +2332,7 @@ SOURCES:
 
 22 - Growth Hormone Signaling in Vivo in Human Muscle and Adipose Tissue: Impact of Insulin, Substrate Background, and Growth Hormone Receptor Blockade, Charlotte Nielsen, et al., The Journal of Clinical Endocrinology &amp;amp; Metabolism July 2008 Vol. 93, No. 7 2842-2850
 
-##Protein Metabolism - The complementary role of various hormones in inducing Anabolism
+## Protein Metabolism - The complementary role of various hormones in inducing Anabolism
 
 Too many people have very little idea how the following factors work together in increasing proteinsynthesis and preventing protein breakdown. If they truly understood these things would they give up seeking THE magic bullet? I doubt it... Would they stop seeking out self-proclaimed gurus who in my opinion fail miserably in understanding these things themselves.
 
@@ -2603,7 +2603,7 @@ Thus, whole-body and muscle protein catabolism induced by triple hormonal infusi
 
 [These hormones, especially if they are present together promoteprotein breakdown and rather then making the amino acid pool available for resynthesis, they increase loss by stimulating oxidation.]
 
-##EOD Calorie Restriction = Longevity?
+## EOD Calorie Restriction = Longevity?
 
 EasyEJL your mind is just wasted when it is mixed in with all the "fluff" posts at AM.   You mentioned something that to my mind is an awesome area of research with tremendous potential to make people less susceptible to cancer, better cardiovascular profiles, better memory &amp;amp; less damage to brain, lower oxidative stress, much better insulin sensitivity, prolonged life, ...just on and on...there are a lot of studies going back to the 1940's that demonstrate these positive effect...
 
@@ -2631,7 +2631,7 @@ Eating at 60% of maintenance every day is not desirable, but EOD calorie restric
 
 ** - Resveratrol delays age-related deterioration and mimics transcriptional aspects of dietary restriction without extending life span, Pearson KJ , Cell Metab. 2008 Aug;8(2):157-68.
 
-##STUDY: Effect of intermittent fasting and refeeding on insulin action in healthy men
+## STUDY: Effect of intermittent fasting and refeeding on insulin action in healthy men
 
 Eight healthy young Caucasian men, body mass index 25.7 +- 0.4 kg/m2
 
@@ -2645,7 +2645,7 @@ CONCLUSION:
 
 In conclusion, the findings that intermittent fasting increases insulin sensitivity on the whole body level as well as in adipose tissue support the view that cycles of feast and famine are important as an initiator of thrifty genes leading to improvements in metabolic function (6). We suggest that a fastinginduced increase in circulating adiponectin is at least partly responsible for this finding. The change in adiponectin, together with changes in plasma leptin with fasting, underlines the important role of the adipose tissue in recognizing the oscillation in energy stores. Finally, the data indicate that intermittent fasting and physical training may increase insulin action via different mechanisms because muscle energy stores did not change with the present fasting intervention.
 
-##Caprylic Acid (MCTs) - reduce expression of lipogenic genes
+## Caprylic Acid (MCTs) - reduce expression of lipogenic genes
 
 Thank you for posting that up BT. MCTs, specifically caprylic acid (octonate) does much more than that. Permit me to introduce you to one of my secrets. Very few people know and understand what follows. Best explained by the study Modulation of adipocyte lipogenesis by octanoate: involvement of reactive oxygen species, Wen Guo, Weisheng Xie and Jianrong Han, Nutrition &amp;amp; Metabolism 2006, 3:30
 
@@ -2829,7 +2829,7 @@ References:
 
 71. St-Onge MP, Janssen I, Heymsfield SB: Metabolic syndrome in normal-weight Americans: new definition of the metabolically obese, normal-weight individual. Diabetes Care 2004, 27:2222-2228.
 
-##Fish Oil (DHA) increases metabolism (fat loss)
+## Fish Oil (DHA) increases metabolism (fat loss)
 
 I thought you might be interested in this because almost no nutritionists or people involved in bodybuilding know this. 
 
@@ -2857,7 +2857,7 @@ So if you ingest a large quantity of Omega 3 fatty acids which contain high DHA 
 
 This is great for dieting but increases the potential oxidative damage. Enough to effective lifespan? Probably not. But it should increase energy expenditure and thus be beneficial on a diet.
 
-##CREATING A BACKBONE AROUND WHICH TO LOSE FAT
+## CREATING A BACKBONE AROUND WHICH TO LOSE FAT
 
 Glucose is an indispensable metabolic fuel for the brain. For the reason that the brain is unable to synthesize glucose or store more than a few minutes supply as glycogen, it is critically dependent on a continuous supply of glucose from the circulation. "At normal (or elevated) arterial glucose concentrations, the rate of blood-to-brain glucose transport exceeds the rate of brain glucose metabolism. However, as arterial glucose levels fall below the physiological range, blood-to-brain glucose transport becomes limiting to brain glucose metabolism, and ultimately survival." - Hypoglycemia in Diabetes, Philip E. Cryer,Diabetes Care 26:1902-1912, 2003
 
@@ -2937,7 +2937,7 @@ If we need about 4 hours off (we can probably round down to 3.8 hours) we can do
 
 Since GH isn't effective for fat loss in the presence of insulin we probably want the meals that have the biggest impact on blood glucose and thus insulin to be ingested during the time GH is not active. After that meal is digested and insulin rises and then falls back to 90ng/dL we can administer GH and be confident it will have a positive impact on our overall fat loss protocol.
 
-##Further Note on GH &amp;amp; Insulin
+## Further Note on GH &amp;amp; Insulin
 
 In plain language, GH in certain circumstances increases glucose uptake identical to that of insulin into both muscle and adipose tissue. This involves translocations of glut 4 and to a lesser extent glut 1 from an intracellular pool to the plasma membrane. BUT in order for this to happen there must be an absence of GH for prolonged periods of time. It appears that this rarely occurs because the base level of GH is still too high to create this effect. *
 
@@ -2953,7 +2953,7 @@ One further note of interest though is this glucose uptake inhibiting effect of 
 
 * - Cellular mechanism of the insulin-like effect' of growth hormone in adipocytes Rapid translocation of the HepG2-type and adipocyte/muscle glucose transporters, Tanner, J. W. et al, Biochem. J. (1992) 282, 99-106
 
-##Age-Related Changes in Slow Wave Sleep and Relationship With Growth Hormone Levels
+## Age-Related Changes in Slow Wave Sleep and Relationship With Growth Hormone Levels
 
 I've tried to emphasize that Slow Wave Sleep (SW) and Growth Hormone (GH) are not merely positively correlated but are intricately bound together such that a change in one leads to a change in the other. That is why from the start I have attempted to underscore that a pre-bed dose of Growth Hormone Releasing Hormone (GHRH) &amp;amp; Growth Hormone Releasing Peptide 6 (GHRP-6) will increase that vital period of sleep known as Slow Wave Sleep which has restorative benefits beyond amplified GH release.
 
@@ -3138,7 +3138,7 @@ REFERENCES
 
 57. McEwen BS. Stress, adaptation, and disease. Allostasis and allostatic load. Ann N Y Acad Sci. 1998;840:33-44.
 
-##Growth Hormone Receptor structure, post-biogenesis behavior and degradation
+## Growth Hormone Receptor structure, post-biogenesis behavior and degradation
 
 The following was originally created primarily for my benefit and serves as a basic summary of Growth Hormone Receptor structure, post-biogenesis behavior and degradation.
 
@@ -3415,7 +3415,7 @@ REFERENCES:
 
 [114] W. Yi, S.O. Kim, J. Jiang, S.H. Park, A.S. Kraft, D.J. Waxman, S.J. Frank, Growth hormone receptor cytoplasmic domain differentially promotes tyrosine phosphorylation of signal transducers and activators of transcription 5b and 3 by activated JAK2 kinase, Mol. Endocrinol. 10 (1996) 1425–1443.
 
-##How GHRPs are cardio-protective
+## How GHRPs are cardio-protective
 
 The growth hormone secretagogues (GHS) are a family of synthetic compounds originally selected for their potent and specific effects on GH release. Nonetheless, it has been reported by us and other researchers that the GHS have also many extraendocrine actions, including those on energy metabolism and cardiovascular function. Ghrelin, the endogenous GHS, specifically binds to the GHS-R1a, a receptor that has been proposed to mediate the biological activities of endogenous and synthetic GHS. 
 
@@ -3435,7 +3435,7 @@ Source: Characterization of a Novel Extraendocrine Action of the Growth Hormone 
 
 Dept of Experimental Med, Univ of Milano-Bicocca, Monza, Italy; Interdepartmental Ctr for Bioinformatics Proteomics, Univ of Milano-Bicocca, Monza, Italy
 
-##How much GH do we secrete in IUs?
+## How much GH do we secrete in IUs?
 
 You see people on boards making all sorts of silly claims concerning how many ius we normally secrete.
 
@@ -3462,7 +3462,7 @@ For the lazy here is the chart from that post:
 
  ![](%%IUS%%)
 
-##Revisiting peptide timing, meals and GH release
+## Revisiting peptide timing, meals and GH release
 
 This is an interesting study done in cattle. Apparently cattle get one 2 hour feeding a day.
 
@@ -3482,7 +3482,7 @@ Next, we determined that GHRP-6- and GHRH-induced secretion of GH was lower 1 h 
 
 However, a combination of GHRP-6 at 3 ug/kg BW and GHRH at 0.2 ug/kg BW synergistically induced an equal and massive release of GH before and after feeding that was fivefold greater than GHRH induced release of GH after feeding. 
 
-##GF-1, GHRP, Testosterone, Trenbolone &amp; Nandrolone Primer [entire thread...] (What you should read if you don't want to be a beginner)
+## GF-1, GHRP, Testosterone, Trenbolone &amp; Nandrolone Primer [entire thread...] (What you should read if you don't want to be a beginner)
 
 I think it's important to start off by visualizing an interesting distinction between peptide hormones such as insulin and growth hormone and the peptide hormone IGF-1. Insulin and Growth Hormone have their own specific storage vesicles within specialize cells or tissue where they may sit and await a command for release. IGF-1 has no such storage compartment. Stated succinctly, Growth Hormone and Insulin are held in storage compartments before release whereas there is no such storage compartment for IGF-1.
 
@@ -3506,7 +3506,7 @@ Blood tests for circulating IGF-1 do not measure the activity of IGF-1. They are
 
 Endocrine vs paracrine secretory systems. a) The classical endocrine system, with a gland reserve of hormone and transmission of bursts of hormone release in the bloodstream to stimulate target tissues that selectively express the relevant hormone receptor. b) The endocrine IGF1 system has no primary gland store, but the peptide is constitutively produced from many tissues, with liver being a major source. The bloodstream serves as the IGF reservoir, retaining IGF1 complexed with binding proteins (BPs) and acid labile subunit (ALS) to prevent rapid elimination. A small proportion of free IGF dissociated from these complexes can bind IGF receptors in the target tissues. c) IGF1 is also generated locally in many tissues which are also targets for its action. They also produce binding proteins which may block or enhance IGF1 local action. BP and ALS in the circulation now serve to capture and buffer any locally produced IGF1 escaping to signal elsewhere.
 
-##IGF-1 - Primer part 2 (IGF-1 as a regulator of Skeletal Muscle Hypertrophy and Atrophy)
+## IGF-1 - Primer part 2 (IGF-1 as a regulator of Skeletal Muscle Hypertrophy and Atrophy)
 
 Let's start simply. Hypertrophy results from an enlargement. It is an increase in the size of something that exists and in regard to hypertrophy in skeletal muscle it is simply an increase in the size of existing muscle fibers. Hypertrophy does not refer to an increase in the number of pre-existing muscle fibers. IGF-1 is pro-hypertrophy meaning it promotes hypertrophy. It can play a role in the rare occurrence of hyperplasia which is an increase in the number of pre-existing muscle fibers. However most muscle mass increases in everyone from professional bodybuilders to the weekend hobbiest comes from hypertrophy so much so that hyperplasia is best left out of the anabolic discussion. Most people like the sound of the word "hyperplasia" but it is hypertrophy that does all the heavy lifting. 
 
@@ -3548,7 +3548,7 @@ Although all of this may seem to be a bit much for this post I bring it up only 
 
 To be continued... but I think I have given a sufficient little primer on IGF-1 and intracellular signaling. IGF-1 is anabolic and anti-catabolic. It inhibits myostatin and GSK3beta and promotes both protein synthesis and differentiation.
 
-##INFO ON MGF USE
+## INFO ON MGF USE
 
 To quickly summarize the difference in function, MGF stimulates muscle stem cells (satellite cells) to reenter the cell cycle and proliferate, whereas IGF-1 is necessary for the differentiation of newly generated muscle precursor cells into myoblasts and myofibers.See material from Goldspink posted earlier in this thread at: Post #158 Mechanical Signals, IGF-I Gene Splicing, and Muscle Adaptation
 
@@ -3632,7 +3632,7 @@ Actually they don't do it that way.
 
 This contrasts with, "similar experiments carried out using the systemic or liver type of IGF-I in an adenoviral vector under the control of a muscle regulatory sequence. This took four months to produce a 15% increase and is probably due to the anabolic effect of IGF-I, which is common to all the splice variants." - Barton-Davis E, Shoturma DI, Musaro A, et al. Viral mediated expression of insulin-like growth factor-I blocks the aging-related loss of skeletal muscle function. Proc Natl Acad Sci USA 1998;95:15603
 
-##Testosterone blunts IGF-1 inhibition of GH
+## Testosterone blunts IGF-1 inhibition of GH
 
 Rexanator led me to Testosterone Blunts Feedback Inhibition of Growth Hormone Secretion by Experimentally Elevated Insulin-Like Growth Factor-I Concentration, Johannes D. Veldhuis, Stacey M. Anderson, Ali Iranmanesh and Cyril Y. Bowers, The Journal of Clinical Endocrinology &amp;amp; Metabolism Vol. 90, No. 3 1613-1617, 2005, where they found:
 
@@ -3657,7 +3657,7 @@ Results: Recombinant human IGF-I injections 1) elevated mean and peak serum IGF-
 
 Conclusion: The capability of systemic T to mute IGF-I feedback on pulsatile GH secretion suggests a novel mechanism for augmenting GH production.
 
-##Adipose Visceral Fat Negatively correlated with effectiveness of GHRH &amp; GHRP-2
+## Adipose Visceral Fat Negatively correlated with effectiveness of GHRH &amp; GHRP-2
 
 Joint Regulation of Pulsatile GH Secretion by Estradiol, Dihydrotestosterone and Abdominal Visceral-Fat Mass in Healthy Older Men: A Paradigm of Aromatase and 5-alpha-Reductase Types I and II Blockade, J Veldhuis, K Mielke, J Miles, C Bowers
 
@@ -3683,7 +3683,7 @@ Summary E2 and DHT are positively predictive of GH responses to specific, rather
 
 Conclusion Sex steroids specifically and visceral adiposity generally determine peptide-selective drive of GH secretion in healthy older men. The precise pathways that mediate the interdigitating mechanisms are not known.
 
-##Here is another way to compare GHRPs &amp; GH dosing vs effect
+## Here is another way to compare GHRPs &amp; GH dosing vs effect
 
 This study * caught my attention because it examined the pharmacokinetics of GHRP-2 and in so doing compared it to synthetic GH administration.
 
@@ -3723,7 +3723,7 @@ Despite the apparent differences in serum GH pharmacokinetics reported after exo
 
 In conclusion, both the pharmacokinetics and pharmacodynamics of iv administered GHRP-2 in short children are predictable and reflective of the potential for therapeutic application of this peptide. The data produced in this investigation will enable the selection of GHRP-2 doses for future evaluation of their bioavailability, safety, tolerance, and efficacy in children.
 
-##Dat Knows MGF (you might as well learn something as well)
+## Dat Knows MGF (you might as well learn something as well)
 
 To quickly summarize the difference in function, MGF stimulates muscle stem cells (satellite cells) to reenter the cell cycle and proliferate, whereas IGF-1 is necessary for the differentiation of newly generated muscle precursor cells into myoblasts and myofibers.
 
