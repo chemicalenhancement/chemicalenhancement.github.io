@@ -3,7 +3,7 @@ revision_id: fa8c60c2-d636-11ec-91d7-c69e5fad4328
 revision_date: 1652829216
 ---
 
-#Your First Cycle
+# Your First Cycle
 
 So, you got interested in steroids and are now trying to figure out where to start. Beginners have one rule: **KISS**.
 
@@ -13,10 +13,10 @@ Contrary to what a lot of people say, /r/steroids does not believe that you have
 
 This wiki page will include how to administer the steroids, recommended doses and durations, how to prevent and counteract side effects, and what you can expect to gain from your first cycle.
 
-###BEGINNER FAQ
+### BEGINNER FAQ
 -Contributions by u/DLTBB2 
 
-####Can I Just Do An Oral Only Cycle?
+#### Can I Just Do An Oral Only Cycle?
 
 You can. Should you? Absolutely not. Oral steroids are going to suppress your natural Testosterone production hard. 
 
@@ -28,15 +28,15 @@ As you won't have any Testosterone to support the muscles you're building, you'l
 
 If you choose to do a orals-only cycle against all sound advice, you should look into getting a SERM (like [Nolvadex](/r/steroids/wiki/nolvadex)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [proper PCT](/r/steroids/wiki/thecycle/pct), as well. You should consider reading through this Wiki and *doing a real cycle*, **complete with Testosterone**, *as you'll find better results, as well as feeling better too*.
 
-####What About A Prohormone Or Designer Steroid Cycle?
+#### What About A Prohormone Or Designer Steroid Cycle?
 
 Again. You can. Should you? Probably not. Prohormones &amp; Designer Steroids are going to suppress your natural Test pretty hard. 
 
-**You need to take ANY CYCLE*** **together with a base of Testosterone to replace your natural production, which will be shut down. Without a testosterone base you may find you don't feel the best or you feel [symptoms of low testosterone](/r/steroids/wiki/trt/list#wiki_symptoms_of_low_testosterone)**. 
+***You need to take ANY CYCLE*** **together with a base of Testosterone to replace your natural production, which will be shut down. Without a testosterone base you may find you don't feel the best or you feel [symptoms of low testosterone](/r/steroids/wiki/trt/list#wiki_symptoms_of_low_testosterone)**. 
 
 Prohormones &amp; Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/r/steroids/wiki/nolvadex)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [real PCT](/r/steroids/wiki/thecycle/pct). You should consider reading through this Wiki and *doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too*.
 
-####Is my gear bunk?
+#### Is my gear bunk?
 
 It's a question we see almost daily on the forum. The author's cycle isn't living up to their expectations and more often than not, the first thing they'll do is blame the gear for their underwhelming results. But are they doing everything that is required from them to make gains? Are they using the correct metrics to evaluate whether their gear is legit? And have they started the cycle with realistic expectations? In most cases, absolutely not.
 
@@ -60,7 +60,7 @@ My bench press hasn’t suddenly shot up by 50KG..
 
 It won’t. Sure, you’ll gain strength faster than you would naturally. But you’re not going to turn superhuman overnight or even during one full cycle. You need to tailor your routine so it’s focused on progression and work on adding small increments in weight, extra reps or additional time under tension to your lifts each week over the course of the cycle. The small and consistent increments will add up and it’s possible to boost your numbers considerably in 15 weeks, but you’re not going to turn in to Larry Wheels. Look at the volume and frequency of your training and make sure it’s right for you and you’re able to recover in between sessions. Focus on progression. Get rid of all of that junk volume where you’re lifting with little to no intensity and aimlessly trying to pump the muscle thinking it’s going to explode. That kind of training might work for a select few with superb genetics, but you’re better off focusing on the bread and butter and getting stronger over low to moderate volume.
 
-####Is (random UGL that has existed for one week) Pharma legit?
+#### Is (random UGL that has existed for one week) Pharma legit?
 
  ***REMEMBER THAT THERE WILL BE NO SOURCE DISCUSSIONS ALLOWED ON THIS FORUM***
 
@@ -82,13 +82,13 @@ I haven't been able to replicate (fitness influencer)'s physique even though I'v
 
 There is a million things separating your physique from theirs other than your cycle. Your height, weight, frame, insertions, muscle bellies, muscularity, body fat percentage, body fat distribution, calorie/macro/fluid/mineral intake, training volume/frequency/intensity/style and countless other factors will differ from theirs. And what's to say they are being honest about their cycle and dose to begin with? It's common for somebody in the public eye to downplay their cycle/doses to pay homage to their work rate, genetics and consistency. You are naïve if you think you will mimic somebody's exact physique by simply copying their gear protocol.
 
-####I don’t feel anything, I have zero side effects, my training and nutrition is perfect and I’ve still not gained a single pound
+#### I don’t feel anything, I have zero side effects, my training and nutrition is perfect and I’ve still not gained a single pound
 
 Get a blood test from MediChecks while on cycle and post your results. If the gear is bunk or severely under dosed, your blood work will show this quite clearly and then we can all agree that the gear is indeed bunk. I’ve been blasting and cruising for upwards of 8 years and I can’t ever recall using any gear that was blatantly bunk and I’ve used every lab under the sun, so I don’t think it’s as common as the constant bunk gear threads are suggesting. If you’re using a compound which won’t show on a blood panel, send a sample to Janoshik or a similar lab for testing. That will identify the exact contents of your gear and you'll know if it's accurately dosed, under dosed or bunk. Most of the time, it’s a training/diet issue and people are blaming it on the gear before accepting they might not be ticking all the boxes. If in doubt and you’re doing everything right, get a blood test or a lab test and you’ll know for sure.
 
 Don’t go in to this with your expectations too high. If your diet consists of one solid meal a day and 5 snacks that are fit for a primary school student’s lunchbox, you’re not going to look like Nick Walker any time soon. In fact, you’ll probably never look like him, or even a low level IFBB Pro. Your genetics will dictate 95% of your potential and even if you do EVERYTHING perfectly, you’ll finish your first cycle looking like a slightly thicker, fuller, stronger version of your natural self with slightly rounder delts, more prominent traps and a couple of extra veins running down your upper arm when you’ve got a good pump. Maybe 1 in 50 of you will be a great responder and finish the cycle looking dramatically different, but you’ll never need to ask this question because it’ll be clear your gear is real from the offset.
 
-#The Basic Bulk
+# The Basic Bulk
 
 The Basic Bulk, that is recommend, is a 12–20 week cycle of Testosterone while running a moderate calorie surplus with emphasis on gaining as much lean muscle tissue as possible and progressively adding weight to your lifts.
 
@@ -106,9 +106,9 @@ When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Rece
 
 **REMINDER: NO SOURCE TALK. This forum is not the place for you to do research or request source information.**
 
-##What You Will Need
+## What You Will Need
 
-###Essentials
+### Essentials
 
 * Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate)  - 4 x 10 mL Vials (generally dosed 250-300mg per mL)
 
@@ -124,7 +124,7 @@ When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Rece
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 25g Needles (1") for injecting anywhere else (Not necessary if only injecting Glutes.)  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Alcohol injection swabs  
 
-###Optional Items
+### Optional Items
 
 * **[An Oral Steroid](/r/steroids/wiki/your_first_cycle#wiki_what_oral_steroid_should_i_use.3F)**
 
@@ -136,11 +136,11 @@ When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Rece
 &amp;nbsp;&amp;nbsp;&amp;nbsp; **or**  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Nolvadex
 
-##Why 4 Vials of Testosterone?
+## Why 4 Vials of Testosterone?
 
 On a lot of forums the first cycle advised to new steroid users is 10-12 weeks. 10 weeks is slightly too little. 12 weeks is fine, but you will have Test left in the vial. For this reason, you may go up to 16–20 weeks. Given this is your first cycle and will likely yield some of the most dramatic results, (assuming diet, training and rest are on point) you want to strike a balance between maximizing your gain and minimizing the time it will take to recover from the cycle and any potential side effects. It is always recommended to at least PCT for your first cycle vs. Blast &amp; Cruise.
 
-###Testosterone Enanthate Or Testosterone Cypionate?
+### Testosterone Enanthate Or Testosterone Cypionate?
 
 **What's The Difference?**  
 Approximately nothing. Definitely nothing that is going to make a difference in choosing one or the other for our purposes. Read the specifics below:
@@ -190,7 +190,7 @@ You should read the AI portion of [The Estrogen Handbook](/r/steroids/wiki/the_e
 
 **If you choose Aromasin**: [TAKE WITH FATS](/r/steroids/wiki/faq/list#wiki_q.3A_does_aromasin_need_to_be_taken_with_fat.3F)
 
-##How Much AI Do I Need?
+## How Much AI Do I Need?
 
 ***Hopefully none!***
 
@@ -223,7 +223,7 @@ Crashed E₂ sides are far worse than the inverse, and estrogen should be propor
 
 Gyno takes weeks to develop, and new gyno can effectively be taken care of with SERMS while continuing the cycle.
 
-####**Estradiol Rise**
+#### **Estradiol Rise**
 
 With this testosterone peak, Estradiol (E2) has been found to correlate directly.^[[5]](https://academic.oup.com/jcem/article/95/8/3955/2597323) This is no surprise as aromatization will occur, causing Estradiol to peak shortly after as well. 
 
@@ -239,11 +239,11 @@ One factor that you’ll notice from the first bullet point is the difference be
 
 Another point of consideration is your age. It has been shown in individuals ~65 y/o that the aromatization is far greater than that of someone in their 20s. This was even the case when controlling percentage fat mass as that can increase aromatase.^[[5]](https://academic.oup.com/jcem/article/95/8/3955/2597323)[[6]](https://www.ncbi.nlm.nih.gov/pubmed/11399122) So if your Gramps is wanting to do his first cycle, he may want to watch for high estrogen sides sooner. Likewise If you are entering your 40s-50s, you may want to watch for sides slightly earlier, but otherwise you'll be fine with the below.
 
-###Study Disclaimer
+### Study Disclaimer
 
 The problem with these studies for us as anabolic steroid users are we’re not just injecting once. We are injecting weekly, and with that we don’t have cold hard data for right at the beginning of the cycle—how E₂ is affected injection by injection. The best we have is a table showing 300 mg and 600mg injected weekly for 5 months, but the table with the data is just the average over the 5 months, this doesn’t show us each point of data that they took. It would be interesting to see the first few weeks of the study.
 
-###Putting It All Together.
+### Putting It All Together.
 
 * Assuming you are a healthy eugonadal male
 
@@ -271,7 +271,7 @@ If you're injecting on Mondays and Thursdays:
 
 *****
 
-###References
+### References
 
 1.	[Behre HM, Nieschlag E. 1998 Comparative pharmacokinetics of testosterone esters. In: Nieschlag E, Behre HM, eds. Testosterone: Action, Deficiency, Substitution, ed 2. Berlin: Springer-Verlag; 329–348.](https://imgur.com/a/ECYhEXk)
 
@@ -287,7 +287,7 @@ If you're injecting on Mondays and Thursdays:
 
 
 
-##SERM On Cycle?
+## SERM On Cycle?
 
 **I thought SERMs were just for PCT, why do I need Raloxifene or Nolvadex for on cycle?** 
 
@@ -297,7 +297,7 @@ Raloxifene and Nolvadex will both bind to the Estrogen receptor at the breast si
 
 This isn't required, but it is definitely **RECOMMENDED.** It's always better to have it and not need it rather than need it and not have it.
 
-##Injecting Your Gear
+## Injecting Your Gear
 
 The injection process itself is relatively straight forward. Perhaps nothing causes more anxiety for AAS users than their 1st injection. This fear is far more psychological than physical, as the act of performing an injection, especially when utilizing proper technique and the correct pin size, can be relatively painless. Some muscle groups are more prone to causing discomfort than others and the possibility of hitting a nerve, scar tissue, or a sore spot is a reality, but in general, an injection should not be considered a “painful” experience.
 
@@ -311,7 +311,7 @@ For a first cycle, the easiest not to mess up is [Glutes](/r/steroids/wiki/thecy
 
 &gt; [**To Learn All About Potential Post Injection Pain, Click Here**](/r/steroids/wiki/thecycle/injecting#wiki_pip_.28post_injection_pain.29)
 
-##Frontloading Test?
+## Frontloading Test?
 
 Frontloading simply means to take a calculated, especially high dose on the first day (or week) for injectable AAS. This allows blood levels of the compound to reach a stable level faster. The problem is taking a large amount of Test can be hard to control estrogen.
 
@@ -319,7 +319,7 @@ Frontloading simply means to take a calculated, especially high dose on the firs
 
 No, this is your first cycle and we want to keep things as simple as possible, that includes managing sides; the optional oral is already pushing things.
 
-##OPTIONAL: What Oral Steroid Should I Use?
+## OPTIONAL: What Oral Steroid Should I Use?
 
 Again, an oral steroid is **completely optional**. Oral steroids can add greater complexity to cycles if we start throwing in more compounds. 
 
@@ -335,7 +335,7 @@ Other options include Anadrol or Superdrol, both of which do not aromatize, but 
 
 **In the end, the choice is personal in nature**.
 
-###Suggested Orals
+### Suggested Orals
 
 * [Dianabol (Dbol)](http://www.reddit.com/r/steroids/wiki/dianabol) is a very "wet" compound, which means that it converts to estrogen and at a high rate at that. It is highly recommended to use an AI from day one of this cycle in order to prevent heavy water retention, [gynecomastia](/r/steroids/wiki/sides/gynecomastia), and other [high estrogen side effects](/r/steroids/wiki/sides/changes_in_estrogen_levels#wiki_high_estrogen_sides). ([Sides](/r/steroids/wiki/dianabol#wiki_risks.2Fside_effects)). ***Don't use Dianabol unless you know how to manage E2, or you can afford the extra time and attention to properly dial it in.*** For this reason it's oft-best left mid-cycle, or as a finisher when you have your E2 under control, unless you can commit to the added estrogen management from the start. 
 
@@ -353,25 +353,25 @@ Other options include Anadrol or Superdrol, both of which do not aromatize, but 
 
 There are two trains of thought when it comes to this, and a third if you mix the two. Whatever you decide, if you experience gastrointestinal discomfort, you can avoid this by taking your oral steroids with meals when possible.
 
-####**Half-Life Method**
+#### **Half-Life Method**
 
 Oral steroids have a short half-life of just a few hours. One classic method says that they should be split throughout the day. So you'd start dosing as soon as you wake up and then every 4 hours or so (as much as you can split it up) throughout the day.
 
 Off Days: Same as above.
 
-####**Pre-Workout Method**
+#### **Pre-Workout Method**
 
 One recent trend which has become quite popular lately is the pre-workout method, in which the individual administers the entire day’s dose of oral AAS immediately before training; usually around ~1.5 hours pre-workout.
 
 Off Days: Either all upon waking or the Half-Life Method.
 
-####**Hybrid Method**
+#### **Hybrid Method**
 
 A third option is to mix the two above methods. What you would do is take a small dose throughout the day, but pre-workout (~1.5 hours pre-workout) you will take a slightly higher dose.
 
 Off Days: Use the Half-Life Method.
 
-##How Often Should I Pin (Inject)?
+## How Often Should I Pin (Inject)?
 
 It is suggested on /r/steroids that you should at least inject every three days (E3D) or every 3.5 days (E3.5D) to keep blood levels as stable as possible for Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate). This will minimize side effects and make controlling estrogen easier. You may do once a week, but it is not optimal.
 
@@ -379,15 +379,15 @@ It is suggested on /r/steroids that you should at least inject every three days 
 
 &gt; [Here is an example of 250mg Test Enanthate injected every 3.5 days](https://imgur.com/a/LwCgI), also plotted with [SteroidPlotter](http://steroidplotter.com/). As you can see the release rate, in which Testosterone is released into your blood, is more stable.
 
-##Post Cycle Therapy (PCT)
+## Post Cycle Therapy (PCT)
 
 After you did your 12-15 week cycle, you have to begin your Post Cycle Therapy (PCT). The first two weeks after your last injection you do not take any drugs, as the endogenous testosterone is still disrupting your natural endocrine system.
 
 Then, you will either do a [/r/steroids Recomended PCT](/r/steroids/wiki/thecycle/pct#wiki_pct_protocols)
 
-##Human Chorionic Gonadotrophin (HCG)
+## Human Chorionic Gonadotrophin (HCG)
 
-###**Why Should I Use HCG?**
+### **Why Should I Use HCG?**
 
 Running a small dose of [HCG](/r/steroids/wiki/hcg) will help to keep the testes full and will aid with recovery once you come to the end of your cycle and need to PCT. It’s not 100% necessary, but if you have access to some and don’t mind spending a small amount of money to speed up your recovery then it is probably worth looking at. 
 
@@ -409,7 +409,7 @@ The other form hCG might come in is a liquid form. This is hCG in a solution wit
 
 In either case, hCG should be kept in the refrigerator after reconstitution to preserve its shelf life. It should be refrigerated within 72 hours of mixing it with bac water. hCG should be good for around 60 days when refrigerated. After that time it will lose potency at about ten percent per week as time goes on. 
 
-##Blood Work
+## Blood Work
 
 Regular blood work is **STRONGLY** encouraged. It is recommend getting blood work before starting your cycle (to assess your baseline Testosterone levels and general health), during your cycle (to confirm that your Testosterone is legitimate and properly dosed), and after your cycle (to assess how well you have recovered). [The wiki page regarding blood work can be found here](/r/steroids/wiki/bloodwork/list) and [some help in how to understand your results can be found here.](https://www.reddit.com/r/steroids/wiki/bloodwork/health_markers)
 
