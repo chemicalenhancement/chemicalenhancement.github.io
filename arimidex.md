@@ -3,7 +3,7 @@ revision_id: e6ea13b6-b54b-11e9-af79-0ebdbc2b1c3c
 revision_date: 1564767321
 ---
 
-#Arimidex (Anastrozole)
+# Arimidex (Anastrozole)
 
 **Drug Class:** Aromatase Inhibitor
  
@@ -15,7 +15,7 @@ For bodybuilders and strength athletes, Anastrozole is used to minimize the arom
 
 Interestingly, in addition to decreasing estrogen it has been demonstrated that anastrozole can also increase testosterone levels by up to 58%, along with also raising levels of lutenizing hormone^3 . This is quite significant especially when one considers that anastrozole can be used in conjunction with other compounds during a user's post cycle therapy to raise natural testosterone levels once administration of anabolics steroids is completed via the hypothalamic testicular pituitary axis.
 
-##Use/Dosing
+# #Use/Dosing
 
 In the majority of users, .5mgs per day should be enough to prevent any estrogen related side effects related to anabolic steroid use. Even when doses were increased to 1 mg per day there was no change in the amount of estrogen that was able to be reduced as compared to doses of .5mgs per day^3 . This would seem to indicate that raising your dosage will show no further results if estrogenic side effects continue to be a problem at a dosage of .5mgs. If symptoms persist the user may have to try a more potent compound such as Femara^4 . 
 
@@ -25,13 +25,13 @@ For users using anastrozole during their post cycle therapy the same dosages sho
 
 Blood levels of the compound should stabilize and reach their peak at about 7-10 days after first administering the drug^5 . Therefore it is unlikely that a user would need to frontload with anastrozole or begin taking it before they start administering the anabolics that they plan on taking.
 
-##Side Effects/Risks
+## Side Effects/Risks
 
 Anastrozole is seemingly very mild on blood lipids (cholesterol) and has not been shown to affect them adversely^6,7 . However it should be noted that in theory if one was to consistently suppress your natural estrogen levels for a long period of time, this would negatively impact your health (including your cholesterol). Despite this there is no scientific evidence that anastrozole can be dangerous for healthy individuals to use, even for extended periods of time. 
 
 It would seem then that anastrozole has little in the way of negative side effects associated with it's use. It is by far one of the safest compounds that an athlete can use.
 
-##References
+## References
 
 1. *Preclinical pharmacology of "Arimidex" (anastrozole: ZD1033)--a potent, selective aromatase inhibitor. J Steroid Biochem Mol Biol 1996 Jul;58(4):439-45*
 2. *The ATAC Trialists Group. The ATAC (Arimidex, Tamoxifen, Alone or in Combination) adjuvant breast cancer trial in post-menopausal women with early breast cancer. Lancet 2002; 359: 2131-39*
