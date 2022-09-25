@@ -3,7 +3,7 @@ revision_id: 47d56e28-d867-11e2-a021-12313d281d4a
 revision_date: 1371594887
 ---
 
-#Cheque Drops (Mibolerone)
+# Cheque Drops (Mibolerone)
 
 **Chemical Names:** 7, 17-alpha-dimethyl-19-norandrost-4-en-3-one-17b-ol, 17beta-hydroxy-7alpha, 17-dimethylestr-4-en-3-one
 
@@ -21,7 +21,7 @@ Mibolerone is a 7,17-dimethylated derivative of nandrolone, meaning that a methy
 
 For the most part, mibolerone is only useful prior to athletic events or competitions for those athletes looking to become more aggressive and energetic. There are very little anabolic effects related to the compound if a user is administering the compound at relatively safe/low dosages. This gives it a very limited appeal. 
 
-##Use/Dosing
+## Use/Dosing
 
 Mibolerone is an oral steroid and the liquid should be administered sublingually. To avoid any liver damage it should not be used no longer than two weeks at a time at doses ranging from about 200-250mcg for inexperienced users, some more experienced users of course going higher. The effects of the compound should be felt by the user within approximately thirty minutes after administering the drug. 
 
@@ -29,7 +29,7 @@ It should be noted that the dosages given here will only help to increase the fo
 
 If used alone with no other anabolic steroids, mibolerone will only partially suppress natural testosterone production for short periods of time and testosterone levels in the user should normalize without the need of running any type of post-cycle therapy after the use of the compound is complete. If a user is administering other anabolic compounds however, it would be advisable not to do so with other 17 alpha alkylated drugs due to the toxicity issues that would likely occur. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Estrogenic side effects can be extremely intense, but progestational activity can also become a problem with mibolerone^1. Being a 17 alpha alkylated compound, liver damage is also a concern. As you can see, there are several precautions that need to be taken when using this drug. Of course aggression and an increase in blood pressure should be expected, as the purpose that a user of the compound would be taking it for is to do increase both of these very things. However aside from the increased aggression and blood pressure a user should not suffer from too many of the negative side effects of the compound as long as they do not run it for too long or at high doses. 
 
@@ -37,7 +37,7 @@ Due to the fact that mibolerone is one of the most potent androgens that a perso
 
 Mibolerone should be seen as compound to be used for the specific purpose of increasing an athlete's focus and aggression for small periods of time. If it's use is confined for these purposes a user should not suffer any ill effects. However if the compound is abused, like most other performance enhancing drugs, the user may be setting themselves up for permanent damage. 
 
-##References
+## References
 
 1. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition, pp. 85-6*
 2. *The biological activity of 7 alpha-methyl-19-nortestosterone is not amplified in male reproductive tract as is that of testosterone. Endocrinology. 1992 Jun; 130(6): 3677-83*
