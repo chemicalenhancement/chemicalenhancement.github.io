@@ -15,7 +15,7 @@ For bodybuilders and strength athletes, Anastrozole is used to minimize the arom
 
 Interestingly, in addition to decreasing estrogen it has been demonstrated that anastrozole can also increase testosterone levels by up to 58%, along with also raising levels of lutenizing hormone^3 . This is quite significant especially when one considers that anastrozole can be used in conjunction with other compounds during a user's post cycle therapy to raise natural testosterone levels once administration of anabolics steroids is completed via the hypothalamic testicular pituitary axis.
 
-# #Use/Dosing
+## Use/Dosing
 
 In the majority of users, .5mgs per day should be enough to prevent any estrogen related side effects related to anabolic steroid use. Even when doses were increased to 1 mg per day there was no change in the amount of estrogen that was able to be reduced as compared to doses of .5mgs per day^3 . This would seem to indicate that raising your dosage will show no further results if estrogenic side effects continue to be a problem at a dosage of .5mgs. If symptoms persist the user may have to try a more potent compound such as Femara^4 . 
 
