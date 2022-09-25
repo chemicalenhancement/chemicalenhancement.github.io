@@ -31,7 +31,7 @@ If you want to use AAS safely, bloodwork is essential.
 
 * For those that Blast &amp; Cruise (B&amp;C), it's important to run bloodwork at least 3-4 times per year to ensure health levels are stable and not declining or anomalous for any reason. 
 
-*It's good to have a baseline knowledge* of individual health markers, so be sure to check out our [Health Markers](/r/steroids/wiki/bloodwork/health_markers) page.
+*It's good to have a baseline knowledge* of individual health markers, so be sure to check out our [Health Markers](/bloodwork/health_markers) page.
 
 ## How Do I Get Bloodwork?
 

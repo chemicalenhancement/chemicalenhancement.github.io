@@ -73,7 +73,7 @@ tissue (stimulating metabolism). This may aid in body fat reductions and increas
 
 ##Companion Supplement(s)
 
-[See ECA or EC Stack](/r/steroids/wiki/eca_stack)
+[See ECA or EC Stack](/eca_stack)
 
 ##Note:
 

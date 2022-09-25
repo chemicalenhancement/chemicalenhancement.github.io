@@ -11,35 +11,35 @@ Compound | Type | Notes
 :--------------|:--------------:|:-------------:
 Accutane |  | Acne prevention.  Do not give blood if using. 
 Albuteral | β2-adrenergic receptor agonist | Cutter 
-[Arimidex (Anastrozole)](/r/steroids/wiki/arimidex) | AI, Reversible, non-steroidal |   Standard AI, [FAQ](/r/steroids/wiki/edit/compounds/ancillaries#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_ran_together.).
-[Aromasin (Exemestane)](/r/steroids/wiki/aromasin) | AI, Irreversible, steroidal |  [Take with fatty meal](http://www.reddit.com/r/steroids/comments/24zbha/making_a_switch_from_arimidex_to_aromasin_how/chclz14), not water soluble.
+[Arimidex (Anastrozole)](/arimidex) | AI, Reversible, non-steroidal |   Standard AI, [FAQ](/edit/compounds/ancillaries#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_ran_together.).
+[Aromasin (Exemestane)](/aromasin) | AI, Irreversible, steroidal |  [Take with fatty meal](http://www.reddit.com/r/steroids/comments/24zbha/making_a_switch_from_arimidex_to_aromasin_how/chclz14), not water soluble.
 [Bazedoxifene](http://en.wikipedia.org/wiki/Bazedoxifene) | SERM | Need usage info
-[Cabergoline](/r/steroids/wiki/dostinex) | Dopamine Receptor Agonists |  Anti-prolactin
+[Cabergoline](/dostinex) | Dopamine Receptor Agonists |  Anti-prolactin
 [Clenbuterol](/r/steroids/comments/1idpv0/gear_profile_clenbuterol_hydrochloride/) | Sympathomimetic Amine | Cutter, Detectable for 4 days, seperate doses by 3-4 hours 
 Cialis |  |  Helps blood flow
-[Clomid](/r/steroids/wiki/clomid) | SERM |  Used for PCT
-[Cyclofenil](/r/steroids/wiki/cyclofenil)| SERM |  
-[Cytadren (Aminoglutethimide)](/r/steroids/wiki/cytadren)  | AI, Irreversible, steroidal |   Has cortisol reducing effect
+[Clomid](/clomid) | SERM |  Used for PCT
+[Cyclofenil](/cyclofenil)| SERM |  
+[Cytadren (Aminoglutethimide)](/cytadren)  | AI, Irreversible, steroidal |   Has cortisol reducing effect
 [Dantrolene](http://en.wikipedia.org/wiki/Dantrolene) | Muscle Relaxant | May be able to help for DNP overdose
 [Dimethyl sulfoxide (DMSO)](http://en.wikipedia.org/wiki/Dimethyl_sulfoxide)  |  |  [Possibly dangerous, controversial joint pain relief.](http://www.dmso.org/articles/information/muir.htm)
-[DNP (2,4-Dinitrophenol)](/r/steroids/wiki/dnp) | Dinitrophenols | Cutter (See Datrolene)
+[DNP (2,4-Dinitrophenol)](/dnp) | Dinitrophenols | Cutter (See Datrolene)
 [Ephedrine](http://www.reddit.com/r/steroids/wiki/ephedrine) | Sympathomimetic Amine | Cutter, Can enflame prostate
-[ECA or EC Stack](/r/steroids/wiki/eca_stack) | [Ephedrine](/r/steroids/wiki/ephedrine) / Caffine / Asprin (Optional) | Cutter
-[Fulvestrant](/r/steroids/wiki/compounds/fulvestrant) | AI, selective estrogen receptor down-regulator (SERD) | No information on usage during cycles.
-[HCG](/r/steroids/wiki/hcg) | Synthetic LH | 
-[Humog (hMG)](/r/steroids/wiki/compounds/human_menopausal_gonadotropins) | LH and FSH |  
+[ECA or EC Stack](/eca_stack) | [Ephedrine](/ephedrine) / Caffine / Asprin (Optional) | Cutter
+[Fulvestrant](/compounds/fulvestrant) | AI, selective estrogen receptor down-regulator (SERD) | No information on usage during cycles.
+[HCG](/hcg) | Synthetic LH | 
+[Humog (hMG)](/compounds/human_menopausal_gonadotropins) | LH and FSH |  
 [Letrozole](/r/steroids/comments/1skhzd/gear_profile_letrozole/) | AI, Reversible, non-steroidal |  Powerful AI
 Liv 52 | Liver Protection |   
 Ostarine (Enobosarm) | SARM |   
 Pramipexole | Dopamine Receptor Agonists |   Anti-prolactin
 [Lasofoxifene](http://en.wikipedia.org/wiki/Lasofoxifene) | SERM | Need Info
 [Raloxifene](http://en.wikipedia.org/wiki/Raloxifene)| SERM |  Can treat some gyno from puberty
-[Melatonin](/r/steroids/wiki/compounds/melatonin) | Neurohormone |  Sleep regulation
-[Nolvadex (Tamoxifen)](/r/steroids/wiki/nolvadex) | SERM |  Used for PCT, [FAQ](/r/steroids/wiki/edit/compounds/ancillaries#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_ran_together.).
+[Melatonin](/compounds/melatonin) | Neurohormone |  Sleep regulation
+[Nolvadex (Tamoxifen)](/nolvadex) | SERM |  Used for PCT, [FAQ](/edit/compounds/ancillaries#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_ran_together.).
 [SINGULAIR \(montelukast sodium\)](http://en.wikipedia.org/wiki/Montelukast) | Leukast | Can prevent respiratory weakness from Tren
 [Testolactone](http://en.wikipedia.org/wiki/Testolactone) | AI, Reversible, non-steroidal |    Old, weak AI
 T4 (Thyroxine) | Thyroid Hormone | Precursor to T3
-[Toremifene](/r/steroids/wiki/toremifene)| SERM |    Used in PCT
+[Toremifene](/toremifene)| SERM |    Used in PCT
 [T3](https://www.reddit.com/r/steroids/comments/5z67tn/t3_triiodothyronine_and_its_dangers_and_use_in/) | [Thyroid Hormone](https://www.reddit.com/r/steroids/comments/5z67tn/t3_triiodothyronine_and_its_dangers_and_use_in/) | Cutter
 Triptorelin | GnRH Agonist |  One shot PCT, with risk of infertility
 [TUDCA](http://en.wikipedia.org/wiki/Tauroursodeoxycholic_acid)  | Liver Protection | 

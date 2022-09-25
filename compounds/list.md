@@ -21,7 +21,7 @@ Anabolic steroids also have androgenic and virilizing properties, including the 
 
 * [*Drostanolone*](https://www.reddit.com/r/steroids/wiki/masteron) *aka* ***Mast***, ***Masteron*** — **DHT derivative**. Rated **62**/**25**. Mild, lean, dry gains. Considered a cutting steroid. As with other DHT analogues, masteron yields increased libido, aggression and strength enhancement in the gym; general confidence and well-being enhancement outside of the gym. [*Experience thread*](https://www.reddit.com/r/steroids/comments/9dz2ps/compound_experience_saturday_masteron/)*.*
 
-* [*Trenbolone*](/r/steroids/wiki/trenbolone) *aka* ***Tren***, ***Parabolan*** — **19-nortestosterone** (***19***\-***nor***) **derivative**. Rated **500**/**500**. Recomp, super-effective nutrient partitioning, massive strength gains, dry, grainy look, sides from hell, toxic, tough to out-eat on bulk. [*Experience thread*](https://www.reddit.com/r/steroids/comments/8oboj2/compound_experience_sunday_trenbolone_aka_tren/)*.*
+* [*Trenbolone*](/trenbolone) *aka* ***Tren***, ***Parabolan*** — **19-nortestosterone** (***19***\-***nor***) **derivative**. Rated **500**/**500**. Recomp, super-effective nutrient partitioning, massive strength gains, dry, grainy look, sides from hell, toxic, tough to out-eat on bulk. [*Experience thread*](https://www.reddit.com/r/steroids/comments/8oboj2/compound_experience_sunday_trenbolone_aka_tren/)*.*
 
 * [*Trestolone*](https://www.reddit.com/r/steroids/wiki/trestolone) *aka* ***MENT*** *(7α-methyl-19-nortestosterone)* — **19-nortestosterone** (***19***\-***nor***) **derivative**. Rated **2500**:**650**. Some refer to this compound as a hybrid of Test, Tren and Deca. Lean gains, super anabolic at 10x more myotropic than test. Aromatizes to methyl-estrogen. Can be side heavy. Briefly studied as a male contraceptive, however all studies were halted 2013 with unclear reasons as to why. [*Experience thread*](https://www.reddit.com/r/steroids/comments/86t5st/compound_experience_saturday_trestolone_trest_ment/)*.* 
 
@@ -33,28 +33,28 @@ The following compounds are used more often.
 
 Compound | Androgenic | Anabolic | Melting Point (°C) | Notes   
 :--------------|:--------------:|:-------------:|:-------------:|:-------------   
-[Anadrol 50 (Oxymetholone)](/r/steroids/wiki/anadrol) | 45 | 320 |177-180 | Detectable for 2 months   
-[Anavar (Oxandrolone)](/r/steroids/wiki/anavar) | 24 | 322-630 | 235-238 | Detectable for 2 weeks   
+[Anadrol 50 (Oxymetholone)](/anadrol) | 45 | 320 |177-180 | Detectable for 2 months   
+[Anavar (Oxandrolone)](/anavar) | 24 | 322-630 | 235-238 | Detectable for 2 weeks   
 Androgel (Testosterone) | 100 | 100 | |   
-[Deca-Durabolin (Nandrolone Decanoate)](/r/steroids/wiki/deca_durabolin) | 37 | 125 |30-35 |   
-[Dianabol (Methandrostenolone)](/r/steroids/wiki/dianabol) | 40-60 | 90-210 |165-166 | [Detectable for 19 days.](http://www.ncbi.nlm.nih.gov/pubmed/16804957)   
+[Deca-Durabolin (Nandrolone Decanoate)](/deca_durabolin) | 37 | 125 |30-35 |   
+[Dianabol (Methandrostenolone)](/dianabol) | 40-60 | 90-210 |165-166 | [Detectable for 19 days.](http://www.ncbi.nlm.nih.gov/pubmed/16804957)   
 Durabolin (Nandrolone Phenylpropionate) | 37 | 125 |92-96 |   
-[Dymethazine (Mebolazine)](/r/steroids/wiki/dymethazine) | 95-96 | 210 | N/A |   
-[Equipoise (Boldenone Undecylenate)](/r/steroids/wiki/equipoise) | 50 | 100 | liquid| Detectable for 5 months   
-[Epistane (Methylepitiostanol)](/r/steroids/wiki/epitiostanol) | 91 | 1,100 | 130.7 |   
-[Halotestin (Fluoxymesterone)](/r/steroids/wiki/halotestin) | 850 | 1,900 | 228-230 | Detectable for 2 months   
-[Masteron (Drostanolone Propionate)](/r/steroids/wiki/masteron) | 25-40 | 62-130 | 124-126 | Detectable for 2 months   
+[Dymethazine (Mebolazine)](/dymethazine) | 95-96 | 210 | N/A |   
+[Equipoise (Boldenone Undecylenate)](/equipoise) | 50 | 100 | liquid| Detectable for 5 months   
+[Epistane (Methylepitiostanol)](/epitiostanol) | 91 | 1,100 | 130.7 |   
+[Halotestin (Fluoxymesterone)](/halotestin) | 850 | 1,900 | 228-230 | Detectable for 2 months   
+[Masteron (Drostanolone Propionate)](/masteron) | 25-40 | 62-130 | 124-126 | Detectable for 2 months   
 [Methylstenbolone](http://www.reddit.com/r/steroids/wiki/compounds/methylstenbolone) | 90-170 | 660  | | Pros only.    
-[Oral Turinabol](/r/steroids/wiki/turinabol) | None | 100+ | 225-230|   
-[Primobolan (Methenolone Acetate)](/r/steroids/wiki/primobolan) | 44-57 | 88 | 141-143|   
-[Proviron (Mesterolone)](/r/steroids/wiki/proviron) | 30-40 | 100-150 | 202-206 | Detectable for 3 weeks   
-[Superdrol (Methyldrostanolone)](/r/steroids/wiki/gear/methasterone) | 20 | 400 | 223-225 | Detectable for 3 months   
-[Sustanon 100 &amp; 250](/r/steroids/wiki/sustanon_250) | 100 | 100 | |   
-[Testosterone Cypionate](/r/steroids/wiki/testosterone_cypionate) | 100 | 100 |98-104 | Detectable for 3 months   
-[Testosterone Enanthate](/r/steroids/wiki/testosterone_enanthate) | 100 | 100 |32-36 | Detectable for 3 months   
-[Testosterone Propionate](/r/steroids/wiki/testosterone_propionate) |100 | 100  | 118-122 | Detectable for 2 weeks   
-[Trenbolone Acetate/Enanthate &amp; Blends](/r/steroids/wiki/trenbolone) | 500 | 500 | 94-97 &amp; 72-78| Detectable for 5 months, Use Montelukast to avoid respiratory weakness. Tren is being considered for addition to androgen replacement therapy due to its ability to increase muscle mass [while maintaining prostate size and HCT.](http://www.ncbi.nlm.nih.gov/pubmed/21266670) 
-[Winstrol (Stanozolol)](/r/steroids/wiki/winstrol) | 30 | 320 |228-242 | Detectable for 2 months  
+[Oral Turinabol](/turinabol) | None | 100+ | 225-230|   
+[Primobolan (Methenolone Acetate)](/primobolan) | 44-57 | 88 | 141-143|   
+[Proviron (Mesterolone)](/proviron) | 30-40 | 100-150 | 202-206 | Detectable for 3 weeks   
+[Superdrol (Methyldrostanolone)](/gear/methasterone) | 20 | 400 | 223-225 | Detectable for 3 months   
+[Sustanon 100 &amp; 250](/sustanon_250) | 100 | 100 | |   
+[Testosterone Cypionate](/testosterone_cypionate) | 100 | 100 |98-104 | Detectable for 3 months   
+[Testosterone Enanthate](/testosterone_enanthate) | 100 | 100 |32-36 | Detectable for 3 months   
+[Testosterone Propionate](/testosterone_propionate) |100 | 100  | 118-122 | Detectable for 2 weeks   
+[Trenbolone Acetate/Enanthate &amp; Blends](/trenbolone) | 500 | 500 | 94-97 &amp; 72-78| Detectable for 5 months, Use Montelukast to avoid respiratory weakness. Tren is being considered for addition to androgen replacement therapy due to its ability to increase muscle mass [while maintaining prostate size and HCT.](http://www.ncbi.nlm.nih.gov/pubmed/21266670) 
+[Winstrol (Stanozolol)](/winstrol) | 30 | 320 |228-242 | Detectable for 2 months  
 
 ###Extended List
 The following compounds are more exotic in nature and we do not see them used much.
@@ -62,7 +62,7 @@ The following compounds are more exotic in nature and we do not see them used mu
 
 Compound | Androgenic | Anabolic | Melting Point (°C) | Notes   
 :--------------|:--------------:|:-------------:|:-------------:|:-------------   
-[1-Testosterone](/r/steroids/wiki/compounds/dihydroboldenone) | 100 | 200 | |  
+[1-Testosterone](/compounds/dihydroboldenone) | 100 | 200 | |  
 Anabolicum Vister (Quinbolone) (oral Boldenone) | 50 | 100 | |     
 [Anadur](http://www.reddit.com/r/steroids/wiki/compounds/anadur) (Nandrolone Hexyloxyphenylpropionate) | 37 | 125 | 122-124| Detectable up to 18 months   
 Anapolon | 45  | 320  | 177-180 | Detectable up to 2 months   
@@ -71,10 +71,10 @@ Andractim (Dihydrotestosteron) | 30-260 | 60-220 | |
 Andriol (Testosterone Undecanoate) | 100 | 100 | |   
 Androderm (Testosterone) | 100 | 100 | |  
 Boldabol (Boldenone Acetate) | 50 | 100 | |  
-[Cheque Drops (Mibolerone)](/r/steroids/wiki/cheque_drops) | 1,800 | 4,100 | |   
+[Cheque Drops (Mibolerone)](/cheque_drops) | 1,800 | 4,100 | |   
 Danocrine (Danazol) | 37 | 125 | |   
 Deposterona (Testosterone Blend) | 100 | 100 | |   
-[Dihydroboldenone](/r/steroids/wiki/compounds/dihydroboldenone) | 100 | 200 | | Very new, similar to Tren   
+[Dihydroboldenone](/compounds/dihydroboldenone) | 100 | 200 | | Very new, similar to Tren   
 [Dimethandrolone/Dimethylnandrolone (DMAU)](https://www.reddit.com/r/steroids/wiki/dimethylnandrolone) | No Data  | 13,600 [Bioorg Med Chem Lett. 2005 Feb 15;15(4):1213-6] | | Under development as male birth control pill   
 Dimethyltrienolone | 10,000 | 10,000+ | |   
 Dinandrol (Nandrolone Blend) | 37 | 125 | |   
@@ -94,16 +94,16 @@ Methyl-1-Testosterone | 100-220 | 910-1,600 | |
 [Methyldienolone](http://www.reddit.com/r/steroids/wiki/compounds/methyldienolone ) | 200-300 | 1,000 | |   
 Methylhydroxynandrolone (MHN) | 281 | 1304 | |  
 Methyltestosterone | 94-130 | 115-150 | |   
-[Metribolone (MTren/Methyltrienolone)](/r/steroids/wiki/compounds/methyltrienolone) | 6,000-7,000 | 12,000-30,000 | |   
+[Metribolone (MTren/Methyltrienolone)](/compounds/methyltrienolone) | 6,000-7,000 | 12,000-30,000 | |   
 [Miotolan (Furazabol)](http://www.reddit.com/r/steroids/wiki/compounds/miotolan) | 73-94 | 270-330 | |   
 Myagen (Bolasterone) | 300 | 575 | |   
-[Nilevar (Norethandrolone)](/r/steroids/wiki/compounds/nilevar) | 22-55 | 100-200 | 130-136| Detectable for 5 weeks   
+[Nilevar (Norethandrolone)](/compounds/nilevar) | 22-55 | 100-200 | 130-136| Detectable for 5 weeks   
 Noretadrolone  | No Data  | No Data  | | Detectable for 3 weeks   
 Omnadren (Testosterone Blend) | 100 | 100 | |
 Orabolin (Ethylestrenol) | 20-400 | 200-400 | |   
 Oranabol (Oxymesterone) | 50 | 330 | |   
 Orgasteron (Normethandrolone) | 325-580 | 110-125 | |   
-[Parabolan (Tren Hexahydrobenzycarbonate)](/r/steroids/wiki/trenbolone) | 500 | 500 |90-95 |   
+[Parabolan (Tren Hexahydrobenzycarbonate)](/trenbolone) | 500 | 500 |90-95 |   
 [Primobolan Depot (Methenolone Enanthate)](https://www.reddit.com/r/steroids/wiki/primobolan) | 44-57 | 88 |66-71 |   
 Prostanozol | n/a | n/a | |   
 Protabol (Thiomesterone) | 61 | 456 | |   
@@ -123,17 +123,17 @@ Some answers to common questions.
 
 Approximately nothing. Definitely nothing that is going to make a difference in choosing one or the other for our purposes. Read the specifics below:
 
-* The [ester weights](/r/steroids/wiki/compounds/esters#wiki_esters_and_the_active_dose) are almost identical, with Cypionate being *ever so-slightly* heavier.  
+* The [ester weights](/compounds/esters#wiki_esters_and_the_active_dose) are almost identical, with Cypionate being *ever so-slightly* heavier.  
 Meaning there is *ever so-slightly* more actual testosterone hormone (~1%) in Enanthate.
 
-* The [terminal half-life's](/r/steroids/wiki/compounds/esters#wiki_esters_active_half-life_table) are also almost identical.  
+* The [terminal half-life's](/compounds/esters#wiki_esters_active_half-life_table) are also almost identical.  
 Enanthate is 4.5 days.  
 Cypionate is 5 days.
 
-* For some, they may experience a slight difference in potential [Post Injection Pain (PIP)](/r/steroids/wiki/thecycle/injecting#wiki_pip_.28post_injection_pain.29). This is due to Cypionate having a higher melting point than Enanthate, making Cypionate more prone to being able to cause PIP. This all depends on how your Testosterone was brewed by your source/supplier. [Read more on Post Injection Pain (PIP): Here.](/r/steroids/wiki/thecycle/injecting#wiki_pip_.28post_injection_pain.29)
+* For some, they may experience a slight difference in potential [Post Injection Pain (PIP)](/thecycle/injecting#wiki_pip_.28post_injection_pain.29). This is due to Cypionate having a higher melting point than Enanthate, making Cypionate more prone to being able to cause PIP. This all depends on how your Testosterone was brewed by your source/supplier. [Read more on Post Injection Pain (PIP): Here.](/thecycle/injecting#wiki_pip_.28post_injection_pain.29)
 
-[**Please See Our Esters Wiki Page: Here**](/r/steroids/wiki/compounds/esters)
+[**Please See Our Esters Wiki Page: Here**](/compounds/esters)
 
 ###What are esters?
 
-[**Please See Our Esters Wiki Page: Here**](/r/steroids/wiki/compounds/esters)
+[**Please See Our Esters Wiki Page: Here**](/compounds/esters)

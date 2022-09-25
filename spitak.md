@@ -52,7 +52,7 @@ http://i.imgur.com/XbLKsq0.png
 ##The Cycle
 
 **CRUISE**
-**Weeks 13-????:** [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate), 37.5mg, EOD cause FUCKIT
+**Weeks 13-????:** [Testosterone Enanthate](/testosterone_enthanate), 37.5mg, EOD cause FUCKIT
 
 
 

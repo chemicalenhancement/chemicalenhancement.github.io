@@ -14,7 +14,7 @@ Always remember that steroids are **NOT** particularly fat burners (even if some
 
 ###Ephedrine
 
-If you want to go back to basics, you can build your own [ECA or EC stack](/r/steroids/wiki/eca_stack).
+If you want to go back to basics, you can build your own [ECA or EC stack](/eca_stack).
 
 ####To Build Your Own Stack
 
@@ -34,7 +34,7 @@ Women are often more interested in ‘fat loss’ before they are interested in 
 
 ###Clenbuterol (Clen)
 
-[Clenbuterol](/r/steroids/wiki/clenbuterol) is prescribed as a bronchodilator for asthma, but also has the additional effect of increasing metabolism. The claim is a 10% increase in metabolism over ECA, which claims a 3% increase in metabolism. (This often quoted, but never found an original study to back this up.) Clenbuterol has a 36-39 hour half-life – meaning if you take it, or worse, too much, you have to ride it out for about a day and a half. Some people panic if they take too much, and head to the Emergency Room, where the doctors will still just tell you that you need to ride it out until it wears off. There is nothing you can take to “make it stop” before then.
+[Clenbuterol](/clenbuterol) is prescribed as a bronchodilator for asthma, but also has the additional effect of increasing metabolism. The claim is a 10% increase in metabolism over ECA, which claims a 3% increase in metabolism. (This often quoted, but never found an original study to back this up.) Clenbuterol has a 36-39 hour half-life – meaning if you take it, or worse, too much, you have to ride it out for about a day and a half. Some people panic if they take too much, and head to the Emergency Room, where the doctors will still just tell you that you need to ride it out until it wears off. There is nothing you can take to “make it stop” before then.
 
 Clenbuterol has also been called “anti-catabolic” – meaning it does not promote muscle loss as part of the increase in metabolism to reduce bodyfat. Here are a couple studies that imply that clenbuterol, interestingly on a restricted diet, does promote some amount of muscle growth (or preservation) in research animals:
 
@@ -161,7 +161,7 @@ This section will include links to the standard steroid profiles for the technic
 
 ###Anavar (Oxandrolone)
 
-[Anavar (Var)](/r/steroids/wiki/anavar) is probably the most commonly used AAS by women. It might be used by competitors for off-season building with an appropriate diet, or during contest prep for cutting, preservation of muscle during a cutting diet, and improved recovery.
+[Anavar (Var)](/anavar) is probably the most commonly used AAS by women. It might be used by competitors for off-season building with an appropriate diet, or during contest prep for cutting, preservation of muscle during a cutting diet, and improved recovery.
 
 ####Typical Use
 
@@ -205,7 +205,7 @@ Be careful w/ using diuretics to manage this – continued use of even OTC diure
 
 ###Winstrol (Stanozolol)
 
-[Winstrol (Winny)](/r/steroids/wiki/winstrol) comes in both oral and water-based injectable form (but also very rarely an oil based). It is attractive to women or recommended for women because it is an oral, it has a relatively short half-life and detection time (i.e it clears the system relatively quickly, reducing the duration of any undesirable sides following completion of a cycle), and promotes lean muscle mass without water retention. It is most commonly viewed as a “cutter” for competitors. Winstrol is also attractive as it tends to be both cheaper and more readily available than others like anavar or primobolan. Because of this, it is also less likely to be faked.
+[Winstrol (Winny)](/winstrol) comes in both oral and water-based injectable form (but also very rarely an oil based). It is attractive to women or recommended for women because it is an oral, it has a relatively short half-life and detection time (i.e it clears the system relatively quickly, reducing the duration of any undesirable sides following completion of a cycle), and promotes lean muscle mass without water retention. It is most commonly viewed as a “cutter” for competitors. Winstrol is also attractive as it tends to be both cheaper and more readily available than others like anavar or primobolan. Because of this, it is also less likely to be faked.
 
 Winstrol is often grouped with anavar as a good steroid for “beginners" or those who don’t want to go into the more aggressive compounds (i.e. injectables). However it is more androgenic than anavar and sides are less predictable and more unique to the individual, with the potential of being very androgenic. Because of this, anavar would generally be the better recommendation, but winstrol is seen as a viable alternative. And is also known to have a "fat burning" effect.
 
@@ -253,7 +253,7 @@ If chosen to include in a competition cutting stack, schedule towards the final 
 
 ###Turinabol (Tbol)
 
-[Turinabol (Tbol)](/r/steroids/wiki/turinabol) is an oral steroid that has recently become more widely used by women.
+[Turinabol (Tbol)](/turinabol) is an oral steroid that has recently become more widely used by women.
 
 ####Typical Use
 
@@ -297,7 +297,7 @@ Be careful w/ using diuretics to manage this – continued use of even OTC diure
 
 ###Anadrol (Oxymetholone)
 
-[Anadrol (Adrol)](/r/steroids/wiki/anadrol) is an oral steroid that has recently become more widely used by women when bulking.
+[Anadrol (Adrol)](/anadrol) is an oral steroid that has recently become more widely used by women when bulking.
 
 ####Typical Use
 
@@ -341,7 +341,7 @@ Be careful w/ using diuretics to manage this – continued use of even OTC diure
 
 ###Primobolan (Methenolone)
 
-[Primobolan (Primo)](/r/steroids/wiki/primobolan), comes in both oral and injectable form. The injectable is most commonly used. Oral form, primobolan acetate, has recently become more available.
+[Primobolan (Primo)](/primobolan), comes in both oral and injectable form. The injectable is most commonly used. Oral form, primobolan acetate, has recently become more available.
 
 ####Typical Use
 
@@ -396,7 +396,7 @@ More experienced cyclers will often stack with winstrol or anavar.
 
 ###Proviron (Mesterolone)
 
-[Proviron](/r/steroids/wiki/proviron) is a highly androgenic compound that is used primarily during the final weeks of a competition cutting phase to help lean out in the mid-section. It is often stacked with Nolvadex to lean out the hips/thighs/waist further. Being fundamentally androgenic (as opposed to anabolic), proviron will not promote muscle growth as much as it promotes leanness and hardness. For short cycles (i.e. 4-8 weeks maximum), sides are minimal.
+[Proviron](/proviron) is a highly androgenic compound that is used primarily during the final weeks of a competition cutting phase to help lean out in the mid-section. It is often stacked with Nolvadex to lean out the hips/thighs/waist further. Being fundamentally androgenic (as opposed to anabolic), proviron will not promote muscle growth as much as it promotes leanness and hardness. For short cycles (i.e. 4-8 weeks maximum), sides are minimal.
 
 ####Typical Use
 
@@ -432,7 +432,7 @@ Proviron would often be stacked with Nolvadex as a final 4-8 week dial into a co
 
 ###Masteron (Drostanolone Propionate)
 
-[Masteron (Drostanolone Propionate)](/r/steroids/wiki/masteron) is a highly androgenic compound that is used primarily during the final weeks of a competition cutting phase to help lean out in the mid-section. It is often stacked with Nolvadex to lean out the hips/thighs/waist further. Being fundamentally androgenic (as opposed to anabolic), Masteron (Mast) will not promote muscle growth as much as it promotes leanness and hardness. For short cycles (i.e. 4-8 weeks maximum), sides are minimal.
+[Masteron (Drostanolone Propionate)](/masteron) is a highly androgenic compound that is used primarily during the final weeks of a competition cutting phase to help lean out in the mid-section. It is often stacked with Nolvadex to lean out the hips/thighs/waist further. Being fundamentally androgenic (as opposed to anabolic), Masteron (Mast) will not promote muscle growth as much as it promotes leanness and hardness. For short cycles (i.e. 4-8 weeks maximum), sides are minimal.
 
 ####Typical Use
 
@@ -468,7 +468,7 @@ Masteron would often be stacked with Nolvadex as a final 4-8 week dial into a co
 
 ###Boldenone (EQ, Bold A, Bold C, etc.)
 
-[Equipoise (EQ)](/r/steroids/wiki/equipoise) (Boldenone Undecylenate) is an injectable steroid that includes a small amount of aromatization. It is seen as a nice compound that produces good gains with minimal water retention. EQ is the most readily available (and used), but a shorter ester would be optimal. **/r/steroids suggests going with the short ester version of this compound, Boldenone Acetate (Bold A).** This will allow the compound to clear much faster if sides occur.
+[Equipoise (EQ)](/equipoise) (Boldenone Undecylenate) is an injectable steroid that includes a small amount of aromatization. It is seen as a nice compound that produces good gains with minimal water retention. EQ is the most readily available (and used), but a shorter ester would be optimal. **/r/steroids suggests going with the short ester version of this compound, Boldenone Acetate (Bold A).** This will allow the compound to clear much faster if sides occur.
 
 ####Typical Use
 
@@ -516,7 +516,7 @@ Suggested maximum dose is 150mg / week (though more is not better). As the dose 
 
 ###Nandrolone Phenylpropionate (NPP)
 
-There are several different forms (esters) of Nandrolone available. NPP is the shorter-acting [Deca Durabolin (Nandrolone Decanoate)](/r/steroids/wiki/deca_durabolin) that would be more likely recommended for women. The longer acting Deca will anecdotally produce more water retention and due to the longer ester it will take longer to clear if sides pop up. This is a more aggressive cycle for women with some water retention and longer detection time than the more commonly used injectables such as primo.
+There are several different forms (esters) of Nandrolone available. NPP is the shorter-acting [Deca Durabolin (Nandrolone Decanoate)](/deca_durabolin) that would be more likely recommended for women. The longer acting Deca will anecdotally produce more water retention and due to the longer ester it will take longer to clear if sides pop up. This is a more aggressive cycle for women with some water retention and longer detection time than the more commonly used injectables such as primo.
 
 ####Typical Use
 
@@ -553,7 +553,7 @@ As we get into the much more aggressive cycles, it becomes more of a personal pr
 
 ###Testosterone Propionate
 
-There are several esters of testosterone, but only the Propionate ester, also known as [Testosterone Propionate (Test P)](/r/steroids/wiki/testosterone_propionate), would be recommended for women. The other variations commonly used by men, [Testosterone Cypionate](/r/steroids/wiki/testosterone_cypionate), [Testosterone Enanthate (Test E)](/r/steroids/wiki/testosterone_enanthate), or [Sustenon](/r/steroids/wiki/sustanon_250), are considerably longer-acting esters, producing anecdotally much more water retention and more aggressive sides, taking a much longer to clear the system.
+There are several esters of testosterone, but only the Propionate ester, also known as [Testosterone Propionate (Test P)](/testosterone_propionate), would be recommended for women. The other variations commonly used by men, [Testosterone Cypionate](/testosterone_cypionate), [Testosterone Enanthate (Test E)](/testosterone_enanthate), or [Sustenon](/sustanon_250), are considerably longer-acting esters, producing anecdotally much more water retention and more aggressive sides, taking a much longer to clear the system.
 
 ####Typical Use
 

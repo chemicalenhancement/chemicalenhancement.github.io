@@ -261,6 +261,6 @@ Here's the deal: since BPC 157 is a completely natural gastric juice peptides,  
 
 #Studies and Other Links
 * GHRP-2 [GHRP-2 increases GH levels](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2824650/)   
-* [Human Growth Hormone](/r/steroids/wiki/growth_hormone)
-* [Insulin-like Growth Factor 1](/r/steroids/wiki/igf-1)
-* [Melanotan II](/r/steroids/wiki/melanotan_ii)
+* [Human Growth Hormone](/growth_hormone)
+* [Insulin-like Growth Factor 1](/igf-1)
+* [Melanotan II](/melanotan_ii)
