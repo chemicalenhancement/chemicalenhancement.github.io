@@ -3,7 +3,7 @@ revision_id: 4e6873a0-d896-11e2-9f2f-12313d281d4a
 revision_date: 1371615084
 ---
 
-#Cytadren (Aminoglutethimide)
+# Cytadren (Aminoglutethimide)
 
 **Drug Class:** Cortisol and Aromatase Inhibitor
 **Active Life:** approximately 24 hours
@@ -18,7 +18,7 @@ A significant aspect of aminoglutethimide is that along with its ability to inhi
 
 The cortisol inhibiting effect of aminoglutethimide is short lived in the body due to the body’s ability to adapt to the action of the drug. By lowering the natural production of cortisol the body will begin to produce adrenocorticotropic hormone. The hormone sparks an increase in cortisol production in the body to help normalize its levels causing the action of the drug to become basically moot^3 . It is believed by some that if one staggers their use of the drug to a schedule similar to two days on and then two days off that this may be enough to ward off the body’s response to the lowered cortisol levels while still reaping the benefit of partial suppression. There is little research to indicate that this is true however. 
 
-##Use/Dosing
+## Use/Dosing
 
 To achieve the two primary actions of aminoglutethimide, namely aromatase inhibition and cortisol reduction; two very different dosing ranges are used. For aromatase inhibition, maximum estrogen suppression is achieved at 250 to 500 milligrams per day. In some studies it has been demonstrated that as little as 250 milligrams of aminoglutethimide can suppress aromatase activity by 92% in some users, with larger doses only providing minimally improved results. In contrast, for cortisol suppression dosages typically run in excess of one gram of aminoglutethimide per day. While running a larger dose the enzyme that is responsible for converting cholesterol into prognenolone and thereby creating cortisol, the demolase enzyme, should be maximally inhibited^3 . 
 
@@ -28,13 +28,13 @@ As for the duration of the cycles that include aminoglutethimide, it again depen
 
 As a side note, it should be mentioned that unlike many other aromatase inhibitors or other drugs that are said to have “anti-estrogenic” qualities, aminoglutethimide does not raise other beneficial hormones for strength athletes and bodybuilders in the body such as luteinizing hormone, gonadotropin releasing hormone and/or testosterone, among others. For this reason there is no real reason to run this drug during post-cycle therapy as there are countless other compounds that offer additional benefits that the user should take advantage of. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 It appears that there is a significant risk of hepatoxicity with aminoglutethimide when used over extended periods of time even at relatively moderate dosages^4 . For this reason lengthy use of the drug would not be recommended for most users and even short cycles of it are likely to increase liver values. 
 
 Other potential negative side effects include apathy, insomnia, gastrointestinal distress, and thyroid dysfunction. As well, like other aromatase inhibitors, cholesterol levels in both men and women may be negatively affected with long term usage of the drug. With cortisol suppression it is likely that users will also experience joint discomfort when training along with a feeling of malaise. This is a common side effect and often reported when users are administering significantly large enough doses of the drug to achieve cortisol suppression. However, these cortisol-related side effects will only become noticeable if the doses administered are high enough to produce such an effect. If run at lower doses exclusively for the aromatase inhibitor effect, these will be less likely to occur. 
 
-##References
+## References
 
 1. *Lonning PE. Oestrogen suppression--lessons from clinical studies. Best Pract Res Clin Endocrinol Metab. 2004 Mar;18(1):33-45.*
 2. *Schmid P, Possinger K. Interactions of antioestrogens and aromatase inhibitors. Forum (Genova). 2002;12(1):45-59.*
