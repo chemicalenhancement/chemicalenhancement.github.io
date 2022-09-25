@@ -109,9 +109,9 @@ As seen Nolvadex came out on top here in LH, Testosterone &amp; Normal sperm for
 
 &amp;nbsp;
 
-####**Dosing**
+#### **Dosing**
 
-#####**Nolvadex**
+##### **Nolvadex**
 
 In all studies involving Nolvadex doses used to stimulate endogenous Testosterone production, only 20–40mg daily of Nolvadex was utilized, and it has in fact been shown that doubling the dose to 40mg or any higher will not produce any significant difference in endogenous Testosterone secretion. The only reason why many elect to utilize 40mg daily of Nolvadex for the first 1-2 weeks of a PCT program is for the purpose of achieving optimal peak blood plasma levels quicker so as to ensure HPTA recovery quicker. This isn't necessary and just further increases your risk of potential sides. Dosing of a PCT including Nolvadex is as followed:
 
