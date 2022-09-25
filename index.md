@@ -44,10 +44,9 @@ Participation in this sub and with this habit requires one to execute [critical 
 * [|--- Compound Experience Directory](compound_experience_threads)
 * [**Blood Work**](/bloodwork/list)
 * [|--- Health Markers Defined](/bloodwork/health_markers)
-* 
-{:toc}
+ 
 
-##Helpful Links
+## Helpful Links
 
 * [SteroidPlanner](https://www.steroidplanner.com/) - Plot and Graph your cycles
 * [SteroidPlotter](https://steroidplotter.com/) - Another option for graphing cycles
