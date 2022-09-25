@@ -3,7 +3,7 @@ revision_id: 3c6966f0-d891-11e2-a49e-12313d281d4a
 revision_date: 1371612906
 ---
 
-#Clomid (Clomiphene Citrate)
+# Clomid (Clomiphene Citrate)
 
 **Drug Class:** Selective Estrogen Receptor Modulator
 
@@ -15,7 +15,7 @@ Therefore if these results can be translated to strength athletes and bodybuilde
 
 While it is true that clomiphene citrate has many "anti-estrogen" properties, there are a multitude of better options. It's is relatively weak in comparison to tamoxifen citrate and the anti-aromatase compounds that are available are much more potent in terms of controlling and/or eliminating estrogenic side effects that are likely to develop. The primary duty of clomiphene citrate should be left to post-cycle therapy. 
 
-##Use/Dosing
+## Use/Dosing
 
 Of course due to the fact that there is little research to do with the use of clomiphene citrate as it relates to steroid users, much of what we know about the dosing of it has been from anecdotal reports. For the most part users will maintain doses of the drug between 25mgs to 150mgs per day on a consistent basis. Often times users will "frontload" the compound using doses of between 200-300mgs on the first day of their post-cycle therapy and then reduce the subsequent doses. However the side effects associated with large doses of the compound may hinder some individuals' abilities to do this.
 
@@ -23,7 +23,7 @@ Some users also advocate tapering the dose of clomiphene citrate during the last
 
 In terms of dosing length it seems that at least 3 weeks of clomiphene citrate therapy is recommended by users. Of course each has their own preferences along with individual recovery schedules. Also the types of compounds used and the duration of a cycle will of course influence the time it takes for a user to recover and the need for a lengthy post-cycle therapy. Due to the lack of serious side effects associated with the drug, as well as the fact that there is no risk of toxicity with the clomiphene citrate, users are able to use the compound for months on end with seemingly no significant negative consequences. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Despite these rather inconvenient side effects, for the most part clomiphene citrate can be run for extended periods of time with no worries of serious negative consequences^7,8 . Potentially things such as hot flashes, nausea, dizziness, and headaches may occur but anecdotally users report that these symptoms are quite rare. However emotional side effects along with vision problems are frequently reported with use of this drug. Visual tracers or blurry vision are often reported by users, even some who use extremely low doses of the compound. These are often reported to become more pronounced at night. However if this symptom becomes unbearable, it quickly dissipates after administration of the compound is ceased. 
 
@@ -31,7 +31,7 @@ In terms of the emotional side effects associated with clomiphene citrate, some 
 
 Another possible effect of use of the compound is increased acne. This is a direct result in the shifting hormonal balance that a user would be experiencing while coming off of anabolic steroids and the introduction of clomiphene citrate to their system. An increase in production of seminal fluid may also be experienced by some users and therefore the volume of ejaculate may well noticeably increase as well.
 
-##References 
+## References 
 
 1. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition, pp. 188-9*
 2. *Vermeulen A, Comhaire F. Hormonal effects of an antiestrogen, tamoxifen, in normal and oligospermic men. Fertil Steril. 1978 Mar;29(3):320-7.*
