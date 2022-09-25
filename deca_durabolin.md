@@ -3,7 +3,7 @@ revision_id: 69e71606-d637-11ec-b879-d21b451069a6
 revision_date: 1652829402
 ---
 
-#Deca Durabolin (Nandrolone Decanoate)
+# Deca Durabolin (Nandrolone Decanoate)
 
 **Formula of Base:** C18 H26 O2
 
@@ -23,7 +23,7 @@ It is of note however that nandrolone is believed to have some activity as a pro
 
 Now, with the reduced chance of negative side effects associated with the use of nandrolone one would assume that the gains in lean body mass that a user could expect to make would also be reduced. This is not true however. Nandrolone is 2.4 times as anabolic as testosterone when compared gram for gram^1. This does not mean that a user will gain 2.4 times as much muscle if using nandrolone instead of testosterone however. It is not that easy. It does show how powerful this drug is and how it can help a user make serious gains in muscle mass.
 
-##Use/Dosing 
+## Use/Dosing 
 
 Due to the active life of the compound, users would only need to administer nandrolone decanoate once per week to maintain fairly stable of the drug. However, since the vast majority of users will stack nandrolone with testosterone (for reasons that will be discussed later in the Side Effects/Risks section of this profile) and the most commonly used esters need to be injected more frequently most will simply injected it when it is convenient, such as twice a week with their testosterone enanthate or cypionate. 
 
@@ -33,7 +33,7 @@ Most inexperienced male users will start using about 400mgs of nandrolone decano
 
 Females also have found that nandrolone can be quite effective while offering relatively mild side effects. Doses ranging from about 50 to 150mgs per week seem to be the norm for most first time users of the compound, again with these doses increasing as users try to achieve more and more with the compound. 
 
-##Side Effects/Risks 
+## Side Effects/Risks 
 
 Estrogenic effects are not a major concern with use of nandrolone due to it's low rate of aromatization. However it can cause progesterone-like effects in some users. Commonly reported sides effects associated with nandrolone are such things as acne/oily skin, insomnia, diarrhea, and nausea. These of course are coupled with the common side effects most often associated with anabolic steroids including testicular atrophy, gynecomastia (including lactation in some cases), and sexual dysfunction.
 
@@ -47,7 +47,7 @@ Since nandrolone is a progestinic anabolic steroid^3,4 . Some special precaution
 
 A word of caution also for those that may plan on stacking nandrolone with trenbolone. Trenbolone is a strong progestin, much stronger than even nandrolone. By running these two compounds concurrently the user will suffer from extremely high levels of prolactin. This in turn will force the user to pay special attention to progesterone-like side effects and using compounds to prevent them, as well as having to run a particularly aggressive post-cycle therapy due to severe suppression of the hypothalamus pituitary testicular axis. Some users have anecdotally reported that they have suffered no ill effects of running the two compounds together, but it is a definite risk. One must weigh the costs versus the benefits.
 
-##References 
+## References 
 
 1. *Sundaram K, Kumar N, Monder C, Bardin CW., Different patterns of metabolism determine the relative anabolic activity of 19-norandrogens., J Steroid Biochem Mol Biol. 1995 Jun;53(1-6):253-7*
 2. *Spitz IM, Margalioth EJ, Yeger Y, Livshin Y, Zylber-Haran E, Shilo S. Effect of non aromatizable androgens on LHRH and TRH responses in primary testicular failure. Horm Metab Res. 1984 Sep;16(9):492-7.*
