@@ -3,7 +3,7 @@ revision_id: 254ec8c8-d893-11e2-a633-12313d281d4a
 revision_date: 1371613727
 ---
 
-#Clenbuterol
+# Clenbuterol
 
 **Drug Classification:** selective beta-2 agonist/antagonist
 **Active Life:** up to 68 hours
@@ -16,7 +16,7 @@ A second benefit to the administration of clenbuterol for athletes is an increas
 
 Like other beta-2 agonists, clenbuterol has also been shown to increase muscular strength^3,4,5 . Again, these results were achieved in animal studies but there is little reason to believe would not be transferable to human users. These gains are made over time and not a result of any type of stimulatory effect of the drug. Again however, the exact mechanism by which these results are achieved with clenbuterol is not known. It is not the same as anabolic steroids but more research needs to be done before a full understanding of this mechanism is known. Clenbuterol does increase muscle protein synthesis^6 so this is likely to contribute but is unlikely to be the only cause. 
 
-##Use/Dosing
+## Use/Dosing
 
 In terms of a dosing schedule for clenbuterol, most users would be well served to split their dosages into two or three evenly spaced doses throughout the day. The first can be taken upon rising and then the one or two others throughout the rest of the morning and/or afternoon. This is due to the half-life of the drug being approximately seven to nine hours. Using this as a guide, frequent dosing is unnecessary. The only caution is that one should avoid taking a dose too late in the day to help and reduce the impact the drug will have on the sleep pattern of a user. For some, sleep interruption may be inevitable with the use of clenbuterol but if the user is able to limit their use of it later in the day. Most users anecdotally report that by taking their last dose six to nine hours before they expect to sleep, the drug has less of a negative on their ability to rest. However the user will have to experiment to determine their own tolerance of the compound.
 
@@ -34,7 +34,7 @@ Having said this, there is much more anecdotal feedback in regards to the effect
 
 This prevention of the downregulation of the beta-2 receptors is important since it appears that clenbuterol gains effectiveness and produces its best results if it is run for six weeks or longer. This is true of fat loss and muscle mass gain it appears. For this reason most users will want to run clenbuterol for at least six weeks and ensure that they use some protection against receptor downregulation so that the clenbuterol remains effective throughout. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Clenbuterol has an array of potential negative side effects that are indicated in the available research, most of which has been performed using animals. The problem with this is the fact that animals have quite different beta-2 receptor reactions then humans in some cases as well as having a larger quantity of these receptors in the relevant tissues. This obviously could lead to differing reactions in humans then those found in various animals. However due to the lack of research available conducted with human subjects, we are left to decipher the applicability of the animal research that has been conducted.
 
@@ -50,7 +50,7 @@ There is contradictory research as to the effect that clenbuterol has on the hep
 
 It should also be noted that there are some studies which have indicated that beta agonists, of which clenbuterol is one, can impair cardiovascular endurance and/or performance^16 . However they have also been shown to help increase performance. Obviously like all situations where contradictory research exists, users will have to experiment with the drug themselves and see exactly how they react to the compound.
 
-##References
+## References
 
 1. *Yamashita J, Onai T, York DA, Bray GA. Relationship between food intake and metabolic rate in rats treated with beta-adrenoceptor agonists. Int J Obes Relat Metab Disord. 1994 Jun;18(6):429-33*
 2. *Carter WJ, Lynch ME. Comparison of the effects of salbutamol and clenbuterol on skeletal muscle mass and carcass composition in senescent rats. Metabolism. 1994 Sep;43(9):1119-25.*
