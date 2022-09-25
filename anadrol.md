@@ -3,7 +3,7 @@ revision_id: 165076be-ec67-11e6-9e06-0e92ab5486f0
 revision_date: 1486383818
 ---
 
-#Anadrol (Oxymetholone)
+# Anadrol (Oxymetholone)
 
 **Chemical structure:** 17 beta-hydroxy-2-hydroxymethylene-17alpha-methyl-5 alpha-androstan-3-one 
 
@@ -19,7 +19,7 @@ For bodybuilders and strength athletes, it is the ability of oxymethalone to pro
 
 It is because of the quick gains and high liver toxicity of oxymethalone, that it is most often used to kick start a longer cycle, usually during the first weeks of the cycle. However, strength athletes will also use the compound in the middle or near the end of their cycles to in preparation of a competition when they are trying to peak in strength.
 
-##Use/Dosing
+## Use/Dosing
 
 Dosing for most inexperienced users of oxymethalone usually ranges between 50 to 150 milligrams per day. Experienced users have anecdotally used in excess of this, but side effects are more pronounced as the dosage increases. The effects of the compound are far weaker than other similar compounds such as methandrostenolone milligram for milligram, however anecdotally users report that when doses are increased some individuals react much better to oxymethalone than they have using other compounds with similar anabolic and androgenic effects. 
 
@@ -27,7 +27,7 @@ While using oxymethalone, like any anabolic steroids, it is wise to use a liver 
 
 Due to the active life of the compound, two doses per day while administering the drug is recommended. These should be as evenly separated throughout the day as possible. As well, cycles between four and six weeks are recommended. Any longer and there is an increased likelihood that damage to the liver could occur. 
 
-##Side Effects/Risks
+## Side Effects/Risks
 
 Oxymethalone does not directly convert to estrogen. There is also very little to no progestational-like effects associated with the compound^1. Despite this, individuals using this compound will often report pronounced estrogen related side effects such as gynecomastia and water retention, among others. Based on this it would appear that oxymethalone acts upon the estrogen receptors in the body itself^2. This theory seems to hold some weight as aromatase is not involved^3, but estrogenic side effects are common during administration of the drug. 
 
@@ -41,7 +41,7 @@ Finasteride, a reductase inhibitor, will not be effective in combating some of t
 
 Oxymetholone is a 17 alpha alkylated compound and includes the usual associated risks and stresses that those compounds place on the liver. It is because of the high doses of the drug that are required for effective use that oxymetholone can cause a higher than normal stress level on the liver. However, with moderate dosing and cycle lengths liver damage should not be an issue for most healthy individuals.
 
-##References
+## References
 
 1. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition*
 2. *Studies on anabolic steroids-8. GS/MS characterization of unusual seco acidic metabolites of oxymetholone in human urine. J Steroid Biochem Mol Bio 42: 229-42, 1992*
