@@ -107,6 +107,6 @@ This allows you to avoid going through PCT, which in and of itself is rather har
 
 #Additional Topics
 
-[Example Cycles](/r/steroids/wiki/thecycle/examples)  
-[Safe Injection Technique](/r/steroids/wiki/thecycle/injecting)  
-[Post Cycle Therapy (PCT)](/r/steroids/wiki/thecycle/pct)
+[Example Cycles](/thecycle/examples)  
+[Safe Injection Technique](/thecycle/injecting)  
+[Post Cycle Therapy (PCT)](/thecycle/pct)

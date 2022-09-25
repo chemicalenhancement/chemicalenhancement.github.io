@@ -11,11 +11,11 @@ revision_date: 1645580509
 * **Subcutaneous injection**: *An injection into the region between the skin and the muscle, also known as a “**SubQ**” injection*. 
 
 AS far as performance enhancement is concerned, there are two primary injection methods. These are the **intramuscular** injection method and the **subcutaneous** injection method. An intramuscular injection is exactly as it sounds; it is an injection given directly into a muscle. A subcutaneous injection is an injection which is placed between the skin and the muscle. Which method is utilized will depend on the drug being administered and the goals &amp; preferences of the user. 
-The overwhelming majority of individuals choose to administer their AAS by way of IM (intramuscular) injection, although they can be injected subcutaneously, if desired, although it is not recommended to inject over ½ cc/mL of AAS. [HGH](/r/steroids/wiki/growth_hormone), Insulin, HCG, and [Peptides](/r/steroids/wiki/compounds/peptides)) are typically administered subcutaneously.
+The overwhelming majority of individuals choose to administer their AAS by way of IM (intramuscular) injection, although they can be injected subcutaneously, if desired, although it is not recommended to inject over ½ cc/mL of AAS. [HGH](/growth_hormone), Insulin, HCG, and [Peptides](/compounds/peptides)) are typically administered subcutaneously.
 
 ##The Injection
 
-The injection process itself is relatively straightforward. Perhaps nothing causes more anxiety for AAS users than their first injection. This fear is far more psychological than physical, as the act of performing an injection, especially when utilizing proper technique and the correct pin size, can be relatively painless. Some muscle groups are more prone to causing discomfort than others and the possibility of hitting a nerve, scar tissue, or a sore spot is a reality, but in general, an injection should not be considered a “painful” experience. With the information presented in this document, you have been presented with everything you need to know in order to properly perform an injection. For an abbreviated step-by-step walk through, see [Safe Injection Technique](/r/steroids/wiki/thecycle/injecting#wiki_safe_injecting_technique).
+The injection process itself is relatively straightforward. Perhaps nothing causes more anxiety for AAS users than their first injection. This fear is far more psychological than physical, as the act of performing an injection, especially when utilizing proper technique and the correct pin size, can be relatively painless. Some muscle groups are more prone to causing discomfort than others and the possibility of hitting a nerve, scar tissue, or a sore spot is a reality, but in general, an injection should not be considered a “painful” experience. With the information presented in this document, you have been presented with everything you need to know in order to properly perform an injection. For an abbreviated step-by-step walk through, see [Safe Injection Technique](/thecycle/injecting#wiki_safe_injecting_technique).
 
 ##Types Of Syringes
 
@@ -607,7 +607,7 @@ Below are common questions and answers regarding injecting.
 
 ###My Injection Spot Is Red, Itchy, Or Sore?
 
-**Answer:** Get to a doctor for some antibiotics if it is red, itchy, or hot. If it is simply sore and/or swollen it is probably going to be okay see: [Post Injection Pain (PIP)](/r/steroids/wiki/thecycle/injecting#wiki_pip_.28post_injection_pain.29). If in doubt, get some antibiotics; a common thing to tell your doctor is that you injected B12.
+**Answer:** Get to a doctor for some antibiotics if it is red, itchy, or hot. If it is simply sore and/or swollen it is probably going to be okay see: [Post Injection Pain (PIP)](/thecycle/injecting#wiki_pip_.28post_injection_pain.29). If in doubt, get some antibiotics; a common thing to tell your doctor is that you injected B12.
 
 ###Is It Normal To Bleed After An Injection?”
 

@@ -6,15 +6,15 @@ revision_date: 1646091905
 #Side Effects
 
 ###General
-* [Acne](/r/steroids/wiki/sides/acne_vulgaris)
+* [Acne](/sides/acne_vulgaris)
 * [Erectile Dysfunction](https://www.mayoclinic.org/diseases-conditions/erectile-dysfunction/symptoms-causes/syc-20355776)
 * [Estrogen Imbalance](http://www.reddit.com/r/steroids/wiki/sides/changes_in_estrogen_levels)
 * [Gonad Atrophy](https://www.healthline.com/health/testicular-atrophy)
-* [Gynecomastia](/r/steroids/wiki/sides/gynecomastia)
+* [Gynecomastia](/sides/gynecomastia)
 * [Hair Loss](https://www.healthline.com/health/hair-loss)
 * [Hematocrit Increase](https://www.medicalnewstoday.com/articles/hematocrit-levels)
-* [Hypothalamic–pituitary–gonadal axis (HPTA) Shutdown](/r/steroids/wiki/sides/hpta-shutdown)
-* [Hypertrophic Cardiomyopathy](/r/steroids/wiki/sides/hypertrophic_cariomyopathy)
+* [Hypothalamic–pituitary–gonadal axis (HPTA) Shutdown](/sides/hpta-shutdown)
+* [Hypertrophic Cardiomyopathy](/sides/hypertrophic_cariomyopathy)
 * [Hypogonadism](https://en.wikipedia.org/wiki/Hypogonadism)
 * [Hypothyroidism](https://en.wikipedia.org/wiki/Hypothyroidism)
 * [Increased Hematocrit](/r/steroids/comments/2hq3uw/watch_your_bloods/)
@@ -23,14 +23,14 @@ revision_date: 1646091905
 * [Liver Stress](https://en.wikipedia.org/wiki/Hepatitis#Acute) - caused by Hepatotoxic compounds
 * Painful Back / Shin / Calf / etc. Pumps
 * [Lipid (HDL / LDL) Increases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4527564/)
-* [Spermatogenesis Changes](/r/steroids/wiki/sides/spermatogenesis_changes)
-* "Test Flu" [(See Below)](/r/steroids/wiki/sides/list#wiki_.22test_flu.22)
+* [Spermatogenesis Changes](/sides/spermatogenesis_changes)
+* "Test Flu" [(See Below)](/sides/list#wiki_.22test_flu.22)
 
 ###Trenbolone
 
-* [Decreased Respiratory Capacity and Treatment](/r/steroids/wiki/sides/trenbolone_decreased_respitory_capacity)
+* [Decreased Respiratory Capacity and Treatment](/sides/trenbolone_decreased_respitory_capacity)
 * Insomnia
-* [Gynecomastia](/r/steroids/wiki/sides/gynecomastia) (caused by [Hyperprolactinemia](http://en.wikipedia.org/wiki/Hyperprolactinemia))
+* [Gynecomastia](/sides/gynecomastia) (caused by [Hyperprolactinemia](http://en.wikipedia.org/wiki/Hyperprolactinemia))
 
 #Solutions
 

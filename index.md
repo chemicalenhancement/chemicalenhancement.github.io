@@ -70,7 +70,7 @@ The following material is presented on topics related to /r/steroids for educati
 4. *The Endocrine Society's Clinical Guide: Testosterone Therapy in Adult Men with Androgen Deficiency Syndrome*. ( [Scribd](http://www.scribd.com/doc/197094136/FINAL-Androgens-in-Men-Standalone) )
 5. *Why are Steroids Illegal in the USA?* ([Scribd](http://www.scribd.com/doc/197091803/Steroid-Legality))
 6. *Testosterone: Action, Deficiency, Substitution*, 3rd Edition (pp. 405-444). Cambridge University Press,  New York.Behre H.M., Nieschlag E., (2004).  
-7.  [More](/r/steroids/wiki/reading) (Page under revision - links to publications are broken)
+7.  [More](/reading) (Page under revision - links to publications are broken)
 
 ### Original Stories
 

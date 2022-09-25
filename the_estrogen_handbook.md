@@ -70,7 +70,7 @@ Low and high Estrogen sides are very alike, the more experienced you get the eas
 * Thin stream when urinating
 * Constipation (from water retention)
 * Itchy nipples
-* [Gynecomastia](/r/steroids/wiki/sides/gynecomastia)
+* [Gynecomastia](/sides/gynecomastia)
 
 When you get one side effect, it is just an indication use this list to potentially make a full picture. Never go by one side only, being bloated only means nothing, having dry skin only means nothing again. Again, the best way to tell is always to get your Estradiol (E2) checked though blood work.
 
@@ -96,13 +96,13 @@ Aromasin is the new generation of AI and it is suicidal, the difference between 
 
 ###Arimidex (Anastrozole)
 
-[Arimidex (Adex)](/r/steroids/wiki/arimidex) will lower your Estrogen by about 50-60%. Of course, if you keep taking it that percentage accumulates so you lower 50% by another 50% and so on, you can easily end up with your Estradiol in the singles if you take it for long enough at a high enough dose and you aren’t converting much Estrogen from aromatizing gear (using low dose of Test and high dose AI). Arimidex is a good for new steroid users as if they overestimate their dosing for AI and get symptoms of low E2, they will bounce back back up fairly quickly and adjust as needed.
+[Arimidex (Adex)](/arimidex) will lower your Estrogen by about 50-60%. Of course, if you keep taking it that percentage accumulates so you lower 50% by another 50% and so on, you can easily end up with your Estradiol in the singles if you take it for long enough at a high enough dose and you aren’t converting much Estrogen from aromatizing gear (using low dose of Test and high dose AI). Arimidex is a good for new steroid users as if they overestimate their dosing for AI and get symptoms of low E2, they will bounce back back up fairly quickly and adjust as needed.
 
-**Dosage on cycle:** dosing is user dependent and you should get [blood work](/r/steroids/wiki/bloodwork/list) to dial in your dose, but **MOST** users will find .5 mg of Arimidex E3D or E3.5D to be a good starting dose for 500-600 mg Testosterone (just for a reference). Some may need more frequent (EOD) dosing or some may even need less than E3.5D; this is really something that varies person-to-person too much and without blood work there is no way to know for sure what dosage you need.
+**Dosage on cycle:** dosing is user dependent and you should get [blood work](/bloodwork/list) to dial in your dose, but **MOST** users will find .5 mg of Arimidex E3D or E3.5D to be a good starting dose for 500-600 mg Testosterone (just for a reference). Some may need more frequent (EOD) dosing or some may even need less than E3.5D; this is really something that varies person-to-person too much and without blood work there is no way to know for sure what dosage you need.
 
 ###Aromasin (Exemestane)
 
-[Aromasin (Asin)](/r/steroids/wiki/aromasin) is an orally available suicidal aromatase inhibitor. Because Aromasin is steroidal this gives it a favorable Estrogen suppression profile and confers a few really awesome benefits over other anti-estrogens both on paper and in real experience. Steroidal anti-estrogens have the benefit of being lipid-friendly and they all lower SHBG which increases the ratio of free to bound Testosterone, which as many experienced bodybuilders know can have a relatively profound, positive impact on gains.
+[Aromasin (Asin)](/aromasin) is an orally available suicidal aromatase inhibitor. Because Aromasin is steroidal this gives it a favorable Estrogen suppression profile and confers a few really awesome benefits over other anti-estrogens both on paper and in real experience. Steroidal anti-estrogens have the benefit of being lipid-friendly and they all lower SHBG which increases the ratio of free to bound Testosterone, which as many experienced bodybuilders know can have a relatively profound, positive impact on gains.
 
 It is important to understand how drugs work in order to properly dose them, Aromasin is a suicidal aromatase inhibitor, this means that it binds with aromatase enzymes and as it does so permanently disables the enzyme and destroys it. Hence the “suicidal” this compound. Just beware, if you crash your estrogen on Aromasin, it can take a long time waiting for your E2 to rise again (compared to the non-suicidal AIs), which will have a negative impact on lipid profile, joint integrity, mental health, libido and overall gains.
 
@@ -132,7 +132,7 @@ This means that you can find the timing and dosage that works for you; this flex
 * Typically more expensive than Arimidex or Letrozole
 * Alopecia. The other two AI’s have hair loss/hair thinning as a side effect, but not full blown Alopecia.
 
-**Dosage on cycle:** dosing is user dependent and you should get [blood work](/r/steroids/wiki/bloodwork/list) to dial in your dose, but **MOST** users will find 12.5 mg of Aromasin E3D or E3.5D to be a good starting dose for 500-600 mg Testosterone (just for a reference). Some may need more frequent (EOD) dosing or some may even need less than E3.5D; this is really something that varies person-to-person too much.
+**Dosage on cycle:** dosing is user dependent and you should get [blood work](/bloodwork/list) to dial in your dose, but **MOST** users will find 12.5 mg of Aromasin E3D or E3.5D to be a good starting dose for 500-600 mg Testosterone (just for a reference). Some may need more frequent (EOD) dosing or some may even need less than E3.5D; this is really something that varies person-to-person too much.
 
 ###Letrozole
 
@@ -151,10 +151,10 @@ Keep in mind all 3 SERMs will work in favor of your liver (Agonists) since they 
 **Agonist:** Liver, Uterus (female)  
 **Antagonist:** Breast/Nipple
 
-[Nolvadex](/r/steroids/wiki/nolvadex) is more suited for PCT purposes rather than Gyno Flair-Ups or Gyno Reversal, as it increases natural Test levels by 60%, but will decrease IGF-1 levels +25%.
+[Nolvadex](/nolvadex) is more suited for PCT purposes rather than Gyno Flair-Ups or Gyno Reversal, as it increases natural Test levels by 60%, but will decrease IGF-1 levels +25%.
 
 **Dosage on cycle:** 20-40mg ED  
-**Dosage for PCT:** [See PCT](/r/steroids/wiki/thecycle/pct)
+**Dosage for PCT:** [See PCT](/thecycle/pct)
 
 ###Raloxifene (Evista)
 
@@ -181,7 +181,7 @@ Raloxifene doesn’t affect IGF-1 levels whatsoever, also it increases bone dens
 
 If your Estrogen is wildly out of control and you are developing puffy, sore, or itchy nipples, **UP** your AI dose and start taking your SERM. 
 
-*Note:* If you choose Arimidex as your AI, just be aware the blood levels of Arimidex can drop a bit when used alongside Nolvadex.](/r/steroids/wiki/faq/list#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F) To avoid this, you may choose Raloxifene.
+*Note:* If you choose Arimidex as your AI, just be aware the blood levels of Arimidex can drop a bit when used alongside Nolvadex.](/faq/list#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F) To avoid this, you may choose Raloxifene.
 
 **Dosing:** Pharmaceutical Raloxifene 60mg ED *or* Pharmaceutical Nolvadex 20mg ED. It usually will subside after a 7-12 days. Continue the SERM for 3 days after the symptoms have subsided before you drop the SERM. It is suggested to use Raloxofine over Nolvadex when possible, due to Nolvadex decreasing IGF-1 as seen above.
 
@@ -200,7 +200,7 @@ If your Gyno is pubertal, as seen above, this potentially could help, but most l
 **Agonist:** Liver  
 **Antagonist:** Breast/nipple
 
-[Clomiphene](/r/steroids/wiki/clomid) is a harsh drug, if you get the visual sides/blurry vision from clomid they stay for life. They are rare, but do happen.
+[Clomiphene](/clomid) is a harsh drug, if you get the visual sides/blurry vision from clomid they stay for life. They are rare, but do happen.
 
 Clomiphene is a mixed agonist/antagonist. This is due to the fact that Clomiphene is composed of two isomers: enclomiphene (trans-clomiphene) and zuclomiphene (cis-clomiphene). Enclomiphene is an Estradiol receptor antagonist. Zuclomiphene is an estradiol receptor agonist. In all likelihood, the net antagonist effect might be due to the composition being 70% trans (enclomiphene) and 30% cis (zuclomiphene). Nolvadex/Raloxifene is more of a strict anti-estrogen, decreases the effect of estrogen in the body, and potentiates the action of clomiphene. This combination came about after 100s of clinical experience.
 
@@ -216,7 +216,7 @@ Tamoxifen is also made of slightly more isomers, the cis isomer of tamoxifen (in
 
 - The FDA recommended dosage for clomid for male hypogonadism (what we are trying to beat with PCT) is [25 mg EOD or every day, titrated up to 50 mg EOD MAXIMUM for HPTA restart.](https://www-ncbi-nlm-nih-gov.proxy-hs.researchport.umd.edu/pubmed/22044663?dopt=Abstract)
 
-**Dosage for PCT:** [See PCT](/r/steroids/wiki/thecycle/pct)
+**Dosage for PCT:** [See PCT](/thecycle/pct)
 
 ##Prolactin Support
 
@@ -276,7 +276,7 @@ Exactly how the steroids trenbolone and nandrolone increase prolactin levels, we
 
 ###Cabergoline (Dostinex)
 
-[Cabergoline (Caber)](/r/steroids/wiki/dostinex) will lower both progesterone and will inhibit prolactin/lactation. It’s a dopamine agonist means it wont allow your body to lactate since it will occupy your dopamine receptors which are responsible for lactation. Caber is the best prolactin support when running any 19-Nor since the side effects are minimal – no drowsiness, doesn’t affect sleeping patterns, and in general as far as dosing goes is far more flexible than Pramipexole or Bromo. Also there is no withdrawal when ceasing use of Caber like with Prami.
+[Cabergoline (Caber)](/dostinex) will lower both progesterone and will inhibit prolactin/lactation. It’s a dopamine agonist means it wont allow your body to lactate since it will occupy your dopamine receptors which are responsible for lactation. Caber is the best prolactin support when running any 19-Nor since the side effects are minimal – no drowsiness, doesn’t affect sleeping patterns, and in general as far as dosing goes is far more flexible than Pramipexole or Bromo. Also there is no withdrawal when ceasing use of Caber like with Prami.
 
 Caber is a recognized ED med, it reduces downtime (not to be confused with multiple orgasm) so if you need 24 hour recovery between sessions two weeks after taking Caber you will see a significant decrease in downtime you will need 12-16 hours to be ready for the next session, if you need 2 hours you will need 1 hour with Caber.
 

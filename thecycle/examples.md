@@ -16,19 +16,19 @@ Beginners have one rule: **KISS**. That stands for "***Keep It Simple, Stupid***
 
 ### The Basic Bulk
 
-* See [**Your First Cycle**](/r/steroids/wiki/your_first_cycle)
+* See [**Your First Cycle**](/your_first_cycle)
 
 ### The Basic Cut
 
-The Basic Cut differs very slightly from [The Basic Bulk](/r/steroids/wiki/your_first_cycle), mainly in dosing. The standard rule of thumb is to not cut while off cycle as some hard earned muscle mass could be lost. Most users anecdotally notice less bloat with [Testosterone Propionate](/r/steroids/wiki/testosterone_propionate), so it's often used for cuts, but overall you can use Test E or C just fine as well.
+The Basic Cut differs very slightly from [The Basic Bulk](/your_first_cycle), mainly in dosing. The standard rule of thumb is to not cut while off cycle as some hard earned muscle mass could be lost. Most users anecdotally notice less bloat with [Testosterone Propionate](/testosterone_propionate), so it's often used for cuts, but overall you can use Test E or C just fine as well.
 
 **Dosing:**
 
-* **Weeks 1-12:** [Testosterone Propionate](/r/steroids/wiki/testosterone_propionate), 30-50 mg (*ED*) **OR**
-* **Weeks 1-12:** Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate), 100-200 mg (*E3D or E3.5D*). *PCT differs from propionate protocol below.*
+* **Weeks 1-12:** [Testosterone Propionate](/testosterone_propionate), 30-50 mg (*ED*) **OR**
+* **Weeks 1-12:** Testosterone [Enanthate](/testosterone_enthanate) or [Cypionate](/testosterone_cypionate), 100-200 mg (*E3D or E3.5D*). *PCT differs from propionate protocol below.*
 * **Weeks 13:** Nothing the first 2-3 days (This allows the exogenous testosterone to clear your body). PCT should start day 3 or day 4 due to test **propionate's** active life of \~0.8 days.
-* **Weeks 13-*****til*****:** Starting day 3 or 4. Whatever [PCT protocol](/r/steroids/wiki/thecycle/pct) you choose.
-* **Throughout Cycle** (*or at least on hand*): An AI like [Arimidex](/r/steroids/wiki/arimidex) or [Aromasin](/r/steroids/wiki/aromasin). Dosing is user dependent and you should get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. Watch for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels)—especially high estrogen, such as excessive bloating or itchy nipples.
+* **Weeks 13-*****til*****:** Starting day 3 or 4. Whatever [PCT protocol](/thecycle/pct) you choose.
+* **Throughout Cycle** (*or at least on hand*): An AI like [Arimidex](/arimidex) or [Aromasin](/aromasin). Dosing is user dependent and you should get [bloodwork](/bloodwork/list) to dial in your dose. Watch for [signs of low or high estrogen](/sides/changes_in_estrogen_levels)—especially high estrogen, such as excessive bloating or itchy nipples.
 * **Take AI only when sides necessitate.** Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
 ***Note***: You can extend up to 20 weeks. If you wish to extend it, all your ending weeks will change and the week you start PCT will as well.
@@ -55,7 +55,7 @@ Even more effective than an ECA stack is **Salbutamol** with caffeine. [This sta
 
 ###Clenbuterol (Clen)
 
-[Clenbuterol](/r/steroids/wiki/clenbuterol) is prescribed as a bronchodilator for asthma, but also has the additional effect of increasing metabolism. The claim is a 10% increase in metabolism over ECA, which claims a 3% increase in metabolism. (This often quoted, but never found an original study to back this up.) Clenbuterol has a 36-39 hour half-life – meaning if you take it, or worse, too much, you have to ride it out for about a day and a half. Some people panic if they take too much, and head to the Emergency Room, where the doctors will still just tell you that you need to ride it out until it wears off. There is nothing you can take to “make it stop” before then.
+[Clenbuterol](/clenbuterol) is prescribed as a bronchodilator for asthma, but also has the additional effect of increasing metabolism. The claim is a 10% increase in metabolism over ECA, which claims a 3% increase in metabolism. (This often quoted, but never found an original study to back this up.) Clenbuterol has a 36-39 hour half-life – meaning if you take it, or worse, too much, you have to ride it out for about a day and a half. Some people panic if they take too much, and head to the Emergency Room, where the doctors will still just tell you that you need to ride it out until it wears off. There is nothing you can take to “make it stop” before then.
 
 Clenbuterol has also been called “anti-catabolic” – meaning it does not promote muscle loss as part of the increase in metabolism to reduce bodyfat. 
 
@@ -76,21 +76,21 @@ Some additional considerations when using clenbuterol:
 
 Another thing to consider is using a **ECA** (**ephedrine, caffeine, aspirin**) or **EC** (**ephedrine, caffeine**) stack. This will function as an appetite suppressant and accelerate your metabolism and hence aid tremendously on a cut:
 
-* **Last 4-6 Weeks:** [ECA or EC Stack](/r/steroids/wiki/eca_stack), Up To 3xED
+* **Last 4-6 Weeks:** [ECA or EC Stack](/eca_stack), Up To 3xED
 
 
 If you use Test E &amp; C, it takes about six weeks to fully saturate the blood (i.e. kick in). If you don't want to wait that long and you want to aid in your cut, a popular thing to do is start the oral from day 1 (kickstarting). Another popular thing to do is to run your oral at the very end of your cycle, leading up to PCT (finisher). You can run your oral anytime during the cycle though. You may pick **one** of the following:
 
-* **For 6 Weeks:** [Winstrol (Winny)](/r/steroids/wiki/winstrol), 40-80 mg, ED **or**
-* **For 6 Weeks:** [Epistane (Epi)](/r/steroids/wiki/epitiostanol), 40-80 mg, ED **or**
-* **For 6 Weeks:** [Anavar (Var)](/r/steroids/wiki/anavar), 40-80 mg, ED
+* **For 6 Weeks:** [Winstrol (Winny)](/winstrol), 40-80 mg, ED **or**
+* **For 6 Weeks:** [Epistane (Epi)](/epitiostanol), 40-80 mg, ED **or**
+* **For 6 Weeks:** [Anavar (Var)](/anavar), 40-80 mg, ED
 
 
 **ADDITIONAL WARNINGS**:
 
-* [Winstrol (Winny)](/r/steroids/wiki/winstrol) is  considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/r/steroids/wiki/winstrol#wiki_side_effects.2Frisks))
-* [Epistane (Epi)](/r/steroids/wiki/epitiostanol) is considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/r/steroids/wiki/epitiostanol#wiki_risks.2Fside_effects))
-* [Anavar (Var)](/r/steroids/wiki/anavar) is considered a "dry" compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. It is one of the most side-effect free compounds, but does affect lipids negatively, as most oral steroids do. You should still review the compound side effects. ([*Sides*](/r/steroids/wiki/anavar#wiki_side_effects.2Frisks))
+* [Winstrol (Winny)](/winstrol) is  considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/winstrol#wiki_side_effects.2Frisks))
+* [Epistane (Epi)](/epitiostanol) is considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/epitiostanol#wiki_risks.2Fside_effects))
+* [Anavar (Var)](/anavar) is considered a "dry" compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. It is one of the most side-effect free compounds, but does affect lipids negatively, as most oral steroids do. You should still review the compound side effects. ([*Sides*](/anavar#wiki_side_effects.2Frisks))
 
 **Nutrition:**
 
@@ -102,10 +102,10 @@ It is recommended to keep your caloric intake at no less than 80% TDEE.
 
 By now, you have probably put on a fair bit of mass, and want to see how how much you are capable of. This is a solid second cycle, perfect for putting on mass quickly with minimal side effects. **Nandrolone** also provides excellent joint support, allowing you to push your body a bit harder. At this point you have a bit of a feel for how your body responds to testosterone. You can extend the cycle a bit.
 
-* **Weeks 1-16:** Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate), 500 mg/week split *E3.5D*.
+* **Weeks 1-16:** Testosterone [Enanthate](/testosterone_enthanate) or [Cypionate](/testosterone_cypionate), 500 mg/week split *E3.5D*.
 * **Weeks 1-16:** [NPP (Nandrolone)](https://www.reddit.com/r/steroids/wiki/nandrolone), 50-75 mg/day (350-500mg weekly)
 * **Weeks 16-18:** Nothing (This allows the extraneous testosterone to clear your body).
-* **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/r/steroids/wiki/arimidex) or [Aromasin](/r/steroids/wiki/aromasin). Dosing is user dependent and you should get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. Watch out for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels), especially high estrogen, like excessive bloating or itchy nipples. *Do not take AI preemptively*.
+* **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/arimidex) or [Aromasin](/aromasin). Dosing is user dependent and you should get [bloodwork](/bloodwork/list) to dial in your dose. Watch out for [signs of low or high estrogen](/sides/changes_in_estrogen_levels), especially high estrogen, like excessive bloating or itchy nipples. *Do not take AI preemptively*.
 * **Take AI only when sides necessitate.** Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
 You can extend for up to 20 weeks. If you wish to extend it, obviously all your ending weeks will change and the week you start PCT will as well.
@@ -117,12 +117,12 @@ You can extend for up to 20 weeks. If you wish to extend it, obviously all your 
 The following cycle is considered to be a very solid cutting cycle that maintains lean body mass while burning fat.  Keep your caloric intake at no less than 80% TDEE.
 
 
-* **Weeks 1-12:** [Trenbolone Acetate](/r/steroids/wiki/trenbolone), 50-100 mg, every day (ED) to your tolerance level
-* **Weeks 1-12:** [Testosterone Propionate](/r/steroids/wiki/testosterone_propionate) (or  [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate)), 50 mg ED
-* **Weeks 1-12:** [Arimidex](/r/steroids/wiki/arimidex), .5mg E3D, watch for E2 crash, adjust accordingly.
+* **Weeks 1-12:** [Trenbolone Acetate](/trenbolone), 50-100 mg, every day (ED) to your tolerance level
+* **Weeks 1-12:** [Testosterone Propionate](/testosterone_propionate) (or  [Testosterone Enanthate](/testosterone_enthanate)), 50 mg ED
+* **Weeks 1-12:** [Arimidex](/arimidex), .5mg E3D, watch for E2 crash, adjust accordingly.
 * **Weeks 13-14:** Nothing (This allows the extraneous testosterone to clear your body).
-* On Hand Throughout Cycle: An AI like [Arimidex](/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur.
-* On Hand Throughout Cycle: A Dopamine Agonist like [Caber](/r/steroids/wiki/dostinex) or Prami to stop prolactin production.
+* On Hand Throughout Cycle: An AI like [Arimidex](/arimidex) in case signs of excessive bloating or itchy nipples occur.
+* On Hand Throughout Cycle: A Dopamine Agonist like [Caber](/dostinex) or Prami to stop prolactin production.
 * **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on-hand.
 
 **Q:** What should my protein/carb/fat percentages be during this cut?
@@ -360,5 +360,5 @@ One last thing. Guys ask “Which way is better?” to take your Whey/Dextrose i
 
 Although we have female members, and members who specialize in anabolics in women; female specific help can be found at r/steroidsxx
 
-* [**See The Women's Wiki Page**](/r/steroids/wiki/women)
+* [**See The Women's Wiki Page**](/women)
 * [*Here Is A Related Thread*](http://www.reddit.com/r/steroids/comments/1yf5jy/crowdsource_female_cycle_examples/)

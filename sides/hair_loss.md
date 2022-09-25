@@ -13,23 +13,23 @@ The below table applies to any ester.
 
 Compound | Promotes Loss? | To help prevent | Notes
 :--------------|:--------------:|:-------------:|:-------------:|:-------------
-[Anadrol 50 (Oxymetholone)](/r/steroids/wiki/anadrol) | Yes | Don't use |   
-[Anavar (Oxandrolone)](/r/steroids/wiki/anavar) | Yes | finastride / dutastride  | Very mild  
+[Anadrol 50 (Oxymetholone)](/anadrol) | Yes | Don't use |   
+[Anavar (Oxandrolone)](/anavar) | Yes | finastride / dutastride  | Very mild  
 Androgel (Testosterone) | Yes | finastride / dutastride  |   
-[Deca-Durabolin (Nandrolone Decanoate)](/r/steroids/wiki/deca_durabolin) | | |   
-[Dianabol (Methandrostenolone)](/r/steroids/wiki/dianabol) | | | 
+[Deca-Durabolin (Nandrolone Decanoate)](/deca_durabolin) | | |   
+[Dianabol (Methandrostenolone)](/dianabol) | | | 
 Durabolin (NPP) | | |   
-[Equipoise (Boldenone Undecylenate)](/r/steroids/wiki/equipoise) | | |    
+[Equipoise (Boldenone Undecylenate)](/equipoise) | | |    
 Epistane (Methylepitiostanol)| | |   
-[Halotestin (Fluoxymesterone)](/r/steroids/wiki/halotestin) | | |   
-[Masteron (Drostanolone Propionate)](/r/steroids/wiki/masteron) | No | ----- |  
+[Halotestin (Fluoxymesterone)](/halotestin) | | |   
+[Masteron (Drostanolone Propionate)](/masteron) | No | ----- |  
 [Methylstenbolone](http://www.reddit.com/r/steroids/wiki/compounds/methylstenbolone) | | | 
 Nandrolone | | | 
-[Oral Turinabol](/r/steroids/wiki/turinabol) | | | 
-[Primobolan (Methenolone Acetate)](/r/steroids/wiki/primobolan) | | |
-[Proviron (Mesterolone)](/r/steroids/wiki/proviron) | | |
-[Superdrol (Methyldrostanolone)](/r/steroids/wiki/gear/methasterone) | Yes | Don't use | 
-[Sustanon 100 &amp; 250](/r/steroids/wiki/sustanon_250) | Yes | finastride / dutastride  |   
+[Oral Turinabol](/turinabol) | | | 
+[Primobolan (Methenolone Acetate)](/primobolan) | | |
+[Proviron (Mesterolone)](/proviron) | | |
+[Superdrol (Methyldrostanolone)](/gear/methasterone) | Yes | Don't use | 
+[Sustanon 100 &amp; 250](/sustanon_250) | Yes | finastride / dutastride  |   
 Testosterone | Yes | finastride / dutastride  |   
-[Trenbolone Acetate/Enanthate &amp; Blends](/r/steroids/wiki/trenbolone) | No | ----- |
-[Winstrol (Stanozolol)](/r/steroids/wiki/winstrol) | Yes | Don't use |
+[Trenbolone Acetate/Enanthate &amp; Blends](/trenbolone) | No | ----- |
+[Winstrol (Stanozolol)](/winstrol) | Yes | Don't use |

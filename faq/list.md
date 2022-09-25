@@ -75,11 +75,11 @@ These numbers come from early studies measuring the effect of each steroid on ce
 
 ###Can I just do a oral only cycle?
 
-You can. Should you? Probably not. Oral steroids are still going to suppress your natural Test pretty hard. You may find you don't feel the best or [symptoms of low testosterone](/r/steroids/wiki/trt/list#wiki_symptoms_of_low_testosterone). if you choose to do a oral only cycle, you should still look into getting a SERM (like [Nolvadex](/r/steroids/wiki/nolvadex)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [proper PCT](/r/steroids/wiki/thecycle/pct), as well. You should consider reading through this Wiki and potentially consider doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too.
+You can. Should you? Probably not. Oral steroids are still going to suppress your natural Test pretty hard. You may find you don't feel the best or [symptoms of low testosterone](/trt/list#wiki_symptoms_of_low_testosterone). if you choose to do a oral only cycle, you should still look into getting a SERM (like [Nolvadex](/nolvadex)/[Clomid](/clomid) or the sorts) for a [proper PCT](/thecycle/pct), as well. You should consider reading through this Wiki and potentially consider doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too.
 
 ###What about just a Prohormone or Designer Steroid cycle that I got at the store?
 
-Again. You can. Should you? Probably not. Prohormones &amp; Designer Steroids are going to suppress your natural Test pretty hard. You may find you don't feel the best or [symptoms of low testosterone](/r/steroids/wiki/trt/list#wiki_symptoms_of_low_testosterone). Prohormones &amp; Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones / Designer Steroids is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/r/steroids/wiki/nolvadex)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [real PCT](/r/steroids/wiki/thecycle/pct). You should consider reading through this Wiki and potentially consider doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too.
+Again. You can. Should you? Probably not. Prohormones &amp; Designer Steroids are going to suppress your natural Test pretty hard. You may find you don't feel the best or [symptoms of low testosterone](/trt/list#wiki_symptoms_of_low_testosterone). Prohormones &amp; Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones / Designer Steroids is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/nolvadex)/[Clomid](/clomid) or the sorts) for a [real PCT](/thecycle/pct). You should consider reading through this Wiki and potentially consider doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too.
 
 ##Compound Handling and Mixing
 
@@ -142,7 +142,7 @@ If none of this helps, anecdotally, Cialis (10-15mg ED) has been known to help.
 
 ###My Injection Spot Is Red, Itchy, Or Sore?
 
-**Answer:** Get to a doctor for some antibiotics if it is red, itchy, or hot. If it is simply sore and/or swollen it is probably going to be okay see: [Post Injection Pain (PIP)](/r/steroids/wiki/thecycle/injecting#wiki_pip_.28post_injection_pain.29). If in doubt, get some antibiotics; a common thing to tell your doctor is that you injected B12.
+**Answer:** Get to a doctor for some antibiotics if it is red, itchy, or hot. If it is simply sore and/or swollen it is probably going to be okay see: [Post Injection Pain (PIP)](/thecycle/injecting#wiki_pip_.28post_injection_pain.29). If in doubt, get some antibiotics; a common thing to tell your doctor is that you injected B12.
 
 ###Is It Normal To Bleed After An Injection?”
 

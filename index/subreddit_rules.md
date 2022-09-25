@@ -27,7 +27,7 @@ The following goals have been adopted by the community.
 
 Building a great community takes effort from everyone involved.  The moderation team creates the framework in which the members of the community operate, however, we cannot do everything.  Community members have the following responsibilities.
 
-1. Abide by the [community rules of this sub.](/r/steroids/wiki/index/subreddit_rules#wiki_community_rules)
+1. Abide by the [community rules of this sub.](/index/subreddit_rules#wiki_community_rules)
 
 2. Use the report button and message the moderators for posts that break community rules.
 
@@ -47,7 +47,7 @@ Building a great community takes effort from everyone involved.  The moderation 
 
 ###What Is Low-Quality Content?
 
-[Under Rule 5 you will find that threads created on /r/steroids must not be Low Quality Content.](/r/steroids/wiki/index/subreddit_rules#wiki_5._approved_posters_.26amp.3B_high_quality_content_only.)
+[Under Rule 5 you will find that threads created on /r/steroids must not be Low Quality Content.](/index/subreddit_rules#wiki_5._approved_posters_.26amp.3B_high_quality_content_only.)
 
 The following attributes usually describe *low-quality content*.
 
