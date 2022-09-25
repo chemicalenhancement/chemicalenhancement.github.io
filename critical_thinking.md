@@ -3,7 +3,7 @@ revision_id: ff16eb90-f5a0-11e4-acab-0efe46cdc1d7
 revision_date: 1431103255
 ---
 
-##Carl Sagan's Rules for Critical Thinking and Nonsense-Detection
+## Carl Sagan's Rules for Critical Thinking and Nonsense-Detection
 
 1.  Wherever possible there must be independent confirmation of the “facts.”
 2. Encourage substantive debate on the evidence by knowledgeable proponents of all points of view.
@@ -15,7 +15,7 @@ revision_date: 1431103255
 8. Occam’s Razor. This convenient rule-of-thumb urges us when faced with two hypotheses that explain the data equally well to choose the simpler.
 9. Always ask whether the hypothesis can be, at least in principle, falsified. Propositions that are untestable, unfalsifiable are not worth much. Consider the grand idea that our Universe and everything in it is just an elementary particle — an electron, say — in a much bigger Cosmos. But if we can never acquire information from outside our Universe, is not the idea incapable of disproof? You must be able to check assertions out. Inveterate skeptics must be given the chance to follow your reasoning, to duplicate your experiments and see if they get the same result.
 
-##20 Most Common Logical Fallacies (aka: baloney detection)
+## 20 Most Common Logical Fallacies (aka: baloney detection)
 
 &gt;In addition to teaching us what to do when evaluating a claim to knowledge, any good baloney detection kit must also teach us what not to do. It helps us recognize the most common and perilous fallacies of logic and rhetoric. Many good examples can be found in religion and politics, because their practitioners are so often obliged to justify two contradictory propositions.
 
