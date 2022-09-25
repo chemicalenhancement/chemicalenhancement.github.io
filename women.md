@@ -5,14 +5,14 @@ revision_date: 1568252615
 
 #WOMEN &amp; PEDs
 
-##DISCLAIMER
+## DISCLAIMER
 This is an overview of all the various supplements and hormones that women have been known to use towards “fitness goals”. This wiki is in the interest of giving you a starting place to do the basic research so you can make your own informed decisions instead of relying on some guy you know (guys have different body chemistry than women) – regardless of how experienced they are with their own cycling and supplementation, it doesn’t necessarily translate into anything useful for you as a female. It is beyond critical for **YOU** to own your own decisions – your goals, your results, your sides. This is not a case where because you know someone who "you trust and would never hurt you”, it is **YOUR** decision and **YOUR** responsibility. No one else is going to experience the results **AND** the sides. No one can guarantee what will or won’t happen – you are literally your very own petri-dish. **YOU** need to educate yourself so you can make informed choices. **There are no quick fixes or magic pills.** None of this stuff matters if you don’t already have a solid and performing diet, training, cardio &amp; recovery program. And even in having this information available, just because it’s there or you have access to it, doesn’t mean it is the appropriate path to your goals. You need to have reasonable expectations. The body simply can’t support changes that are forced on it faster than it can accommodate. “Drugs aren’t always the answer.”
 
 Always remember that steroids are **NOT** particularly fat burners (even if some may have fat burning properties). If you aren’t already lean or your diet isn’t optimized already, you may find yourself “thick” when everyone else told you [*fill in the steroid*] would lean you out &amp; tone you up. You’re screwing with your hormone profile. Women’s hormone balance is much more complex than men’s, and doesn’t work the same. Additionally women’s bodies can be much more complex in their response to something as simple as just the diet. All sorts of metabolic fun can result from any sort of extreme. Going into desperation mode and throwing more drugs on to force a result you want, but your body isn’t ready to produce yet, is just going to aggravate the situation.
 
-##OTC Fat Burners
+## OTC Fat Burners
 
-###Ephedrine
+### Ephedrine
 
 If you want to go back to basics, you can build your own [ECA or EC stack](/eca_stack).
 
@@ -28,11 +28,11 @@ Another variation is Ephedrine / Caffeine / Yohimbine HCl (ECY). Yohimbine is gr
 
 You can take any of these combinations at 2-3 times ED, but it is generally recommended to not take anything after 3pm, or determine how late into the day the last dose affects you, and make that the latest time of your last dose so you can sleep. Anything that affects your sleep will reduce your quality recovery time and can begin to negate any progress you make from the compound you’re taking.
 
-##Non-OTC Fat Burners
+## Non-OTC Fat Burners
 
 Women are often more interested in ‘fat loss’ before they are interested in muscle growth, particularly for competition prep. The following compounds are explicitly not steroids, but they are generally controlled substances or by prescription only. These are some of the other supplements that women start to “lose fat” or “lean up”.
 
-###Clenbuterol (Clen)
+### Clenbuterol (Clen)
 
 [Clenbuterol](/clenbuterol) is prescribed as a bronchodilator for asthma, but also has the additional effect of increasing metabolism. The claim is a 10% increase in metabolism over ECA, which claims a 3% increase in metabolism. (This often quoted, but never found an original study to back this up.) Clenbuterol has a 36-39 hour half-life – meaning if you take it, or worse, too much, you have to ride it out for about a day and a half. Some people panic if they take too much, and head to the Emergency Room, where the doctors will still just tell you that you need to ride it out until it wears off. There is nothing you can take to “make it stop” before then.
 
@@ -44,13 +44,13 @@ Some additional considerations when using clenbuterol:
 
 * Using Ketotifen with Clenbuterol (2-3mg ED) - Ketotifen is an antihistamine that inhibits down regulation of beta receptors, but you should do more outside research before using.
 
-####Common Clenbuterol Cycles
+#### Common Clenbuterol Cycles
 
 * **2 weeks ‘on’ / 2 weeks ‘off’ for 8-12 weeks** – Starting at 20mcg, increasing by 20mcg units as you can handle, until what you can handle or a maximum of 100mcg per day, and then stay at that amount for the duration of the two weeks. Then stop and go off for 2 weeks, substituting your favorite OTC thermo, and then repeating the 2 weeks ‘on’, again starting at 20mcg.
 
 * **Continued ‘on’ for 8-12 weeks, include ketiotifen** – Starting at 20mcg for a week, increase by 20mcg per week until what you can handle or a maximum of 100mcg per day, and then stay at that amount for the duration of the cycle
 
-###Thyroid Medication: T3 and T4
+### Thyroid Medication: T3 and T4
 
 The thyroid hormones thyroxine (T4) and triiodothyronine (T3), are tyrosine-based hormones produced by the thyroid gland primarily responsible for regulation of metabolism. T4 converts to T3, with T3 being 3-4 times stronger than T4. Synthetic T4 is often prescribed for people diagnosed with hypothyroidism (“sluggish thyroid”).
 
@@ -62,7 +62,7 @@ Another very important consideration with T3 is that bumps up metabolism… but 
 
 To this end it is not generally recommended to cycle T3 without an anabolic support. Either an AAS or, a very common stack is with clenbuterol, which has been shown to be anabolic, or at least anti-catabolic.
 
-####Typical Cycle
+#### Typical Cycle
 
 It is not recommended to run T3 by itself. Combine the following with an AAS cycle.
 
@@ -70,7 +70,7 @@ It is not recommended to run T3 by itself. Combine the following with an AAS cyc
 
 * Start at 12.5mcg for a week. You can either keep it here or increase. Increases shouldn't be more than 12.5mcg per week until a maximum of 75mcg (high dose - advanced users only). At the end, taper back down by 12.5mcg every 3 days.
 
-##Anti-Estrogens
+## Anti-Estrogens
 
 There are two classes of estrogen manipulators that often fall under the term “anti-estrogens”. The first are Selective Estrogen Receptor Manipulators (SERMs). The only current example out there is Tamoxifen Citrate (Nolvadex). This operates specifically on the ovarian-driven estrogen process. The second category that falls under “anti-estrogens” are Aromatase Inhibitors (AI’s) that operate not on ovary-originating estrogen, but rather that resulting from aromatization (or conversion to estrogen) of testosterone. Examples of testosterones that convert are exogenous testosterones (anabolic androgenic steroids) such as Testosterone, Nandrolone, or Dianabol. There is also a natural source of androgen that converts to estrogen – that produced by the adrenal glands, in both men and women. When women enter menopause and their ovary-originating estrogen is no longer produced, the only remaining source of naturally produced estrogen is that resulting from the adrenals. Examples of AIs are Arimidex, Aromasin, and Letrozole. In practice, both these and Nolvadex, are all primarily prescribed as breast cancer treatment for post-menopausal women.
 
@@ -84,12 +84,12 @@ In the context of this article, Aromatase Inhibitors are more specific to the es
 
 **Generally speaking AI’s are not recommended for pre-menopausal women who are new to steroid cycling or using non-aromatizing compounds. If they choose to use an AI, it needs to be very conservatively used, as it is very easy to shut down estrogen with these compounds.**
 
-####Typical Use
+#### Typical Use
 
 Primarily Nolvadex is used during the last 4-8 weeks of a contest prep to help reduce bodyfat in the hips / thighs / waist area. Again, it will not do the heavy lifting, but will support a tight contest prep. It is possible to experience either immediate interruption of menstrual flow, or breakthrough bleeding within 4 weeks of starting the cycle. Also once coming off, the effects will not be maintained and the estrogen-pattern bodyfat depositing will continue again. “Estrogen rebound” is often experienced as well, thus the taper down is recommended. Because of the potential of this rebound it is recommended to cycle Nolvadex with a specific end / target date in mind, followed by an expected rebound while your body recovers from the prep phase.  
 More aggressive aromatase inhibitors are not generally recommended unless you are an experienced cycler running aromatizing compounds such as NPP. If your cycle is intended for a bulk phase, then don’t use the AIs as you need the estrogen to build muscle mass and the water gain is minimal with most compounds women use.
 
-####Typical Cycle
+#### Typical Cycle
 
 * Nolvadex: 10-20mg ED, split in half AM and half PM for maximum of 8 weeks.
 
@@ -97,17 +97,17 @@ More aggressive aromatase inhibitors are not generally recommended unless you ar
 
 * Aromasin: 12.5-25mg EOD (only with an aromatizing AAS) for a maximum of 6-8 weeks – AIs are very aggressive and will produce dry-feeling joints. If you experience aggressive hot/cold flashes and feeling sick, taper off over a couple days and stay off.
 
-###Human Growth Hormone (HGH)
+### Human Growth Hormone (HGH)
 
 Growth Hormone is often recommended for “fat loss”. It is not a “fat burner” in the same sense as clen or ephedrine, but instead falls under the larger category of “anti-aging” compounds or “hormone replacement therapy”. In these contexts, it is intended to be dispensed under the supervision of a qualified physician based on constant monitoring of IGF-1 levels. This is the indicator used to track growth hormone production by the hypothalamus. Essentially this is what drives “youthfulness”. The hypothalamus produces optimal levels of growth hormone around age 18-21. These levels begin to decrease after age 30-35 as the hypothalamus shrinks with age. The idea behind supplementing with HGH is to return the levels of growth hormone to optimal levels, as if you were still in the prime of your life.
 
 In practical use, as mentioned above, HGH is used for its anti-aging properties, as a maintenance protocol for older folks, or to promote those youthful properties with specific interest in promoting fat loss, or rather not promoting age-related fat depositing, or stacked with an AAS cycle to enhance the overall effect.
 
-####Typical Use
+#### Typical Use
 
 GH is often recommended for women for ‘weight loss’. By itself, GH does NOT promote muscle growth in the same sense as AAS, as it is not sex hormone. Instead, it will work to promote those youthful features such as healthy hair, improved skin elasticity, better sense of well-being, better healing capability ([Study](http://www.ncbi.nlm.nih.gov/pubmed/19933753)), and more optimized metabolism to promote a preference for less bodyfat depositing ([Study](http://www.ncbi.nlm.nih.gov/pubmed/19240267)). It might also be viewed as a support during the extremes of competition prep for the body. With a steroid cycle, such as anavar, it would work to enhance the effects of that compound. The effects of a GH cycle are not immediate and dramatic, but rather subtle and slow to show over time.
 
-####Typical Cycle
+#### Typical Cycle
 
 **Dose:**
 
@@ -119,7 +119,7 @@ Primarily for cost purposes, 6 days on / 1 day off **or** 5 days on / 2 days off
 
 **Duration:** 4-6 months is ideal. Very short cycles such as a month, are not really going to show any particular results for the cost.
 
-####Potential Sides
+#### Potential Sides
 
 * Water retention is a common experience.
 
@@ -127,7 +127,7 @@ Primarily for cost purposes, 6 days on / 1 day off **or** 5 days on / 2 days off
 
 * Very aggressive use may fall into the extreme category of acromegaly
 
-##Anabolic Androgenic Steroids (AAS)
+## Anabolic Androgenic Steroids (AAS)
 
 **/r/steroids is hesitant to recommend stacking any AAS with more AAS. It is done, but should only be after you have experience with each individual compound in the stack. For this purpose, we will only cover one compound at a time. But you may add in a Fat Burner or HGH if your goals could benefit from them.**
 
@@ -159,15 +159,15 @@ And a last note on what should be the obvious thought – **ANY** supplement –
 
 This section will include links to the standard steroid profiles for the technical details, with most of the discussion focused on use, specifically for women. Please note that most steroid profiles are written with men in mind as the target audience and relative to male hormone profiles. Any dosing recommended is not going to be appropriate for women unless otherwise specified.
 
-###Anavar (Oxandrolone)
+### Anavar (Oxandrolone)
 
 [Anavar (Var)](/anavar) is probably the most commonly used AAS by women. It might be used by competitors for off-season building with an appropriate diet, or during contest prep for cutting, preservation of muscle during a cutting diet, and improved recovery.
 
-####Typical Use
+#### Typical Use
 
 Anavar promotes lean muscle mass with minimal sides and occasional water retention. It is a oral steroid, though used in small enough doses that its impact on the liver is typically minimal for women. It will mess up your lipid profile though, as oral steroids do. It is also attractive to women and beginners who are not interested in dealing with needles. The predictable and minimal sides are also attractive points to those not wanting to deal with the more individual and androgenic sides of most other AAS.
 
-####Typical Cycle
+#### Typical Cycle
 
 * Dose: 5-10mg ED – split the dose ½ in the AM, ½ in the PM
 
@@ -179,7 +179,7 @@ Anavar promotes lean muscle mass with minimal sides and occasional water retenti
 
 Suggested maximum dose is 20mg ED (though more is not better – often 10mg is sufficient). As the dose increases, sides may increase and results don’t necessarily increase. Anecdotally, if the cycler is interested in going to doses above 20mg, the sides can begin to accumulate and the impact on your liver becomes more of a consideration. Based on this and the cost (anavar is typically one of the more expensive compounds), if you are looking for more aggressive results, this is the point where people will move to a more aggressive, cheaper, injectable compound.
 
-####Potential Sides
+#### Potential Sides
 
 * Interrupted period / flow – may take a few months for the flow to come back as normal. Note this does **NOT** mean you won’t get pregnant.
 
@@ -203,17 +203,17 @@ Be careful w/ using diuretics to manage this – continued use of even OTC diure
 
 * Occasionally people experience nose bleeds or headaches (due to increased blood pressure – you can google for OTC supplements to help with BP
 
-###Winstrol (Stanozolol)
+### Winstrol (Stanozolol)
 
 [Winstrol (Winny)](/winstrol) comes in both oral and water-based injectable form (but also very rarely an oil based). It is attractive to women or recommended for women because it is an oral, it has a relatively short half-life and detection time (i.e it clears the system relatively quickly, reducing the duration of any undesirable sides following completion of a cycle), and promotes lean muscle mass without water retention. It is most commonly viewed as a “cutter” for competitors. Winstrol is also attractive as it tends to be both cheaper and more readily available than others like anavar or primobolan. Because of this, it is also less likely to be faked.
 
 Winstrol is often grouped with anavar as a good steroid for “beginners" or those who don’t want to go into the more aggressive compounds (i.e. injectables). However it is more androgenic than anavar and sides are less predictable and more unique to the individual, with the potential of being very androgenic. Because of this, anavar would generally be the better recommendation, but winstrol is seen as a viable alternative. And is also known to have a "fat burning" effect.
 
-####Typical Use
+#### Typical Use
 
 Winstrol is most commonly used both by men and women, as a cutter during competition prep. It promotes lean, hard muscle mass without water retention. One might see competitors running a winstrol-only cycle, or a more advanced physique competitor using it in a stack towards the final weeks of a competition prep.
 
-####Typical Cycle
+#### Typical Cycle
 
 **Oral Winstrol:** Can be cycled similarly to anavar.
 
@@ -227,7 +227,7 @@ Suggested maximum dose is 15mg ED (though more is not better – often 10mg is s
 
 If chosen to include in a competition cutting stack, schedule towards the final weeks of prep. It usually takes about 2 weeks to really start to “show” itself.
 
-####Potential Sides
+#### Potential Sides
 
 * Interrupted period / flow – may take a few months for the flow to come back as normal. Note this does **NOT** mean you won’t get pregnant.
 
@@ -251,15 +251,15 @@ If chosen to include in a competition cutting stack, schedule towards the final 
 
 * Occasionally people experience nose bleeds or headaches (due to increased blood pressure – you can google for OTC supplements to help with BP
 
-###Turinabol (Tbol)
+### Turinabol (Tbol)
 
 [Turinabol (Tbol)](/turinabol) is an oral steroid that has recently become more widely used by women.
 
-####Typical Use
+#### Typical Use
 
 Tbol is good to cycle for both cutting or bulking off-season. Lean gains are good for a women looking to build some size.
 
-####Typical Cycle
+#### Typical Cycle
 
 * Dose: 5-10mg ED – split the dose ½ in the AM, ½ in the PM
 
@@ -271,7 +271,7 @@ Tbol is good to cycle for both cutting or bulking off-season. Lean gains are goo
 
 Suggested maximum dose is 15mg ED (though more is not better – often 10mg is sufficient). As the dose increases, sides may increase and results don’t necessarily increase. Anecdotally, if the cycler is interested in going to doses above 15mg, the sides can begin to accumulate and the impact on your liver becomes more of a consideration.
 
-####Potential Sides
+#### Potential Sides
 
 * Interrupted period / flow – may take a few months for the flow to come back as normal. Note this does **NOT** mean you won’t get pregnant.
 
@@ -295,15 +295,15 @@ Be careful w/ using diuretics to manage this – continued use of even OTC diure
 
 * Occasionally people experience nose bleeds or headaches (due to increased blood pressure – you can google for OTC supplements to help with BP
 
-###Anadrol (Oxymetholone)
+### Anadrol (Oxymetholone)
 
 [Anadrol (Adrol)](/anadrol) is an oral steroid that has recently become more widely used by women when bulking.
 
-####Typical Use
+#### Typical Use
 
 Adrol is good to cycle for bulking off-season. Lean gains are good for a women looking to build some size. It has been found to be a good choice for women who wish to be conservative yet have very effective results. The medical doses are pretty astonishing. The reason that 50 mg is the tablet size is because that’s the standard minimal medical dose, including for women and children! It used to be used extensively for improving red blood cell count. But for bodybuilding purposes, we will always start low with any AAS.
 
-####Typical Cycle
+#### Typical Cycle
 
 * Dose: 12.5-25mg ED – split the dose ½ in the AM, ½ in the PM
 
@@ -315,7 +315,7 @@ Adrol is good to cycle for bulking off-season. Lean gains are good for a women l
 
 Suggested maximum dose is 37.5mg ED (though more is not better – often 25mg is sufficient). As the dose increases, sides may increase and results don’t necessarily increase. Anecdotally, if the cycler is interested in going to doses above 25mg, the sides can begin to accumulate and the impact on your liver becomes more of a consideration. These are just the suggested dosages, medically Anadrol has been given to women at higher dosages and been fine.
 
-####Potential Sides
+#### Potential Sides
 
 * Interrupted period / flow – may take a few months for the flow to come back as normal. Note this does **NOT** mean you won’t get pregnant.
 
@@ -339,15 +339,15 @@ Be careful w/ using diuretics to manage this – continued use of even OTC diure
 
 * Occasionally people experience nose bleeds or headaches (due to increased blood pressure – you can google for OTC supplements to help with BP
 
-###Primobolan (Methenolone)
+### Primobolan (Methenolone)
 
 [Primobolan (Primo)](/primobolan), comes in both oral and injectable form. The injectable is most commonly used. Oral form, primobolan acetate, has recently become more available.
 
-####Typical Use
+#### Typical Use
 
 Primo has been listed as one of the top favorites for women. Because it does not aromatize, again it is a favorite cycle both for cutting or bulking off-season. Lean gains are good for a women looking to build some size, but not get “*too* swole”. Oral Primo is unique in that the oral form is one of the few orals that is not hard on the liver, but at the same time, it loses a degree of its strength as it passes through your system, thus higher doses are required.
 
-####Typical Cycle
+#### Typical Cycle
 
 **Injectable Primo:**
 
@@ -374,7 +374,7 @@ Suggested maximum dose is 15mg ED (though more is not always better). As the dos
 This is often the primary component of a prep phase. It can be run all the way up to a show without promoting water retention issues.  
 More experienced cyclers will often stack with winstrol or anavar.
 
-####Potential Sides
+#### Potential Sides
 
 * Notorious for hairloss – A shampoo like Nizoral or Nioxin (find next to the dandruff shampoo in most stores) can help minimize this.
 
@@ -394,15 +394,15 @@ More experienced cyclers will often stack with winstrol or anavar.
 
 * May cause vaginosis / yeast infection (most any AAS has this potential)
 
-###Proviron (Mesterolone)
+### Proviron (Mesterolone)
 
 [Proviron](/proviron) is a highly androgenic compound that is used primarily during the final weeks of a competition cutting phase to help lean out in the mid-section. It is often stacked with Nolvadex to lean out the hips/thighs/waist further. Being fundamentally androgenic (as opposed to anabolic), proviron will not promote muscle growth as much as it promotes leanness and hardness. For short cycles (i.e. 4-8 weeks maximum), sides are minimal.
 
-####Typical Use
+#### Typical Use
 
 Proviron would often be stacked with Nolvadex as a final 4-8 week dial into a competition date.
 
-####Typical Cycle
+#### Typical Cycle
 
 * Dose: 25 mg ED – split the dose ½ in the AM, ½ in the PM
 
@@ -410,7 +410,7 @@ Proviron would often be stacked with Nolvadex as a final 4-8 week dial into a co
 
 * No need to taper the dose when the target date or cycle end date is over.
 
-####Potential Sides
+#### Potential Sides
 
 * Water retention
 
@@ -430,15 +430,15 @@ Proviron would often be stacked with Nolvadex as a final 4-8 week dial into a co
 
 * Interrupted period / flow – may take a few months for the flow to come back as normal. Note this does **NOT** mean you won’t get pregnant.
 
-###Masteron (Drostanolone Propionate)
+### Masteron (Drostanolone Propionate)
 
 [Masteron (Drostanolone Propionate)](/masteron) is a highly androgenic compound that is used primarily during the final weeks of a competition cutting phase to help lean out in the mid-section. It is often stacked with Nolvadex to lean out the hips/thighs/waist further. Being fundamentally androgenic (as opposed to anabolic), Masteron (Mast) will not promote muscle growth as much as it promotes leanness and hardness. For short cycles (i.e. 4-8 weeks maximum), sides are minimal.
 
-####Typical Use
+#### Typical Use
 
 Masteron would often be stacked with Nolvadex as a final 4-8 week dial into a competition date.
 
-####Typical Cycle
+#### Typical Cycle
 
 * Dose: 7-15mg ED or 14-30mg EOD
 
@@ -446,7 +446,7 @@ Masteron would often be stacked with Nolvadex as a final 4-8 week dial into a co
 
 * No need to taper the dose when the target date or cycle end date is over.
 
-####Potential Sides
+#### Potential Sides
 
 * Water retention
 
@@ -466,15 +466,15 @@ Masteron would often be stacked with Nolvadex as a final 4-8 week dial into a co
 
 * Interrupted period / flow – may take a few months for the flow to come back as normal. Note this does **NOT** mean you won’t get pregnant.
 
-###Boldenone (EQ, Bold A, Bold C, etc.)
+### Boldenone (EQ, Bold A, Bold C, etc.)
 
 [Equipoise (EQ)](/equipoise) (Boldenone Undecylenate) is an injectable steroid that includes a small amount of aromatization. It is seen as a nice compound that produces good gains with minimal water retention. EQ is the most readily available (and used), but a shorter ester would be optimal. **/r/steroids suggests going with the short ester version of this compound, Boldenone Acetate (Bold A).** This will allow the compound to clear much faster if sides occur.
 
-####Typical Use
+#### Typical Use
 
 For an experienced cycler, as an off-season bulker with low water retention, or at the beginning of a contest prep, again with low water retention. Anecdotally, some people experience an increase in hunger on EQ, so it might fit well with a bulker phase.
 
-####Typical Cycle
+#### Typical Cycle
 
 **Bold A:**
 
@@ -496,7 +496,7 @@ Suggested maximum dose is 15mg ED (though more is not better – often 10mg is s
 
 Suggested maximum dose is 150mg / week (though more is not better). As the dose increases, sides may increase and results don’t necessarily increase.
 
-####Potential Sides
+#### Potential Sides
 
 * Acne
 
@@ -514,15 +514,15 @@ Suggested maximum dose is 150mg / week (though more is not better). As the dose 
 
 * May cause vaginosis / yeast infection (most any AAS has this potential)
 
-###Nandrolone Phenylpropionate (NPP)
+### Nandrolone Phenylpropionate (NPP)
 
 There are several different forms (esters) of Nandrolone available. NPP is the shorter-acting [Deca Durabolin (Nandrolone Decanoate)](/deca_durabolin) that would be more likely recommended for women. The longer acting Deca will anecdotally produce more water retention and due to the longer ester it will take longer to clear if sides pop up. This is a more aggressive cycle for women with some water retention and longer detection time than the more commonly used injectables such as primo.
 
-####Typical Use
+#### Typical Use
 
 For women, NPP falls into the scope of really only for those experienced who are looking for significant growth and are prepared to deal with the full scope of potential sides. It might be considered an off-season cycle for a female bodybuilder or used at the beginning of a 16 week prep, to be later dropped and replaced with a non-aromatizing compound.
 
-####Typical Cycle
+#### Typical Cycle
 
 * Dose: 5-8mg ED or 10-16mg EOD
 
@@ -533,7 +533,7 @@ For women, NPP falls into the scope of really only for those experienced who are
 Suggested maximum dose is 15mg ED (though more is not better – often 10mg is sufficient). As the dose increases, sides may increase and results don’t necessarily increase.
 As we get into the much more aggressive cycles, it becomes more of a personal preference on dosing based on goals and any other stacked compounds
 
-####Potential Sides
+#### Potential Sides
 
 * Water retention
 
@@ -551,15 +551,15 @@ As we get into the much more aggressive cycles, it becomes more of a personal pr
 
 * Interrupted period / flow – may take a few months for the flow to come back as normal. Note this does **NOT** mean you won’t get pregnant.
 
-###Testosterone Propionate
+### Testosterone Propionate
 
 There are several esters of testosterone, but only the Propionate ester, also known as [Testosterone Propionate (Test P)](/testosterone_propionate), would be recommended for women. The other variations commonly used by men, [Testosterone Cypionate](/testosterone_cypionate), [Testosterone Enanthate (Test E)](/testosterone_enanthate), or [Sustenon](/sustanon_250), are considerably longer-acting esters, producing anecdotally much more water retention and more aggressive sides, taking a much longer to clear the system.
 
-####Typical Use
+#### Typical Use
 
 For women, Test P falls into the scope of really only for those experienced who are looking for significant growth and are prepared to deal with the full scope of potential sides. It might be considered an off-season cycle for a female bodybuilder or used at the beginning of a 16 week prep, to be later dropped and replaced with a non-aromatizing compound. It is reasonably short-acting so will begin to produce results (and sides) fairly quickly. This compound does aromatize a bit. There is no real need for an aromatase inhibitor with this compound, but be aware that it does still produce some water retention.
 
-####Typical Cycle
+#### Typical Cycle
 
 * Dose: 3-6mg ED or 6-12mg EOD
 
@@ -567,7 +567,7 @@ For women, Test P falls into the scope of really only for those experienced who 
 
 As we get into the much more aggressive cycles, it becomes more of a personal preference on dosing based on goals and any other stacked compounds
 
-####Potential Sides
+#### Potential Sides
 
 * Water retention
 
@@ -585,13 +585,13 @@ As we get into the much more aggressive cycles, it becomes more of a personal pr
 
 * Interrupted period / flow – may take a few months for the flow to come back as normal. Note this does **NOT** mean you won’t get pregnant.
 
-###Trenbolone Acetate
+### Trenbolone Acetate
 
 [Trenbolone Acetate (Tren A)](https://www.reddit.com/r/steroids/wiki/trenbolone) is more recently, being mentioned more frequently with women. It is a favorite among men because it promotes strength while allowing great cutting results with no aromatization. **The issue is that this compound is extremely androgenic** and also can have effects on the liver. Very experienced female cyclers may use trenbolone acetate as part of a cutting cycle, but should be very careful and diligent with their bloodwork afterwards. 
 
 **/r/steroids hesitates to include cycle information her,  because you should already have an idea of the cycle details if you are at a point where you are considering running a tren cycle. Virilization is a major risk here.**
 
-##Post Cycle Notes
+## Post Cycle Notes
 
 Generally women don’t run aggressive cycles and can just end the AAS cycle. The compound(s) will attenuate over time as their individual half-lives run their course. During that time, just as at the beginning of the cycle, there is a big flux in the hormone profile. Drawing a comparison to “that time of the month”, the sides can seem more pronounced and in particular, some moodiness may result. The range of this is something that is very unique to each person, and even unique to each compound plus each person’s unique body chemistry.
 
@@ -599,7 +599,7 @@ Anticipating this, pay attention to your general state of mind post-cycle. If yo
 
 Another obvious effect of coming off a cycle is the reduction (or back to “normal”) in recovery ability and strength and maybe some of the increased sense of well-being that comes with AAS at times. The loss of these can be both humbling and frustrating, however it’s important to keep things in perspective as you can’t stay on a cycle forever without hitting some point of negative effects. It is supposed to be a “cycle” – a phase with a specific goal, and then letting your body adapt to the change and retain as much as possible. Again, monitor yourself as the compound(s) clear out of your system in terms of strength and recovery – adjust your training and your expectations to match this phase of your progress to avoid burnout or injury.
 
-##Things to Remember
+## Things to Remember
 
 In summary, some basic things to keep in mind if you want to play on the dark side:
 
@@ -629,7 +629,7 @@ In summary, some basic things to keep in mind if you want to play on the dark si
 
 * **AAS and Birth Control do not interact.** However the effects they each promote are opposing – birth control works to regulate estrogen (including estrogen-pattern bodyfat depositing) while AAS promotes lean muscle mass.
 
-##AAS and Birth Control
+## AAS and Birth Control
 
 One of the most common questions asked is about AAS and Birth Control. Women typically experience an interruption of their menstrual cycle while on any sex hormone-manipulating cycle (AAS or “anti-estrogen”). This does NOT mean that you cannot get pregnant. Despite the lack of flow, other typical menstrual sides can be present when “that time of the month” is expected – including bloating, breast sensitivity, moodiness, etc.
 
@@ -647,11 +647,11 @@ A last comment is about steroids and pregnancy. Again there are no medical studi
 
 If the father is using steroids when the mother gets pregnant, there is no effect on the fetus itself. The concern for men using steroids is more related to the steroid-driven suppression of natural testosterone production, and in the potential for infertility. Again, that said, there are many men who have conceived while on cycle with no issue.
 
-##Androgen Deficiency In Women
+## Androgen Deficiency In Women
 
 If you are a woman and taking non-IUD hormonal birth control and don't take DHEA or some other kind of androgen replacement you are very probably living with suboptimal hormone levels. [**More on this: Here.**](https://www.reddit.com/r/steroids/comments/3rqvg1/birth_controls_role_in_widespread_androgen/) Obviously this doesn't really apply when on AAS.
 
-##**FAQ**
+## **FAQ**
 
 **Will AAS affect my birth control?**
 Short answer: No. There is little/no evidence to show that anabolic or catabolic steroids will cause your birth control to stop working. However, you may stop ovulating and therefore stop having menstrual periods while using AAS. 
@@ -665,7 +665,7 @@ Depending upon the length and dose of the cycle, most women report that this eng
 
 **Am I going to get too bulky/huge?** You will only get as big as your eating and training allows. The compounds and dosages that most women will use will not result in incredible mass. 
  
-##Related Studies 
+## Related Studies 
 
 *Most of this wiki page was taken from a blurb written by Sassy69.*
 
