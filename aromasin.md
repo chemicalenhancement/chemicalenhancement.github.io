@@ -3,7 +3,7 @@ revision_id: 4a8b474c-6728-11ec-afa6-ca2ed52b91e4
 revision_date: 1640618328
 ---
 
-#Aromasin (Exemestane)
+# Aromasin (Exemestane)
 
 **Drug Class:** Aromatase Inhibitor 
 
@@ -15,7 +15,7 @@ For use by strength athletes and bodybuilders, Exemestane has several properties
 
 Like other aromatase inhibitors, there is also conflicting information and studies regarding the effect that Exemestane has on users blood lipids/cholesterol, with some studies indicating that the compound has little to no effect while others say that it is quite harsh^4,5 . 
 
-##Use/Dosing
+## Use/Dosing
 
 **Dosing should start at 12.5mg once or twice per week and titrate up accordingly until high E2 sides are reduced.**
 
@@ -25,15 +25,15 @@ It has been shown that 25 milligrams of Exemestane is as effective as 50 milligr
 
 It appears that the only negative aspect of the compound in terms of the dosing schedule is that it takes approximately seven days for it to reach steady blood plasma levels. However, this is not a major hindrance to its use. It just simply requires that a user begin using exemestane a week prior to when they want the effect of the compound to be full realized. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Exemestane has no significant drug toxicity at doses up to 600 milligrams per day. It is well tolerated by most users with the maximum tolerated dose toxicity not yet being identified^1 . Negative side effects related to the use of this compound are usually quite mild and can include things such as transient gastrointestinal effects, hot flashes, nausea, and/or fatigue^1, 2 . As previously mentioned, the effect of exemestane on the blood lipids/cholesterol are unknown due to the conflicting research and therefore should be monitored when using the compound. Sexual dysfunction is also a possibility due to the lowering of estrogen levels as well. However reports of this are relatively rare.
 
 Due to the mild negative side effects associated with the compound, as well as the potency of the drug in alleviating estrogen-related side effects when administering aromatizing anabolic steroids, exemestane is seemingly a relatively safe choice when looking for an aromatase inhibitor. 
 
-##FAQ
+## FAQ
 
-###Q: Does Aromasin work better with a fatty meal?
+### Q: Does Aromasin work better with a fatty meal?
 
 **A:** It works better when taken with a high fatty meal, yes.
 
@@ -43,11 +43,11 @@ Due to the mild negative side effects associated with the compound, as well as t
 
 * [Dosages &gt;25 mg daily not shown to provide substantially greater suppression of plasma estrogens but may increase adverse effects](http://www.drugs.com/monograph/aromasin.html)
 
-##Related Posts
+## Related Posts
 
-* [Switching from Arimidex to Aromasin.](/r/steroids/comments/24zbha/making_a_switch_from_arimidex_to_aromasin_how/)
+* [Switching from Arimidex to Aromasin.](https://www.reddit.com/r/steroids/comments/24zbha/making_a_switch_from_arimidex_to_aromasin_how/)
 
-##References
+## References
 
 1. *Brueggemeier RW. Overview of the pharmacology of the aromatase inactivator exemestane. Breast Cancer Res Treat 2002;74:177-185.*
 2. *Mauras N, Lima J, Patel D, Rini A, di Salle E, Kwok A, Lippe B. Pharmacokinetics and dose finding of a potent aromatase inhibitor, aromasin (exemestane), in young males. J Clin Endocrinol Metab. 2003 Dec;88(12):5951-6.*
