@@ -3,7 +3,7 @@ revision_id: c5239fb0-d891-11e2-ac5f-12313d281d4a
 revision_date: 1371613136
 ---
 
-#Cyclofenil
+# Cyclofenil
 
 **Drug Class:** Selective Estrogen Receptor Modulator
 
@@ -17,7 +17,7 @@ The second use that cyclofenil may be employed for is post-cycle therapy. In add
 
 It should be noted that due to the similar mechanisms by which they work^2 , users that are administering tamoxifen citrate and/or clomiphene citrate are unlikely to see any increased benefits to adding cyclofenil for either the purpose of gynecomastia prevention and/or during post-cycle therapy. As long as the clomiphene citrate/tamoxifen citrate is being taken in adequate dosages, there is no reason to include cyclofenil. 
 
-##Use/Dosing
+## Use/Dosing
 
 As stated above, similar to tamoxifen citrate and clomiphene citrate, cyclofenil is primarily used during the post-cycle therapy of a male steroid user's cycle. This is due to the ability of the compound to inhibit the negative feedback loop activated via estrogen. This in turn helps to increase the production of gonadotropin releasing hormone, thereby stimulating the pituitary to release a larger volume of luteinizing hormone. All of this brings about a signal for the testes to increase their production of testosterone. 
 
@@ -27,13 +27,13 @@ As for use as a preventive measure for gynecomastia, it can be run throughout th
 
 Some users also advocate tapering the dose of cyclofenil during the last few weeks of administration. However this is more a practice that is based upon theory rather than solid medical evidence of its productivity. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 There are no real direct negative side effects associated with the use of cycolfenil. For the most part, any negative side effects that a user may experience would almost undoubtedly be related to the shift in hormonal balance that the user is undergoing. Acne, a strained emotional state, oily skin and a change in sex drive are all symptoms that users may experience once they cease the administration of anabolics steroids and begin recovering their natural testosterone production. 
 
 Other than these concerns, there is little in the way that short-term or long-term use of cycolfenil could cause damage to in the human body^4 . It is seemingly safe in terms of possible effects to the body’s hormonal production. For the vast majority of users the compound is relatively side effect free and well tolerated. 
 
-##References
+## References
 
 1. *Schmidt-Elmendorff H, Kammerling R. [Comparative clinical studies on clomiphen, cyclofenil and epimestrol (author's transl)] Geburtshilfe Frauenheilkd. 1977 Jun;37(6):531-41*
 2. *Schopman W, Slager E, Hackeng WH, Mulder H. Stimulation of calcitonin secretory capacity by increased serum levels of testosterone in men treated with tamoxifen. Int J Androl. 1987 Dec;10(6):747-51*
