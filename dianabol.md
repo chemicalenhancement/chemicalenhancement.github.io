@@ -3,7 +3,7 @@ revision_id: 819b3410-ef53-11eb-841e-0e802cb02a29
 revision_date: 1627442750
 ---
 
-#Dianabol (Methandrostenolone)
+# Dianabol (Methandrostenolone)
 
 **Chemical Names:** 17a-methyl-17b-hydroxy-1, 4-androstadien-3-one 1-Dehydro-17a-methyltestosterone methandienone
 
@@ -23,7 +23,7 @@ Methandrostenolone has long been a favorite of strength athletes and bodybuilder
 
 In terms of it's medical use, methandrostenolone was/is used in the treatment of conditions such as interstitial-pituitary insufficiency, chronic adrenocortical insufficiency, thyrotoxicosis, diabetic angiopathies (retinopathy and nephropathy), steroidal diabetes, and pituitary dwarfism among others^1 . However, due to the U.S. Food and Drug Administration's belief that the compound was being used inside of the bodybuilding community far more than in the treatment of medical conditions, it ordered that American companies discontinue it's manufacture in the early 1990's. Numerous drug companies outside of U.S. borders continue to make the drug however, and it's prevalence on the black market has remained very high. 
 
-##Use/Dosing
+## Use/Dosing
 
 It can be concluded that the best use for methandrostenolone is short-term with most users preferring to use the product for between four to six weeks, although some will prolong the use with limited consequences to health, despite its strong hepatoxic effects. For the most part, most recreational users begin administering methandrostenolone at the start of a longer bulking stack to "jumpstart" gains in mass and strength. However, it's use prior to various sorts of competitions is also quite common so that it's effects are realized during a specific period. 
 
@@ -31,7 +31,7 @@ In terms of dosing, it has been reported that doses of 10 mg can increase androg
 
 Similar to nearly all oral steroids, the vast majority of users will recognize the fact that methandrostenolone should not be run alone and only stacked with other compounds. This is due to the fact that most users who have run methandrostenolone only cycles have reported anecdotally that it is extremely difficult to maintain gains post cycle. However, the same is true when discontinuing the drug and having your other compounds "kick in", if they are long ester. It is often the case that the water retention experienced while on methandrostenolone will be shed but the gains in strength and mass will remain due to the other compounds being present. It can be argued that therefore, the gains experienced while on methandrostenolone are short lived no matter what the circumstances and the compound should only be used as a quick fix for either competition or else simply as a motivator while waiting to notice the effects of long estered compounds. However, others will argue that the gains they make while using the compound are indeed maintainable. Therefore, personal experimentation is once again the only way to see how an individual reacts.
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Estrogenic side effects can be a concern with methandrostenolone, as it converts to estradiol via aromatase, although this is quite modest at best. High blood pressure, water retention, gynocomastia, and acne are all possible undesirable side effects during use of methandrostenolone. As an aside, a high number of users have also reported experiencing nose bleeds while using the compound. Some attribute this to an increase in blood pressure, while others have not noticed a rise in their blood pressure but still experience an increase in the number of nose bleeds they have while using methandrostenolone. 
 
@@ -41,7 +41,7 @@ Like most oral steroids methandrostenolone is 17-alpha-alkylated so that it can'
 
 It should also be noted that methandrostenolone may be less useful to those competing in aerobic events as it also diminishes cell respiration^5 . This may inhibit an individual's ability to perform at their maximum capacity. 
 
-##Bridging with D-Bol: Is it possible?
+## Bridging with D-Bol: Is it possible?
 
 A widely held belief among some in the steroid using community is that a small dose of methandrostenolone can be used to "bridge" between cycles. This is due to the fact, as explained above, 10mg taken at once will increase your average testosterone level by five times and decrease your endogenous cortisone by 50-70%. This, along with the short active life of the drug, would suggest that by using a small dose first thing upon waking is thought by some to help to combat the problems associated with coming off of anabolic steroids. By coinciding the dose of methandrostenolone with the body's own natural testosterone spike upon waking, many advocates of "bridging" will suggest that the body will somehow be fooled into believing that this spike is natural and that LH function will remain only partially suppressed, as methandrostenolone has a comparably small influence on the natural endocrine system^6 . The usual suggested dose for bridging is usually 10mg per day. 
 
@@ -49,7 +49,7 @@ Despite appearances, this theory has very little evidence to back itself up with
 
 Methandrostenolone is an effective steroid, however, it's use must be directed at a specific goal as like most compounds it's use only fulfills a limited amount of desired effects. With this in mind, methandrostenolone can be used safely and effectively. 
 
-##References
+## References
 
 1. *Metkinen Online Drug Profile, via internet, located at http://www.metkinen.fi/products/fermentation_technologies/steroids/methandrostenolone*
 2. *Rea, Author L., 2002, Chemical Muscle Enhancement: Bodybuilder’s Desk Reference*
