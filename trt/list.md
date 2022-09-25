@@ -327,9 +327,9 @@ The Endocrine Society Clinical Practical Guidelines detail the conditions in whi
 **Moderate to high risk of adverse outcomes**
 
 * Unevaluated prostate nodule or induration
-* PSA &gt;4 ng/ml (&gt;3 ng/ml in individuals at high risk for prostate cancer, such as African-Americans or men with first-degree relatives who have prostate cancer)
-* Hematocrit &gt;50%
-* Severe lower urinary tract symptoms associated with benign prostatic hypertrophy as indicated by AUA/IPSS &gt;19
+* PSA >4 ng/ml (>3 ng/ml in individuals at high risk for prostate cancer, such as African-Americans or men with first-degree relatives who have prostate cancer)
+* Hematocrit >50%
+* Severe lower urinary tract symptoms associated with benign prostatic hypertrophy as indicated by AUA/IPSS >19
 * Uncontrolled or poorly controlled congestive heart failure
 
 * [TRT Side Effects](http://www.medscape.com/viewarticle/543997_8) - Medscape
@@ -349,5 +349,5 @@ The Endocrine Society Clinical Practical Guidelines detail the conditions in whi
 ##Studies
 
 [Subcutaneous administration of testosterone. A pilot study report.](http://www.ncbi.nlm.nih.gov/pubmed/17143361)
-&gt;CONCLUSION:
+>CONCLUSION:
 Therapy with weekly subcutaneous testosterone produced serum levels that were within the normal range in 100% of patients for both peak and trough levels. This is the first report, which demonstrated the efficacy of delivering weekly testosterone using this cheap, safe, and less painful subcutaneous route.

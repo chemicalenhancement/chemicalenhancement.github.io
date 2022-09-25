@@ -36,8 +36,8 @@ I'm going to begin my first cycle starting August 1st, and decided to put up my 
 
 I experiment with rep ranges a lot, this past winter I tried pyramiding the big lifts, got some great strength gains (335X2 for bench for the first time, 410x5 for deads, 365x5 for squats), but as for what I'm doing right now during my cut:  
 
-&lt;table&gt;
-&lt;tr&gt;&lt;td width="33%"&gt;
+&lt;table>
+&lt;tr>&lt;td width="33%">
 1: Chest: Sunday  
 Flat Bench: 4x8  
 Incline DB Bench 3x10  
@@ -45,7 +45,7 @@ Upward Cable Flys 3x12
 DB Flys 3x10  
 Incline cable flys 3x15  
 DB Flat Bench to failure
-&lt;/td&gt;&lt;td width="34%"&gt;
+&lt;/td>&lt;td width="34%">
 2:Back: Monday  
 Deadlifts: 4x8  
 Close Grip Lat Pulldowns: 3x10  
@@ -54,7 +54,7 @@ T-Bar Rows: 3x10
 Pull Ups: three sets to failure  
 Barbell Shrugs: 3x8  
 Cable Rows: 3x12  
-&lt;/td&gt;&lt;td&gt;
+&lt;/td>&lt;td>
 3: Shoulders: Tuesday  
 Military: 4x8  
 Rear delt flys: 3x12  
@@ -62,9 +62,9 @@ Rear delt flys: 3x12
 Front raises: 3x12  
 Cable Rear delt extensions: 3x10  
 Seated lateral raises: 3x12  
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td width="33%"&gt;
+&lt;/td>&lt;/tr>&lt;tr>&lt;td width="33%">
 4: REST: Wednesday  
-&lt;/td&gt;&lt;td width="34%"&gt;
+&lt;/td>&lt;td width="34%">
 5: Arms: Thursday  
 EZ Bar Curls: 3x12  
 Rope Pushdowns: 3x12  
@@ -73,7 +73,7 @@ Kickbacks: 3x15
 Hammer Curls: 3x15  
 Dips, 3 sets to failure  
 Spider Curls: 3x10  
-&lt;/td&gt;&lt;td&gt;
+&lt;/td>&lt;td>
 6: Legs: Friday  
 Squats: 4x8  
 Leg Extensions: 3x10  
@@ -82,8 +82,8 @@ Leg curls: 3x10
 Leg Press: 3x8  
 Leg Press Calf Raises 3x15  
 REST and repeat  
-&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
+&lt;/td>&lt;/tr>
+&lt;/table>
 
 As you can see, I'm trying out higher rep ranges during this cut. I've always done a mix of low and high reps, partially for vanity because of strength. This is my first time trying a purely hypertrophy routine. I make all my routines myself, I've never followed a program, so if this doesn't look like it's good for hypertrophy please tell me! Also, I'm doing lighter weight and slow, controlled reps for all of these, really focusing on the negatives of the movements.
 
@@ -119,8 +119,8 @@ I'm going to do 3 days on/1 off so I can maximize my gym time on cycle. I will f
 7: Legs, Front and Side Delts  (heavy legs and lighter delts)  
 8: Rest  
 
-&lt;table&gt;
-&lt;tr&gt;&lt;td width="34%"&gt;
+&lt;table>
+&lt;tr>&lt;td width="34%">
 1: First Back/Bi/Rear Delt day  
 Deadlifts: 5x5    
 Pull Ups: 3xMax   
@@ -129,7 +129,7 @@ DB Curls 3x8
 DB Shrugs 3x12   
 Preacher Curls: 3x12  
 Reverse Pec Dec: 3x10   
-&lt;/td&gt;&lt;td width="34%"&gt;
+&lt;/td>&lt;td width="34%">
 2:First Chest/Tri/Abs day   
 Flat Bench: 5x10,8,6,4,2 or 5x4 depending on how I'm feeling  
 Decline Bench: 3x10  
@@ -138,7 +138,7 @@ DB Bench:3x8
 DB Kickbacks:3x12  
 Flat Bench DB Flys3x10  
 Unweighted ab exercises (varies every week)  
-&lt;/td&gt;&lt;td&gt;  
+&lt;/td>&lt;td>  
 3: First Leg/Front Delt/Side Delt day  
 Military Press: 4x6   
 Leg Press: 4x8   
@@ -147,9 +147,9 @@ Leg Press Calf Raises: 3x15
 Lunges:3x8  
 Cable Front raises:3x12  
 seated lateral raises: 3x10  
-&lt;/td&gt;&lt;td&gt;
+&lt;/td>&lt;td>
 4:REST  
-&lt;/tr&gt;&lt;tr&gt;&lt;td width="34%"&gt;
+&lt;/tr>&lt;tr>&lt;td width="34%">
 5: Second Back/Bi/Rear Delt day   
 Barbell Shrugs: 4x8  
 Lat Pulldowns: 3x10  
@@ -159,7 +159,7 @@ Rear Delt raises w/Barbell: 3x12
 Chin Ups: 3xMax  
 Barbell Curls: 3x12  
 DB Rows: 3x8  
-&lt;/td&gt;&lt;td&gt;
+&lt;/td>&lt;td>
 6: Second Chest/Tri/Abs Day  
 Incline Bench: 4x6  
 Cable Press 3x10 low, 10 med, 10 high    
@@ -168,7 +168,7 @@ Incline Cable Flys: 3x10
 Nosebreakers: 3x8  
 Incline DB Bench: 3x12  
 Weighted Ab Exercises (varies every week)     
-&lt;/td&gt;&lt;td&gt;
+&lt;/td>&lt;td>
 7: Second Leg/Front Delt/Side Delt day  
 Squats: 5x5  
 Barbell Calf Raises: 3x12 (toes in, mid, and out)  
@@ -177,10 +177,10 @@ Lateral Raises: 3x10
 Leg Extensions: 3x10  
 DB Front Raises: 3x10  
 Cable Lateral Raises: 3x12  
-&lt;/td&gt;&lt;td&gt;
+&lt;/td>&lt;td>
 8: REST AND REPEAT
-&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
+&lt;/td>&lt;/tr>
+&lt;/table>
 #Logs
 
 

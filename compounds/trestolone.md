@@ -42,9 +42,9 @@ At least one Multiple Sclerosis (MS) study shows MENT to be **neuroprotective** 
 
 * [The neural androgen receptor: A therapeutic target for myelin repair in chronic demyelination](https://www.researchgate.net/publication/235386245_The_neural_androgen_receptor_A_therapeutic_target_for_myelin_repair_in_chronic_demyelination)
 
-&gt; The potent synthetic testosterone analogue 7α-methyl-19-nortestosterone (MENT), developed for long-term male contraception and androgen replacement therapy in hypogonadal males and does not stimulate prostate growth, also *efficiently promotes myelin repair*. 
-&gt;
-&gt; These data establish the efficacy of androgens as remyelinating agents and qualify the brain androgen receptor as a promising drug target for remyelination therapy, thus providing the preclinical rationale for a novel therapeutic use of androgens in males with multiple sclerosis.
+> The potent synthetic testosterone analogue 7α-methyl-19-nortestosterone (MENT), developed for long-term male contraception and androgen replacement therapy in hypogonadal males and does not stimulate prostate growth, also *efficiently promotes myelin repair*. 
+>
+> These data establish the efficacy of androgens as remyelinating agents and qualify the brain androgen receptor as a promising drug target for remyelination therapy, thus providing the preclinical rationale for a novel therapeutic use of androgens in males with multiple sclerosis.
 
 Another study that discusses the neuroprotective effects of the SARM RAD140 tangentially mentions  MENT as one of the sole SARMs to be compatible with the aromatase enzyme, hence benefiting from the neuroprotective advantages of metabolite 7α-Methyl-estradiol. 
 
@@ -58,11 +58,11 @@ Several studies point to MENT's lack of 5α-reductase metabolism and prostate-sa
 
 * [ 7*α*\-**methyl**\-19-**nortestosterone** (MENT): the optimal androgen for male contraception](https://pubmed.ncbi.nlm.nih.gov/8489761/)
 
-&gt; There is a need for an androgen preparation that provides appropriate, continuous replacement doses over long periods. An important feature of MENT is that it does not undergo 5*α*\-alpha reduction in prostate as does testosterone. As a consequence, a dose of MENT sufficient to maintain normal muscle mass and gonadotrophin secretion will not hyperstimulate the prostate because its action in this organ is not amplified as is that of testosterone. Thus, MENT can be administered to men with the assurance that it will be less prone to cause diseases of the prostate than testosterone.
-&gt;
-&gt;	Thus, MENT is less apt to cause benign prostatic hypertrophy and, possibly, prostate cancer than Testosterone. *MENT is the first androgen to promote health* (*i.e*., reduction of the incidence of prostate disease). Clinicians may also be able to use MENT to treat hypogonadism, prostatic hyperplasia, and muscle wasting.
-&gt;
-&gt; Conclusions: (***1***) *MENT is the first androgen that has a health benefit compared to testosterone*; (***2***) MENT will be promoted as one component of a two-implant system for male contraception, the other component being an implant that will release an LHRH analogue; (***3***) MENT has potential uses in patients with a variety of disorders, including hypogonadism, prostatic hyperplasia and muscle wasting.
+> There is a need for an androgen preparation that provides appropriate, continuous replacement doses over long periods. An important feature of MENT is that it does not undergo 5*α*\-alpha reduction in prostate as does testosterone. As a consequence, a dose of MENT sufficient to maintain normal muscle mass and gonadotrophin secretion will not hyperstimulate the prostate because its action in this organ is not amplified as is that of testosterone. Thus, MENT can be administered to men with the assurance that it will be less prone to cause diseases of the prostate than testosterone.
+>
+>	Thus, MENT is less apt to cause benign prostatic hypertrophy and, possibly, prostate cancer than Testosterone. *MENT is the first androgen to promote health* (*i.e*., reduction of the incidence of prostate disease). Clinicians may also be able to use MENT to treat hypogonadism, prostatic hyperplasia, and muscle wasting.
+>
+> Conclusions: (***1***) *MENT is the first androgen that has a health benefit compared to testosterone*; (***2***) MENT will be promoted as one component of a two-implant system for male contraception, the other component being an implant that will release an LHRH analogue; (***3***) MENT has potential uses in patients with a variety of disorders, including hypogonadism, prostatic hyperplasia and muscle wasting.
 
 ###f. Short Half-life 
 
@@ -100,17 +100,17 @@ The results of the following study indicate that MENT alone is sufficient to sup
 
 [Comparison of 7α-methyl-19-nortestosterone effectiveness alone or combined with progestins on androgen receptor mediated-transactivation](https://rep.bioscientifica.com/view/journals/rep/143/2/211.xml)
 
-&gt; Suppression of gonadotropin secretion with exogenously administered testosterone and therefore testicular activity is important for hormone-based male contraception approach.
-&gt;
-&gt; In this regard, MENT when administered to healthy men leads to gonadotropin suppression and inhibition of spermatogenesis making it potentially useful as a male contraceptive (von Eckardstein et al. 2003). 
-&gt;
-&gt;In the case of testosterone, combination with gonadotropin-inhibiting agents such as progestins results in a more effective formulation for spermatogenic suppression than testosterone alone (Bebb et al. 1996). 
-&gt;
-&gt;Recently,  Walton et al. (2007) showed that combination of MENT with a progestin resulted in rapid inhibition of spermatogenesis similar to the combined testosterone formulation and pointed out the importance of the synthetic progestin dose over the androgen dose in improving spermatogenesis suppression.
-&gt;
-&gt; However, **subjects treated with four MENT implants exhibited higher and longer spermatogenesis suppression than subjects treated with two MENT implants plus two ENG implants** (Walton et al. 2007). 
-&gt;
-&gt;Four MENT implants induced azoospermia or severe oligozoospermia (sperm count &lt;1×10^6/ml) in 82% and 100% of subjects during the first and second 6-month periods of treatment respectively. Thus, during the last 6 months of treatment, **MENT alone was as effective as testosterone undecanoate plus NET enanthate** administered at 8-week intervals.
+> Suppression of gonadotropin secretion with exogenously administered testosterone and therefore testicular activity is important for hormone-based male contraception approach.
+>
+> In this regard, MENT when administered to healthy men leads to gonadotropin suppression and inhibition of spermatogenesis making it potentially useful as a male contraceptive (von Eckardstein et al. 2003). 
+>
+>In the case of testosterone, combination with gonadotropin-inhibiting agents such as progestins results in a more effective formulation for spermatogenic suppression than testosterone alone (Bebb et al. 1996). 
+>
+>Recently,  Walton et al. (2007) showed that combination of MENT with a progestin resulted in rapid inhibition of spermatogenesis similar to the combined testosterone formulation and pointed out the importance of the synthetic progestin dose over the androgen dose in improving spermatogenesis suppression.
+>
+> However, **subjects treated with four MENT implants exhibited higher and longer spermatogenesis suppression than subjects treated with two MENT implants plus two ENG implants** (Walton et al. 2007). 
+>
+>Four MENT implants induced azoospermia or severe oligozoospermia (sperm count &lt;1×10^6/ml) in 82% and 100% of subjects during the first and second 6-month periods of treatment respectively. Thus, during the last 6 months of treatment, **MENT alone was as effective as testosterone undecanoate plus NET enanthate** administered at 8-week intervals.
 
 
 * [7α-Methyl-19-nortestasterone (MENT): The optimal androgen for male contraception and replacement therapy](https://www.researchgate.net/publication/12468041_7a-Methyl-19-nortestasterone_MENT_The_optimal_androgen_for_male_contraception_and_replacement_therapy)
@@ -175,17 +175,17 @@ Simply start low and titrate to tolerance. If you encounter sides, lower the dos
 
 Input from r/steroids veteran contributors:
 
-&gt; **Review** from u/platewrecked: The side effects are the stuff of broscience. Those old writeups are like they were taking a completely different compound. A bunch of us have been playing with it over the last couple of years and only a small number of guys running substantial MENT cycles need any AI at all and I don’t know a single user who got gyno from MENT.
+> **Review** from u/platewrecked: The side effects are the stuff of broscience. Those old writeups are like they were taking a completely different compound. A bunch of us have been playing with it over the last couple of years and only a small number of guys running substantial MENT cycles need any AI at all and I don’t know a single user who got gyno from MENT.
 
 Or review [these recent comments](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx2wic9/?context=3) and subsequent [reply from BicepBandito](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx32oyh/?context=3) in regards to the disinformation and broscience so prevalent in the early Experience Threads.
 
-&gt; **Review** from u/BicepBandito: MENT is my favorite steroid ever after just one run with it. I feel like those old Compound Experience threads were guys just parroting stuff they’d read. Often if you’re expecting sides, you’ll find them if you look hard enough, even if they’re not actually there. *Placebo works both ways*.
-&gt;
-&gt; MENT used to be *sooo* rare, and wildly expensive, that only a handful of really experienced guys had run it. Not so anymore. Price has come down considerably, and most underground labs seem to be carrying it nowadays. Everyone I know personally that’s run it has reported *zero sides* other than blood pressure issues at higher doses. I’ve seen *one person* report low *T* symptoms when he tried to run it solo.
-&gt;
-&gt; I have pretty bad pubertal gyno that Tren fucks with. I ran MENT paired with EQ, and didn’t touch an AI for my entire cycle. Nothing. At. All. Not a single side effect, other than getting swole as fuck. When I bumped it from 350 to 700, I couldn’t control my BP even with lots of cardio and meds, so I had to lower it back to 350. That's it. 
-&gt;
-&gt;It’s almost like today’s MENT is a different drug altogether from those old threads. Maybe synthesizing techniques have changed and it slightly altered things since then? Maybe guys had themselves under the *placebo effect* seeing all these sides that they expected so badly? I assume it’s the latter. *Anyhooo*. Yeah. That’s the *real* story.
+> **Review** from u/BicepBandito: MENT is my favorite steroid ever after just one run with it. I feel like those old Compound Experience threads were guys just parroting stuff they’d read. Often if you’re expecting sides, you’ll find them if you look hard enough, even if they’re not actually there. *Placebo works both ways*.
+>
+> MENT used to be *sooo* rare, and wildly expensive, that only a handful of really experienced guys had run it. Not so anymore. Price has come down considerably, and most underground labs seem to be carrying it nowadays. Everyone I know personally that’s run it has reported *zero sides* other than blood pressure issues at higher doses. I’ve seen *one person* report low *T* symptoms when he tried to run it solo.
+>
+> I have pretty bad pubertal gyno that Tren fucks with. I ran MENT paired with EQ, and didn’t touch an AI for my entire cycle. Nothing. At. All. Not a single side effect, other than getting swole as fuck. When I bumped it from 350 to 700, I couldn’t control my BP even with lots of cardio and meds, so I had to lower it back to 350. That's it. 
+>
+>It’s almost like today’s MENT is a different drug altogether from those old threads. Maybe synthesizing techniques have changed and it slightly altered things since then? Maybe guys had themselves under the *placebo effect* seeing all these sides that they expected so badly? I assume it’s the latter. *Anyhooo*. Yeah. That’s the *real* story.
 
 Here's some ***more recent***—and hence relevant—Compound Experience Threads:
 

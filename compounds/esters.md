@@ -27,7 +27,7 @@ There is however one way that we can say an ester does technically effect potenc
 
 Different esters exist for various compounds.  Different esters give compounds different clearance times in the blood.  All over the internet, you will find different (unreferenced) information on the half-life of compounds.  A lot of the confusion comes from a lack of understanding on a compound's [half-life](http://en.wikipedia.org/wiki/Half-life) versus it's [biological or terminal half-life](http://en.wikipedia.org/wiki/Biological_half_life).  For our purposes, we really only care about the terminal half-life, defined as:
 
-&gt; The biological half-life or elimination half-life of a substance is the time it takes for a substance (for example a metabolite, drug, signaling molecule, radioactive nuclide, or other substance) to lose half of its pharmacologic, physiologic, or radiologic activity, as per the MeSH definition.
+> The biological half-life or elimination half-life of a substance is the time it takes for a substance (for example a metabolite, drug, signaling molecule, radioactive nuclide, or other substance) to lose half of its pharmacologic, physiologic, or radiologic activity, as per the MeSH definition.
 
 [Reference study.](http://link.springer.com/chapter/10.1007/978-3-642-72185-4_11)
 

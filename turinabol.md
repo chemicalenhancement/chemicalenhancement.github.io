@@ -11,7 +11,7 @@ revision_date: 1608099179
 
 **Active life:** 16 hours
 
-**Anabolic/Androgenic Ratio:** &gt;100:0
+**Anabolic/Androgenic Ratio:** >100:0
 
 Oral turinabol was originally developed by East German researchers in the mid-20th century for use by their athletes during the Olympics and other international competitions. It is believed to be the drug responsible for much of that country's dominance in many of the athletic competitions of that era, along with their groundbreaking training techniques. There is no medical use for this drug and as such it has remained exclusively a performance enhancing compound used by athletes. 
 

@@ -152,11 +152,11 @@ I won't really update this coming week, but will have a pretty lengthy one next 
 
 Sorry for the extreme lack of updates, I would sit down, and then just not feel like updating. But anyways here's a summary of my past two weeks and some thoughts. I remaxed every lift during Week 7
 
-* OHP: 170lbs -&gt;180lbs
-* Bench: 270lbs -&gt;315lbs
-* Squat: 420lbs -&gt;470lbs
-* Deadlift: 495lbs -&gt;515lbs
-* Total: 1185-&gt; 1300lbs
+* OHP: 170lbs ->180lbs
+* Bench: 270lbs ->315lbs
+* Squat: 420lbs ->470lbs
+* Deadlift: 495lbs ->515lbs
+* Total: 1185-> 1300lbs
 
 I actually think I can push more at least 5-10lbs more on the bench and 10-20lbs on the squat. Diet wise I'm reduce to about 3600cal a day, it's easier on my stomach and bowels as before I was shitting 3-5 times a day, it also lets me recomp a bit as well. I don't know if it's possible to overtrain while on gear, but I feel like shit some days and can't perform 100%. After running my revised plan for one two-week cycle, I'm making some changes:
 

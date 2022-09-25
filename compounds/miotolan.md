@@ -20,7 +20,7 @@ Only one lab in Japan manufactured Miotolan and was discontinued years ago, whic
 
 According to Llewellyn's *Anabolics*, the cholesterol-lowering effects of furazabol are a myth.
 
-&gt;Such statements usually make reference of studies conducted in the early 1970’s, which examined the lipid-lowering effects of the agent.542 Such a position, however, lacks a modern perspective of the drug. To draw a parallel, during the early 1970’s there was research done on oxandrolone, demonstrating a lipid-lowering effect.543 Upon closer
+>Such statements usually make reference of studies conducted in the early 1970’s, which examined the lipid-lowering effects of the agent.542 Such a position, however, lacks a modern perspective of the drug. To draw a parallel, during the early 1970’s there was research done on oxandrolone, demonstrating a lipid-lowering effect.543 Upon closer
 inspection, however, it was shown that oxandrolone tends to lower HDL (good) cholesterol, increasing the HDL-LDL ratio and atherogenic risk. General cholesterol-lowering
 applications for the drug never materialized. The same is true for furazabol. Some have gone so far as to recommend this steroid to those with high cholesterol! Such use absolutely should be avoided.
 

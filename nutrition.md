@@ -43,7 +43,7 @@ I urge you to try out both methods and decide for yourself what works best or yo
 ####Varied Protein Types.
 From [this article](http://www.jssm.org/vol3/n3/2/v3n3-2pdf.pdf):
 
-&gt;Protein intake that exceeds the recommended daily allowance is widely accepted for both endurance and power athletes. However, considering the variety of proteins that are available much less is known concerning the benefits of consuming one protein versus another. The purpose of this paper is to identify and analyze key factors in order to make responsible recommendations to both the general and athletic populations. Evaluation of a protein is fundamental in determining its appropriateness in the human diet. Proteins that are of inferior content and digestibility are important to recognize and restrict or limit in the diet. Similarly, such knowledge will provide an ability to identify proteins that provide the greatest benefit and should be consumed. The various techniques utilized to rate protein will be discussed. Traditionally, sources of dietary protein are seen as either being of animal or vegetable origin. Animal sources provide a complete source of protein (i.e. containing all essential amino acids), whereas vegetable sources generally lack one or more of the essential amino acids. Animal sources of dietary protein, despite providing a complete protein and numerous vitamins and minerals, have some health professionals concerned about the amount of saturated fat common in these foods compared to vegetable sources. The advent of processing techniques has shifted some of this attention and ignited the sports supplement marketplace with derivative products such as whey, casein and soy. Individually, these products vary in quality and applicability to certain populations. The benefits that these particular proteins possess are discussed. In addition, the impact that elevated protein consumption has on health and safety issues (i.e. bone health, renal function) are also reviewed. 
+>Protein intake that exceeds the recommended daily allowance is widely accepted for both endurance and power athletes. However, considering the variety of proteins that are available much less is known concerning the benefits of consuming one protein versus another. The purpose of this paper is to identify and analyze key factors in order to make responsible recommendations to both the general and athletic populations. Evaluation of a protein is fundamental in determining its appropriateness in the human diet. Proteins that are of inferior content and digestibility are important to recognize and restrict or limit in the diet. Similarly, such knowledge will provide an ability to identify proteins that provide the greatest benefit and should be consumed. The various techniques utilized to rate protein will be discussed. Traditionally, sources of dietary protein are seen as either being of animal or vegetable origin. Animal sources provide a complete source of protein (i.e. containing all essential amino acids), whereas vegetable sources generally lack one or more of the essential amino acids. Animal sources of dietary protein, despite providing a complete protein and numerous vitamins and minerals, have some health professionals concerned about the amount of saturated fat common in these foods compared to vegetable sources. The advent of processing techniques has shifted some of this attention and ignited the sports supplement marketplace with derivative products such as whey, casein and soy. Individually, these products vary in quality and applicability to certain populations. The benefits that these particular proteins possess are discussed. In addition, the impact that elevated protein consumption has on health and safety issues (i.e. bone health, renal function) are also reviewed. 
 
 TL;DR Vary your protein intake types for best results.
 
@@ -72,13 +72,13 @@ Peanuts | 43
 It is often claimed that "anything over 30g of protein in one hour is unusable by the body."  This is untrue.
 
 http://examine.com/faq/how-much-protein-can-i-eat-in-one-sitting.html
-&gt;There really is no literature to indicate this number as a 'holy grail' of protein absorption.
+>There really is no literature to indicate this number as a 'holy grail' of protein absorption.
 
-&gt;It may have arisen from looking at the rate of amino acid transporters, assuming 10g/hour as a standard, and applying that to the typical mini-meal approach to bodybuilder nutrition (with a meal every three hours).
+>It may have arisen from looking at the rate of amino acid transporters, assuming 10g/hour as a standard, and applying that to the typical mini-meal approach to bodybuilder nutrition (with a meal every three hours).
 
 and
 
-&gt;Research done on Intermittent Fasting supports the theory that your body can cope with far more protein than most people think, with two studies showing that the consumption of an average of 80-100g of protein in 4 hours yielded no differences in lean mass
+>Research done on Intermittent Fasting supports the theory that your body can cope with far more protein than most people think, with two studies showing that the consumption of an average of 80-100g of protein in 4 hours yielded no differences in lean mass
 
 ###Carbohydrates
 Carbohydrates are the body's main source of energy. The muscles, and liver, store carbohydrates in the form of glycogen, a branched polysaccharide. AAS increase the amount of glycogen that will be stored in the muscle giving it a larger appearance and more energy from which to draw during workouts. Carbohydrates are also muscle/protein sparing.  [Glucose, Insulin and Glucagon after a high carb meal.](http://i.imgur.com/yzuw1hs.jpg)
@@ -95,7 +95,7 @@ Fiber contains a different bond between saccharides than other polysaccharides l
 
 Fiber can be broken into two types, insoluble and soluble. Insoluble fiber (sources are hole grains) are not fermented by bacteria in the colon and add bulk to the stool. Soluble fiber (sources are psyllium, rice, beans, fruit, oats, bran, soy) CAN be fermented and thus can count towards total calorie intake (though some still choose not to, or assign it 2kCal/g). Soluble fiber holds water and binds to cholesterol, it has positive effects in cholesterol ratios.
 
-The recommended amounts of fiber are 25g for women and 38 for men. Too much fiber (&gt;60g) will require extra fluid intake, bind to certain minerals, impairing absorption, and cause excess bloating.
+The recommended amounts of fiber are 25g for women and 38 for men. Too much fiber (>60g) will require extra fluid intake, bind to certain minerals, impairing absorption, and cause excess bloating.
 
 Dietary fiber slows glucose absorption, decreasing the risk for type 2 diabetes by modulating blood glucose and decreases hypertension. This should be a concern for AAS users since high blood pressure is a common side effect of anabolic steroids. 
 

@@ -100,7 +100,7 @@ Those who havent seen [the thread](http://www.reddit.com/r/steroids/comments/1n6
 
 I'm floating at around 223 lbs on the scale because I havent been eating very much, mainly protein, but I look and feel a bit leaner. I'm tempted to keep the lower calorie thing to get shredded now that I have put off competing.
 
-Headed to hit back and shoulders here in a little bit, feeling back up to 100%, gonna try to set a new DL 1RM PR today (510). When life gives you lemons, crush the fuck out of them and go lift, because its us &gt; them. Deuces.
+Headed to hit back and shoulders here in a little bit, feeling back up to 100%, gonna try to set a new DL 1RM PR today (510). When life gives you lemons, crush the fuck out of them and go lift, because its us > them. Deuces.
 
 UPDATE: Pulled 505 for 2 today, tried 515, failed and strained my back a bit. I also went up and down the entire dumbbell rack for sets of 5 with dumbbell rows (starting at 45's), no more than 30 seconds rest between sets. Our Dumbbells go up to 145. One of the other competitors I talk to in the gym was talking about it, so we decided to do it. It sucked. I may have rested longer than 30 seconds a few times in the 130-145 range. Maybe.
 

@@ -39,7 +39,7 @@ These causes are categorized in seven general categories based on the mechanism 
 
 * **Zonal Necrosis**: Zonal necrosis is essentially the death of cells in a specific zone of the liver. This is the most common manifestation of hepatotoxicity. This will cause an increase in ALT with normal ALP levels. This can be caused by C-17-alpha-alkylated (C17aa) steroids. 
 
-* **Cholestasis**: Cholestasis is the impediment of biliary flow from the liver through the biliary tract. This is the cause of jaundice. The increase in bilirubin causes a yellowing of the skin and that is occurs with itching. C17aa steroids may cause hepatotoxic cholestasis. This can be seen on labs as normal levels of ALT and &gt; 2 times ULN ALP. The mechanism of this is not well known. Testosterone and 19-nortestosterone compounds have been implicated in cases of hyperbilirubinemia, but rarely to the point of jaundice. (More on this below).
+* **Cholestasis**: Cholestasis is the impediment of biliary flow from the liver through the biliary tract. This is the cause of jaundice. The increase in bilirubin causes a yellowing of the skin and that is occurs with itching. C17aa steroids may cause hepatotoxic cholestasis. This can be seen on labs as normal levels of ALT and > 2 times ULN ALP. The mechanism of this is not well known. Testosterone and 19-nortestosterone compounds have been implicated in cases of hyperbilirubinemia, but rarely to the point of jaundice. (More on this below).
 
 * **Hyperplasia and Neoplasia**: C17aa compounds have been implicated in cases of hepatic hyperplasia and neoplasia, essentially cancer. However, non-C17aa steroids have also been noted as a cause of liver cancer in medical case reports. 
 

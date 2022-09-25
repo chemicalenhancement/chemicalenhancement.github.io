@@ -127,7 +127,7 @@ Sterilization is a critically important part of the injection process, as unsani
 There are 3 key components you have control over and which need to remain sterile at all times. They are the needle(s) being used, the injection site(s), and the rubber stopper(s) of each vial you will be drawing from. It is your job to make sure these components do not come in contact with anything other than the intended object. When it comes to ensuring sterility, alcohol is your weapon of choice. Alcohol kills more germs &amp; bacteria safely, than any other household product. 
 Sterilizing an injection site or object is a simple process. Prior to sterilization, clean the area of any debris so that it appears visually clean. Afterwards, grab a alcohol pad or wet a cotton swab with alcohol and wipe the intended area. After the area/object has been sterilized, it should not come in contact with any other unsterilized object.
 
-&gt; **Note**: The **World Health Organization** (**WHO**) states in their latest advice that **swabbing with alcohol** beforehand, like aspiration, is an **unnecessary** and outdated practice so long as the surface is visibly clean.
+> **Note**: The **World Health Organization** (**WHO**) states in their latest advice that **swabbing with alcohol** beforehand, like aspiration, is an **unnecessary** and outdated practice so long as the surface is visibly clean.
 
 According to the medical establishment, an injection site should be covered with an appropriate bandage post-injection. While this will help further ensure that bacteria does not enter the injection site and cause infection, this practice is rarely employed among AAS users, typically with little to no negative consequences.
 
@@ -172,13 +172,13 @@ In addition, most individuals will place their used syringes in a medical sharps
 
 ##Aspiration
 
-&gt; **Note**: The **World Health Organization** (**WHO**) states in their latest advice that aspirating is unnecessary, and frequently causes more harm than good.
+> **Note**: The **World Health Organization** (**WHO**) states in their latest advice that aspirating is unnecessary, and frequently causes more harm than good.
 
 The act as aspirating was traditionally performed as safety measure to prevent one from accidentally injecting directly into a blood vessel. In order to perform this simple procedure, one must have fully inserted the needle into the injection site. Once the needle has been fully inserted, but before depressing the plunger, gently draw (pull) back on the plunger by a few millimeters. If no blood enters the barrel, you are safe to proceed with the injection. If blood pours back into the barrel, you have entered a blood vessel and need to relocate the syringe.
 
 Seeing traces or specks of blood is not indicative that you have entered a blood vessel. Typically, when a vein (blood vessel) has been threaded, blood will pour into the barrel when pulling back the plunger. If you do thread a blood vessel, you do not necessarily have to completely remove the syringe and start over again. First, try pulling the needle out 1/4-1/2 inch and then try aspirating again. If blood does not pour into the barrel after this 2nd attempt, then you have exited the blood vessel and are safe to proceed. If blood does continue to enter the barrel, you will have to remove the needle and find a new injection site. 
 
-&gt; ***Aspiration is no longer recommended by any of the major health organizations***.
+> ***Aspiration is no longer recommended by any of the major health organizations***.
 
 ###Is Aspirating Required?
 
@@ -191,13 +191,13 @@ The act of aspirating also involves significant movement which causes further tr
 
 **According to the CDC:**
 
-&gt; **Aspiration**: “Aspiration is the process of pulling back on the plunger of the syringe prior to injection to ensure that the medication is not injected into a blood vessel. Although this practice is advocated by some experts, the procedure is not required because no large blood vessels exist at the recommended injection sites.”
+> **Aspiration**: “Aspiration is the process of pulling back on the plunger of the syringe prior to injection to ensure that the medication is not injected into a blood vessel. Although this practice is advocated by some experts, the procedure is not required because no large blood vessels exist at the recommended injection sites.”
 
 **STTI International Nursing Research Congress Vancouver, July 2009:**
 
-&gt;"Aspiration is **not indicated** for SC injections."
+>"Aspiration is **not indicated** for SC injections."
 
-&gt;"Aspiration is **not indicated** for IM injections."
+>"Aspiration is **not indicated** for IM injections."
 
 **Organizations which state aspiration is not necessary:**
 
@@ -273,7 +273,7 @@ The act of aspirating also involves significant movement which causes further tr
 
 ### Ampoules
 
-&gt; [**This is a very helpful video.**](https://www.youtube.com/watch?v=Vs8nuO8N4Fs)
+> [**This is a very helpful video.**](https://www.youtube.com/watch?v=Vs8nuO8N4Fs)
 
 1. **Grasp The Ampule**: Grasp the ampule between thumb and forefinger of one hand.
 
@@ -619,13 +619,13 @@ Below are common questions and answers regarding injecting.
 
 **According to the CDC:**
 
-&gt; **Aspiration** - Aspiration is the process of pulling back on the plunger of the syringe prior to injection to ensure that the medication is not injected into a blood vessel. Although this practice is advocated by some experts, the procedure is not required because no large blood vessels exist at the recommended injection sites."
+> **Aspiration** - Aspiration is the process of pulling back on the plunger of the syringe prior to injection to ensure that the medication is not injected into a blood vessel. Although this practice is advocated by some experts, the procedure is not required because no large blood vessels exist at the recommended injection sites."
 
 **STTI International Nursing Research Congress Vancouver, July 2009:**
 
-&gt;"Aspiration is not indicated for SC injections."
+>"Aspiration is not indicated for SC injections."
 
-&gt;"Aspiration is not indicated for IM injections."
+>"Aspiration is not indicated for IM injections."
 
 **Organizations which state aspiration is not necessary:**
 

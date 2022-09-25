@@ -45,7 +45,7 @@ The Basic Cut differs very slightly from [The Basic Bulk](/r/steroids/wiki/your_
 * [Acute effects of nebulized salbutamol on resting energy expenditure in patients with chronic obstructive pulmonary disease and in healthy subjects](https://pubmed.ncbi.nlm.nih.gov/9782220/) *11.4% increase in resting energy expenditure among healthy subjects with Salbutamol*
 * [Combination of salbutamol, caffeine and high-calorie diet: more muscle, less fat](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html)
 
-&gt;*During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to* ***lose more fat*** *and at the same time* ***retain more muscle***. *According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also* ***improve body composition*** *during a high-calorie diet if you combine salbutamol with caffeine*.
+>*During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to* ***lose more fat*** *and at the same time* ***retain more muscle***. *According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also* ***improve body composition*** *during a high-calorie diet if you combine salbutamol with caffeine*.
 
 ***Salbutamol Stack***
 
