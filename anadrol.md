@@ -29,21 +29,21 @@ Due to the active life of the compound, two doses per day while administering th
 
 ## Side Effects/Risks
 
-Oxymethalone does not directly convert to estrogen. There is also very little to no progestational-like effects associated with the compound^1. Despite this, individuals using this compound will often report pronounced estrogen related side effects such as gynecomastia and water retention, among others. Based on this it would appear that oxymethalone acts upon the estrogen receptors in the body itself^2. This theory seems to hold some weight as aromatase is not involved^3, but estrogenic side effects are common during administration of the drug. 
+Oxymethalone does not directly convert to estrogen. There is also very little to no progestational-like effects associated with the compound[^1]. Despite this, individuals using this compound will often report pronounced estrogen related side effects such as gynecomastia and water retention, among others. Based on this it would appear that oxymethalone acts upon the estrogen receptors in the body itself[^2]. This theory seems to hold some weight as aromatase is not involved^3, but estrogenic side effects are common during administration of the drug. 
 
-Androgenic side effects should also be expected^3. Oily skin, acne, increased body and/or facial hair are all commonly reported. Also, if susceptible to male pattern baldness, the use of this compound may make the condition more pronounced. Hypertension is a common side effect of the compound as well, in part due to the extreme bloat associated with it. 
+Androgenic side effects should also be expected[^3]. Oily skin, acne, increased body and/or facial hair are all commonly reported. Also, if susceptible to male pattern baldness, the use of this compound may make the condition more pronounced. Hypertension is a common side effect of the compound as well, in part due to the extreme bloat associated with it. 
 
 In oxymethalone, virilization symptoms can occur in women who use it (as with any AAS), so women should be very cautious when using said compound.
 
-Another somewhat unique characteristic of the compound is that it can have a detrimental effect on a user's glucose tolerance^4. This reportedly can actually cause borderline diabetic situations. Obviously this should be considered by those that have been diagnosed with similar problems in the past as this compound can more that complicate it.
+Another somewhat unique characteristic of the compound is that it can have a detrimental effect on a user's glucose tolerance[^4]. This reportedly can actually cause borderline diabetic situations. Obviously this should be considered by those that have been diagnosed with similar problems in the past as this compound can more that complicate it.
 
-Finasteride, a reductase inhibitor, will not be effective in combating some of the androgenic side effects of oxymetholone. This is due to the fact that while oxymetholone does convert to dihydrotestosterone, this does not involve the 5 alpha reductase enzyme (2). Oxymetholone is a dihydrotestosterone based steroid. It differs only from dihydrotestosterone only due to the addition of a 2-hydroxymethylene group. This grouping can be removed metabolically which in turn would reduce the compound to 17 alpha-methyl dihydrotestosterone^1. It is this biotransformation that can explain, at least partially, the strong androgenic effect that oxymetholone has.
+Finasteride, a reductase inhibitor, will not be effective in combating some of the androgenic side effects of oxymetholone. This is due to the fact that while oxymetholone does convert to dihydrotestosterone, this does not involve the 5 alpha reductase enzyme (2). Oxymetholone is a dihydrotestosterone based steroid. It differs only from dihydrotestosterone only due to the addition of a 2-hydroxymethylene group. This grouping can be removed metabolically which in turn would reduce the compound to 17 alpha-methyl dihydrotestosterone[^1]. It is this biotransformation that can explain, at least partially, the strong androgenic effect that oxymetholone has.
 
 Oxymetholone is a 17 alpha alkylated compound and includes the usual associated risks and stresses that those compounds place on the liver. It is because of the high doses of the drug that are required for effective use that oxymetholone can cause a higher than normal stress level on the liver. However, with moderate dosing and cycle lengths liver damage should not be an issue for most healthy individuals.
 
 ## References
 
-1. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition*
-2. *Studies on anabolic steroids-8. GS/MS characterization of unusual seco acidic metabolites of oxymetholone in human urine. J Steroid Biochem Mol Bio 42: 229-42, 1992*
-3. *Pavlatos AM, Fultz O, Monberg MJ, Vootkur A, Pharmd., Review of oxymetholone: a 17alpha-alkylated anabolic-androgenic steroid, Clin Ther 2001 Jun;23(6):789-801; discussion 771*
-4. *Woodard TL, Burghen GA, Kitabchi AE, Wilimas JA., Glucose intolerance and insulin resistance in aplastic anemia treated with oxymetholone., J Clin Endocrinol Metab 1981 Nov;53(5):905-8.*
+[^1]:. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition*
+[^2]:. *Studies on anabolic steroids-8. GS/MS characterization of unusual seco acidic metabolites of oxymetholone in human urine. J Steroid Biochem Mol Bio 42: 229-42, 1992*
+[^3]:. *Pavlatos AM, Fultz O, Monberg MJ, Vootkur A, Pharmd., Review of oxymetholone: a 17alpha-alkylated anabolic-androgenic steroid, Clin Ther 2001 Jun;23(6):789-801; discussion 771*
+[^4]:. *Woodard TL, Burghen GA, Kitabchi AE, Wilimas JA., Glucose intolerance and insulin resistance in aplastic anemia treated with oxymetholone., J Clin Endocrinol Metab 1981 Nov;53(5):905-8.*
