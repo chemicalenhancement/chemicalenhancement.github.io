@@ -43,7 +43,7 @@ Oxymetholone is a 17 alpha alkylated compound and includes the usual associated 
 
 ## References
 
-[^1]:. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition*
-[^2]:. *Studies on anabolic steroids-8. GS/MS characterization of unusual seco acidic metabolites of oxymetholone in human urine. J Steroid Biochem Mol Bio 42: 229-42, 1992*
-[^3]:. *Pavlatos AM, Fultz O, Monberg MJ, Vootkur A, Pharmd., Review of oxymetholone: a 17alpha-alkylated anabolic-androgenic steroid, Clin Ther 2001 Jun;23(6):789-801; discussion 771*
-[^4]:. *Woodard TL, Burghen GA, Kitabchi AE, Wilimas JA., Glucose intolerance and insulin resistance in aplastic anemia treated with oxymetholone., J Clin Endocrinol Metab 1981 Nov;53(5):905-8.*
+[^1]: *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition*
+[^2]: *Studies on anabolic steroids-8. GS/MS characterization of unusual seco acidic metabolites of oxymetholone in human urine. J Steroid Biochem Mol Bio 42: 229-42, 1992*
+[^3]: *Pavlatos AM, Fultz O, Monberg MJ, Vootkur A, Pharmd., Review of oxymetholone: a 17alpha-alkylated anabolic-androgenic steroid, Clin Ther 2001 Jun;23(6):789-801; discussion 771*
+[^4]: *Woodard TL, Burghen GA, Kitabchi AE, Wilimas JA., Glucose intolerance and insulin resistance in aplastic anemia treated with oxymetholone., J Clin Endocrinol Metab 1981 Nov;53(5):905-8.*
