@@ -15,17 +15,17 @@ revision_date: 1483922774
 
 **Anabolic/Androgenic Ratio (Range):** 322-630/24
 
-Oxandrolone was designed as an extremely mild anabolic, one that could be safely used as a growth stimulant in children. The compound will not actually aromatize and the anabolic effect of oxandrolone has been shown to promote linear growth. It was also once prescribed for the treatment of osteoporosis in women, something that again demonstrates how truly mild it is. However, for the most part it is now manufactured for the purpose of treating HIV/AIDS related wasting syndrome^1 . The expediting of wound healing, particularly the treatment of burns, is another use but is far more rare^2 .
+Oxandrolone was designed as an extremely mild anabolic, one that could be safely used as a growth stimulant in children. The compound will not actually aromatize and the anabolic effect of oxandrolone has been shown to promote linear growth. It was also once prescribed for the treatment of osteoporosis in women, something that again demonstrates how truly mild it is. However, for the most part it is now manufactured for the purpose of treating HIV/AIDS related wasting syndrome[^1]. The expediting of wound healing, particularly the treatment of burns, is another use but is far more rare[^2].
 
 For bodybuilders and strength athletes, the mild nature of oxandrolone is a definite draw to the compound. The lack of aromatization of the compound makes it ideal for cutting cycles as there is little bloat to deal with. Oxandrolone does not reduce body fat itself, but can play a major role in the maintenance of lean mass while dieting. Strength increases are also common and mixed with less than dramatic weight gains, the compound is very beneficial to athletes participating in sports that have weight divisions or where extra weight can be a hindrance.
 
 ## Use/Dosing
 
-Similar to nearly all oral anabolic steroids oxandrolone's half-life is quite short with frequent doses of the drug being needed to be taken to ensure that blood levels remain fairly constant. Oxandrolone is relatively quick to be metabolized by the body with concentrations of the drug falling rapidly after ten to eighteen hours after administration^3 . This would indicate that at least two doses should be taken per day so that blood levels of the compound remain stable and that no major flucuations occur.
+Similar to nearly all oral anabolic steroids oxandrolone's half-life is quite short with frequent doses of the drug being needed to be taken to ensure that blood levels remain fairly constant. Oxandrolone is relatively quick to be metabolized by the body with concentrations of the drug falling rapidly after ten to eighteen hours after administration[^3] . This would indicate that at least two doses should be taken per day so that blood levels of the compound remain stable and that no major flucuations occur.
 
 The majority of first time male users of oxandrolone tend to take doses ranging from 40mg to 80mg per day, as reported anecdotally. Experienced users have reportedly used doses up to 150mg per day or more. As is the case with most anabolic steroids, as one increases the doses one also increases the chances of developing negative side effects.
 
-Due to the relatively mild nature of the drug, oxandrolone is also a favorite of women. Doses as low as 5mg per day have reportedly produced dramatic muscle growth and hardness^1 . However as with most compounds doses far larger have also been used with varying degrees of success. 
+Due to the relatively mild nature of the drug, oxandrolone is also a favorite of women. Doses as low as 5mg per day have reportedly produced dramatic muscle growth and hardness[^1]. However as with most compounds doses far larger have also been used with varying degrees of success. 
 
 As discussed later, due to the unique nature of oxandrolone and it's relatively mild nature in terms of hepatotoxicity, this compound can be run far longer than other 17 alpha alkylated oral steroids. Cycles of the compound lasting ten to twelve weeks are not uncommon, with some users extending their cycles of the drug further. Of course, risks still remain. They are however less substantial than if a user was administering a more toxic compound.
 
@@ -37,7 +37,7 @@ If used without stacking it with testosterone, oxandrolone can lead to a loss of
 
 Liver enzymes will likely rise while a user is taking this compound, however the actual damage that occurs to the liver is very minor to non-existent. As noted by William Llewellyn in Anabolics 2004, "One study comparing the effects of oxandrolone to other agents including as methyltestosterone, norethandrolone, fluoxymesterone and methAndriol clearly supports this notion. Here it was demonstrated that oxandrolone causes the lowest sulfobromophthalein (BSP; a marker of liver stress) retention among all the alkylated orals tested. 20mg of oxandrolone in fact produced 72% less BSP retention than an equal dosage of fluoxyrnesterone, which is a considerable difference being that they possess the same liver-toxic alteration". 
 
-This would seem to indicate, as stated earlier, that oxandrolone can be run safely for longer periods of time than most other 17 alpha alkylated oral steroids. However, liver damage is still a possibility and precautions should be taken. Also, Oxandrolone has been shown to have a negative effect on users' blood lipid profiles, another indication that long terms use of the compound should be avoided^4 . 
+This would seem to indicate, as stated earlier, that oxandrolone can be run safely for longer periods of time than most other 17 alpha alkylated oral steroids. However, liver damage is still a possibility and precautions should be taken. Also, Oxandrolone has been shown to have a negative effect on users' blood lipid profiles, another indication that long terms use of the compound should be avoided[^4]. 
 
 ## Bridging with Anavar: Is it possible?
 
@@ -53,7 +53,7 @@ It is for this reason that running Oxandrolone as an attempt to "bridge" between
 
 ## References
 
-1. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition, pp.76-8*
-2. *Demling RH, Orgill DP., The anticatabolic and wound healing effects of the testosterone analog oxandrolone after severe burn injury., J Crit Care 2000 Mar;15(1):12-7*
-3. *Short-term oxandrolone administration stimulated net protein synthesis in young men. Sheffeild-Moore et al. J Clin Endocrinol Metab 84(8) 2705-11 (1999)*
-4. *Effects of Oxandrolone on Plasma Lipoproteins and the Intravenous Fat Tolerance in Man. Atherosclerosis 19: 337-46, 1974*
+[^1]: *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition, pp.76-8*
+[^2]: *Demling RH, Orgill DP., The anticatabolic and wound healing effects of the testosterone analog oxandrolone after severe burn injury., J Crit Care 2000 Mar;15(1):12-7*
+[^3]: *Short-term oxandrolone administration stimulated net protein synthesis in young men. Sheffeild-Moore et al. J Clin Endocrinol Metab 84(8) 2705-11 (1999)*
+[^4]: *Effects of Oxandrolone on Plasma Lipoproteins and the Intravenous Fat Tolerance in Man. Atherosclerosis 19: 337-46, 1974*
