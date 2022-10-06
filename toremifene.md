@@ -3,7 +3,7 @@ revision_id: 3c8f4aaa-47e4-11e4-8daa-12313b0b34f8
 revision_date: 1412000632
 ---
 
-#Toremifene citrate
+# Toremifene citrate
 
 **Drug Class:** Selective Estrogen Receptor Modulator  
 **Active Life:** 5-7 days
@@ -18,13 +18,13 @@ Despite the lack of human-based research available, in terms of its use in stero
 
 The second, and possibly more beneficial, aspect of toremifene citrate for steroid users is its ability to increase the production of luteinizing hormone and follicle stimulating hormone, and therefore increasing testosterone. This ability is why it is often used by steroid users during their post-cycle therapy. Toremifene citrate would accomplish this by blocking the negative feedback inhibition caused by estrogen at the hypothalamus and pituitary, and this in turn will help to increase the production of these hormones. Currently there is no available research that directly links toremifene citrate to being able to raise testosterone levels in male users, however due to the nearly identical mechanisms that both tamoxifen and toremifene citrate use and the reactions that they produce in the body, it would be easy to extrapolate that both drugs should have similar effects in this respect as well. Anecdotally users have reported good results with toremifene citrate and say that they are at least comparable that those of tamoxifen citrate.
 
-##Use/Dosing
+## Use/Dosing
 
 Toremifene citrate is interchangeable with tamoxifen citrate (Nolvadex) while on cycle or in post-cycle therapy.  20mg of tamoxifen citrate = 60mg of toremifene citrate^3 .  From this it can be extrapolated that for treatment and/or prevention of gynocomastia sixty milligrams should be sufficient for treatment. The recommended dosage for breast cancer treatment is one 60mg tablet administered once per day.  During steroid treatment athletes and bodybuilders may use 30mg to 60mg per day^8  .  
 
 For use during post-cycle therapy users have anecdotally indicated that doses ranging between 60 and 120 mgs per day are average. Most users have reported when using Toremifene citrate for their post-cycle therapy they will administer the drug for a minimum of three weeks. A maximum length has not necessarily been established due to the few side effects associated with the compound. In this case, this compound can be run for as long as wanted with little to no concern being needed to be paid to potential side effects. See the below section for more details.
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Toremifene citrate appears to be well tolerated, with a low incidence of serious side effects.  In clinical trials, common side effects associated with its use included hot flashes (35%), sweating (20%), elevated liver enzymes (19%), nausea (14%), vaginal discharge (13%), dizziness (95%), edema (5%), vomiting (4%), and vaginal bleeding (2%).  Other observed rare adverse effects that may or may not be linked to to toremifene citrate administration include low white blood cell and platelet counts, skin discoloration or dermatitis, constipation, difficulty breathing, partial motor paralysis, tremor, vertigo, itching, anorexia, visual disturbances, loss of strength, hair loss, depression, jaundice, and rigors (stiffening of the muscles).  Antiestrogens may harm the developing fetus and should never be used during pregnancy^8  .  
 
@@ -32,12 +32,12 @@ In terms of the safety of toremifene citrate, there is some evidence that sugges
 
 There is no toxicity issues directly related to the use of toremifene citrate^2,7  . Any issues arising in this area were seemingly caused by the hormonal effects of the drug, rather then the properties of the drug itself. As well, most of these complications were connected to the disease, namely breast cancer, that the drug was being administered to treat. For the purposes of anabolic steroid users, toremifene citrate poses no potential toxicity issues.
 
-##Related Posts
+## Related Posts
 
 [Torem Awareness](/r/steroids/comments/2dd7ch/torem_awareness/)
 [Torem Superior SERM](/r/steroids/comments/2hsg7s/toremefine_superior_serm_in_terms_of_secondary/)
 
-##References
+##bReferences
 
 1.	*Saarto T, Blomqvist C, Ehnholm C, Taskinen MR, Elomaa I. Antiatherogenic effects of adjuvant antiestrogens: a randomized trial comparing the effects of tamoxifen and toremifene on plasma lipid levels in postmenopausal women with node-positive breast cancer. J Clin Oncol. 1996 Feb;14(2):429-33.*
 2.	*Kusama M, Miyauchi K, Aoyama H, Sano M, Kimura M, Mitsuyama S, Komaki K, Doihara H. Effects of toremifene (TOR) and tamoxifen (TAM) on serum lipids in postmenopausal patients with breast cancer. Breast Cancer Res Treat. 2004 Nov;88(1):1-8.*
