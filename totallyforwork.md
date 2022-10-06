@@ -3,9 +3,9 @@ revision_id: dbdff674-f531-11e2-b902-12313d1940ac
 revision_date: 1374760526
 ---
 
-#First cycle log
+# First cycle log
 
-##Pre-cycle information
+## Pre-cycle information
 **Progress pics album:** http://imgur.com/a/oIKsO
 
  was skinny fat my whole life in a family of bodybuilders and dealt with Body Dismorphia today. I hope that I will be more critical of my progress pics than you will.
@@ -49,7 +49,7 @@ GHRP-2 + Mod GRF (1-29) 100 mcg each twice a day; PWO and before bed
 
 At this point, depending on the military's plan with me, I will either start PCT or continue. Can't be doing tren when I need to be running over 15 miles a week.
 
-##Cycle log
+## Cycle log
 **(June 13th)**
 Hi all!
 
