@@ -3,7 +3,7 @@ revision_id: bf52b524-3f65-11eb-bba4-0ee953bae003
 revision_date: 1608099179
 ---
 
-#Oral Turinabol (4-chlordehydromethyltestosterone)
+# Oral Turinabol (4-chlordehydromethyltestosterone)
 
 **Chemical Names:** 4-chloro-17b-hydroxy-17a-methyl-androst-1,4-dien-3-one;4-chloro-1-Dehydro-17a-methyltestosterone; 4-chloro-17a-methyl-17b-hydroxy-1,4-androstadien-3-one
 
@@ -21,7 +21,7 @@ Oral turinabol features a 4-chloro attachment that inhibits the aromatization of
 
 Oral turinabol also has an advantageous effect in terms of it's ability to reduce the binding of sex hormone-binding globulin to other anabolic steroids. Even at relatively low doses, it is quite effective at this function and could improve the action of any anabolics that a user may be running with the compound^2 . This would allow more testosterone to remain active in the body so that it can carry out it's anabolic functions. 
 
-##Use/Dosing
+## Use/Dosing
 
 For the most part, oral turinabol is best used for lean gains in muscle mass as well as maintaining muscle mass while dieting. Users should not expect to experience major gains in muscle mass, but rather improvement in muscle "quality". Due to the nature of the compound as well, strength gains will not be overly dramatic for a user either. However having said this it is a quality compound if used for "cutting" purposes and to add some lean body weight. 
 
@@ -33,7 +33,7 @@ Due to the active life of the compound users would only have to take two doses o
 
 As will be discussed below in the Risks/Side Effects section of this profile there are still risks with the use of this compound as it can cause toxicity of the liver like all 17 alpha alkylated compounds. For this reason it is recommended that users do not extend their cycles of the compound too far. However like oxandrolone (anavar) due to it's relatively mild nature compared to the other 17 alpha alkylated oral steroids it can be run longer than most. Despite this it is recommended that a user limit their cycle to about six to eight weeks to limit the stress placed on the liver. However like always many users will run it longer. If this is done for any lengthy period of time a user should have blood work done to ensure that no damage is occuring. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Oral turinabol is a relatively mild compound in terms of side effects. Due to the lack of androgenic activity, androgenic side effects are not an issue. However, there has been at least one case of testicular tumors, It should be noted though that in that one case study it was found that a case of testicular cancer is an otherwise healthy male may have been, at least in part, caused by his use of very high doses of oral turinabol over a five year period^3 . However, no other credible links between the drug and cancer have been made as of yet.
 
@@ -41,11 +41,11 @@ In women virilization may be a concern if higher doses are used. However even in
 
 Also like most oral steroids liver and cholesterol health should be a concern while running this compound. It can cause increased liver values, liver damage and reduction in a user's HDL cholesterol ("good" cholesterol) and increased LDL cholesterol ("bad"). This is why it is not a good idea to run this compound for an extended period of time.
 
-##Compound Experience Thread
+## Compound Experience Thread
 
 [Compound Experience Thread](https://www.reddit.com/r/steroids/comments/hpaq69/compounds_turinabol_aka_tbol/)
 
-##References
+## References
 
 1. *Kaufmann G, Schumann G, Horhold C. Influence of 1-double bond and 11 beta-hydroxy group on stereospecific microbial reductions of 4-en-3-oxo-steroids. J Steroid Biochem. 1986 Oct;25(4):561-6.*
 2. *Schumann W. The pharmacokinetics of Oral-Turinabol in humans. Pharmazie. 1991 Sep;46(9):650-4*
