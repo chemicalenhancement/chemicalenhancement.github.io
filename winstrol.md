@@ -3,7 +3,7 @@ revision_id: 10644d7e-cd6c-11e3-8404-12313b0c96a9
 revision_date: 1398534976
 ---
 
-#Winstrol (Stanozolol)
+# Winstrol (Stanozolol)
 
 **Chemical structure:** 17 alpha-methyl-5alpha- androstano [3,2-c]pyrazol-17 beta-ol 
 
@@ -23,7 +23,7 @@ Anecdotally a majority of users will report that their joints and ligaments have
 
 Like most anabolic steroids oral administration of stanozolol has a rather dramatic effect on levels of sex hormone-binding globulin in the body. In the case of stanozolol however, it can be quite potent relatively speaking. It is because plasma binding proteins, like sex hormone-binding globulin, act to temporarily prevent steroid hormones from exerting their intended activities. By limiting this, it results in a greater percentage of free steroid hormone circulating in the body. This may actually result in a mechanism whereby stanozolol could help to increase the potency of a concurrently used steroid^5 . Whether this benefit would be worth actually running stanozolol in a cycle that would otherwise not include it would be something that the user would have to experiment with him or herself as there is simply not enough evidence to make a definitive conclusion one way or the other.
 
-##Use/Dosing
+## Use/Dosing
 
 Stanozolol is available as both an oral steroid as well as an injectable. While there are no differences in the compound itself, there are several advantages and disadvantages to using each compound. First, in an animal study, it was demonstrated that the injectable version of the compound was far superior to the oral administration of the drug for nitrogen retention^2 . This of course means that it is better able to help preserve or build lean-body mass, something obviously one who is using the compound would be seeking. 
 
@@ -37,7 +37,7 @@ Stanozolol is a drug that is fairly popular with women as well. This is primaril
 
 Due to the toxicity issues related to stanozolol it is most often recommended that users limit their cycles of the compound to six weeks or less. However many users have exceed this limit while running high doses and have reported little to no complications. If an individual does decide to run stanozolol for an extended period of time he or she should monitor their liver values via blood tests to ensure that no permanent damage occurs.
 
-##Side Effects/Risks
+## Side Effects/Risks
 
 The oral form of stanozolol is a 17-alpha-alkylated substrate and due to this liver toxicity should be a concern to those who take this compound. Elevated liver values will undoubtedly occur while running this drug. Even with the injectable version, liver damage can occur so precautions need to be taken.
 
@@ -47,7 +47,7 @@ Androgen related side effects such as acne, prostate enlargement and an aggravat
 
 As mentioned previously estrogenic side effects are not a factor with this compound as it does not aromatize. Virilizing side effects in women are much less likely to occur than with most other anabolic compounds, but there is still a risk that these may develop, especially with larger doses. As always these include deepening of the voice, body/facial hair growth, and enlargement of the clitoris, among others.
 
-##References
+## References
 
 1. *Ellis AJ, Cawston TE, Mackie EJ., The differential effects of stanozolol on human skin and synovial fibroblasts in vitro: DNA synthesis and receptor binding., Agents Actions 1994 Mar;41(1-2):37-43*
 2. *Olson ME, Morck DW, Quinn KB. The effect of stanozolol on 15nitrogen retention in the dog. Can J Vet Res. 2000 Oct;64(4):246-8*
