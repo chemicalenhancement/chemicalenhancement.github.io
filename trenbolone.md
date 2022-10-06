@@ -3,7 +3,7 @@ revision_id: 40acb070-9a55-11ec-be98-624f115bb0c7
 revision_date: 1646245148
 ---
 
-#Trenbolone Acetate
+# Trenbolone Acetate
 
 **Chemical Formula:** C20 H24 O3
 
@@ -33,7 +33,7 @@ Due to the fact that trenbolone is manufactured for the sole purpose of use in a
 Despite this caution, trenbolone does have tremendous results with commercially raised livestock and these results have led countless strength athletes and bodybuilders to experiment with the compound. Most often it is the concept of "feed efficiency" that is cited when people expound the virtues of trenbolone. Basically the concept refers to the ratio of feed that results in meat from the animal that can be sold commercially. Trenbolone has been shown in countless studies and real world use to add muscle to livestock without any changes in diet. This improved feed efficiency is a result of trenbolone ability to have the body more efficiently process and 
 use the feed given an animal, as well as utilizing the vitamins and minerals ingested at a greater rate. This is exactly what a user would hope for in a compound and anecdotally users of trenbolone have reported that the compound does indeed deliver on its potential, providing the user with dramatic gains.
 
-##Use/Dosing
+## Use/Dosing
 
 Like other steroids that are extremely androgenic, trenbolone offers several advantages for a user. First, due to the androgenic nature of the drug a user can expect a large increase in their strength. This makes the compound extremely popular with strength athletes. However bodybuilders looking to reduce their body fat also find that trenbolone can help them achieve their goals as well. This ability to help in the reduction of body fat stems from the drug's affinity for binding to the androgen receptors. These androgen receptors are located in, among other places, fat cells. When these androgens bind to the androgen receptors they can affect these cells and increase fat-burning. When this is combined with the fact that trenbolone has a cortisol reducing effect along with the ability to bind to the glucocorticoid receptor, it can be understood why this compound is so highly touted for dieting and the reduction of body fat^4 .
 
@@ -43,7 +43,7 @@ In terms of cycle length, due to the liver toxicity associated with trenbolone m
 
 Dosages for users are highly dependent on how they react individually to the compound. Many users anecdotally report that side effects are minimal if doses are kept at certain levels but can turn rather harsh if doses are increased even slightly. For this reason it is important that inexperienced users start with low doses of the compound to judge their reaction to it. 50mgs per day is often cited as the standard starting point for most. However doses even lower than this, such as 75mgs every other day, are used by some with good results.
 
-##Risks/Side Effects
+## Risks/Side Effects
 
  Trenbolone is by far the most harsh and harmful anabolic in widespread use and should be kept at a minimum, if at all. The compound is [neurotoxic](https://pubmed.ncbi.nlm.nih.gov/25461682/), cardiotoxic, hepatotoxic, and nephrotoxic. In the brain, it [precipitates amyloid plaque formation](https://www.osti.gov/biblio/22439943-trenbolone-anabolicandrogenic-steroid-well-environmental-hormone-contributes-neurodegeneration), which is a precursor to early-onset dementia and Alzheimer's disease. See this [thread](https://www.reddit.com/r/steroids/wiki/sides/trenbolone_decreased_respitory_capacity) demonstrating respiratory capacity. 
 
@@ -61,9 +61,9 @@ Kidney and liver function is negatively affected by trenbolone use as well. It i
 
 Overdoing Tren can cause [cholestasis](http://en.wikipedia.org/wiki/Cholestasis) which is indicated by high bilirubin levels, so it is a good idea to include total bilirubin along with your ALT, AST, GGT markers for liver health^6 .
 
-##Notes
+## Notes
 
-###Tren, Estradiol and Labcorp, Roche ECLIA blood work, Bilirubin bloodwork
+### Tren, Estradiol and Labcorp, Roche ECLIA blood work, Bilirubin bloodwork
 
 The Roche ECLIA assay starts by introducing antibodies that are designed to bind specifically to the what’s being tested for (in this case estradiol). The antigen also has a ruthenium molecule attached to it that can emit light with electrical current (through electron excitation). The amount of light that is emitted later reveals the concentration of the compound being tested for such that the more light detected, the lower the concentration. But here’s where tren causes problems…  
 
@@ -82,7 +82,7 @@ Finally, a magnetic plate pulls all of the compounds that matter out of the solu
 If you need to know your *true* estradiol levels while running trenbolone, you should request the estradiol sensitive test from your preferred bloodwork provider..
 
 
-##References
+## References
 
 1.*Thompson SH, Boxhorn LK, Kong WY, Allen RE, Trenbolone alters the responsiveness of skeletal muscle satellite cells to fibroblast growth factor and insulin-like growth factor I, Endocrinology 1989 May, 124 (5) : 2110-7*  
 2. *Ojasoo T, Raynaud JP. Unique steroid congeners for receptor studies. Cancer Research 38 (1978) 4186-98*  
