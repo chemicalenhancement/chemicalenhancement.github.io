@@ -3,9 +3,9 @@ revision_id: 7cf8c1ce-99db-11ec-9fe7-eef21c32a7d7
 revision_date: 1646192851
 ---
 
-###Books and Publications
+### Books and Publications
 
-##UNDER REVISION;
+## UNDER REVISION;
 Links are all old and we are working to get a new list of relevant information. (as of 3/1/22)
 
 Book | Topic  |  
