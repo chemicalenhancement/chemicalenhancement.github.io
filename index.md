@@ -135,6 +135,7 @@ The following material is presented on topics related to /r/steroids for educati
 |**Test**|Testosterone||
 |**Tren**|Trenbolone||
 |**TRT**|Testosterone Replacement Therapy|Using exogenous Test to mimic natural production levels|
+|**UGL**|Underground Lab||
 |**Var**|Anavar||
 |**VG**|Ventro Glute|A very common muscle in which to inject|
 |**Winny**|Winstrol||
